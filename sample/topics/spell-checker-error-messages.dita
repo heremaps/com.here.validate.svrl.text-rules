@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="spell-checker-error-messages">
+	<title>Spell-Checker Error Messages</title>
+	<body>
+		<p>
+			The following table lists the spell-checker error messages by message ID.
+		</p>
+		<table frame="topbot" rowsep="1" colsep="1" id="table-validator-error-messages">
+			<title>Validator Error Messages</title>
+			<tgroup cols="3">
+				<colspec colname="c1" colnum="1" colwidth="1.0*"/>
+				<colspec colname="c2" colnum="2" colwidth="2.0*"/>
+				<colspec colname="c3" colnum="3" colwidth="4.0*"/>
+				<thead>
+					<row>
+						<entry>Message ID</entry>
+						<entry>Message</entry>
+						<entry>Corrective Action/Comment</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>a-followed-by-vowel</entry>
+						<entry>In the following text, change 'a' to 'an' where appropriate:</entry>
+						<entry>
+							<p>
+								In English, the general guideline is that the indefinite article in front of count nouns that begin with a vowel sound should be 'an'. The rule also applies to acronyms.
+								For a good general discussion of the guidelines,
+								see <xref format="html" href="https://owl.english.purdue.edu/owl/resource/540/01/" scope="external"></xref>.
+							</p>
+						</entry>
+					</row>
+					<row>
+						<entry>an-followed-by-consonant</entry>
+						<entry>In the following text, change 'an' to 'a' where appropriate:</entry>
+						<entry>
+							<p>
+								In English, the general guideline is that the indefinite article in front of count nouns that begin with a consonant sound should be 'a'. The rule also applies to acronyms.
+								For a good general discussion of the guidelines,
+								see <xref format="html" href="https://owl.english.purdue.edu/owl/resource/540/01/" scope="external"></xref>.
+							</p>
+						</entry>
+					</row>
+
+
+					<row>
+						<entry>blacklisted-word</entry>
+						<entry>The word '{word}' is not allowed in the following text:</entry>
+						<entry>
+							<p>
+								The indicated word has been banned from use. Rewrite the phrase using alternatives.
+							</p>
+						</entry>
+					</row>
+					<row>
+						<entry>duplicated-punctuation</entry>
+						<entry>The punctuation mark '{char}' is duplicated in the following text:</entry>
+						<entry>
+							<p>
+								The indicated punctuation mark is duplicated. Delete the duplicated punctuation mark.
+							</p>
+						</entry>
+					</row>
+					<row>
+						<entry>duplicated-words</entry>
+						<entry>The word '{word}' is duplicated in the following text:</entry>
+						<entry>
+							<p>
+								The indicated word is duplicated. Delete the duplicated word.
+							</p>
+						</entry>
+					</row>
+					<row>
+						<entry>incorrect-captialization</entry>
+						<entry>The word '{word}' is capitalized incorrectly in the following text:</entry>
+						<entry>
+							<p>
+								The indicated word is not capitalized correctly. Fix the capitalization.
+							</p>
+						</entry>
+					</row>
+					<row>
+						<entry>incorrect-grammar</entry>
+						<entry>The phrase '{phrase}' is grammatically incorrect in the following text:</entry>
+						<entry>
+							<p>
+								The indicated phrase does not make sense. Rewrite the phrase using the correct grammar.
+							</p>
+						</entry>
+					</row>
+					<row>
+						<entry>incorrect-punctuation</entry>
+						<entry>The punctuation mark '{char}' has been used incorrectly in the following text:</entry>
+						<entry>
+							<p>
+								The indicated punctuation mark is non-standard. Replace with a corrected punctuation mark.
+							</p>
+						</entry>
+					</row>
+					<row>
+						<entry>incorrect-spelling</entry>
+						<entry>The word '{word}' is a spelling mistake in the following text:</entry>
+						<entry>
+							<p>
+								The indicated word is not spelled correctly. Fix the spelling.
+							</p>
+						</entry>
+					</row>
+					<row>
+						<entry>latin-abbreviation</entry>
+						<entry>
+							<!--ignore-rule latin-abbreviation -->
+							The accronym i.e or e.g has been used in the following text:</entry>
+						<entry>
+							<p>
+								Latin accronyms are difficult to understand. Consider rewriting the phrase using alternatives,
+								such as "for example"
+							</p>
+						</entry>
+					</row>
+					<row>
+						<entry>sentence-capitalization</entry>
+						<entry>The run on sentence the following text does not start with a capital letter</entry>
+						<entry>
+							<p>
+								The indicated sentence is not punctuated correctly. Fix the punctuation.
+							</p>
+						</entry>
+					</row>
+					<row>
+						<entry>split-inifinitive</entry>
+						<entry>The phrase '{words}' is written using a split-infinitive in the following text:</entry>
+						<entry>
+							<p>
+								The indicated sentence includes a split-infinitive, which is considered poor grammatical style -
+								consider rephrasing the sentence.
+							</p>
+						</entry>
+					</row>
+					<row>
+						<entry>where-not-were</entry>
+						<entry>The word 'were' has been used to start a subordinate clause in the following text:</entry>
+						<entry>
+							<p>
+								The indicated sentence does not make sense. Rewrite the phrase using the correct grammar.
+							</p>
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+	</body>
+</topic>

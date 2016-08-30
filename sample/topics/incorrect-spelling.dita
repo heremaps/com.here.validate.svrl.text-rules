@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="incorrect-spelling">
+  <title>incorrect-spelling</title>
+  <body>
+    <p>
+     Incorrect spellings (as found in the blacklisting dictionary) should not appear in the running text
+    </p>
+     <section id="good">
+      <title>Good text</title>
+      <p>
+         The abandoned (one n) building is an aberration (double r).
+      </p>
+      <p>
+         According the style guide, "filename" should be written as a single word.
+      </p>
+    </section>
+    <section id="bad">
+      <title>Bad text</title>
+      <p>
+         The abandonned building is an aberation.
+      </p>
+       <p>
+         According the style guide, "file name" is incorrect.
+      </p>
+    </section>
+  </body>
+</topic>

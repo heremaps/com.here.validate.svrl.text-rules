@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="split-infinitive">
+  <title>split-infinitive</title>
+  <body>
+    <p>
+     In general, split infinitives should be removed from the running text. However changes should not
+     be made if they disrupt the flow or rhythm of the text.
+    </p>
+     <section id="good">
+      <title>Good text</title>
+      <p>
+       We will need to go boldly, forth into the wild frontier.
+      </p>
+    </section>
+    <section id="bad">
+      <title>Bad text</title>
+      <p>
+        We will need to boldly go forth into the wild frontier.
+      </p>
+    </section>
+  </body>
+</topic>

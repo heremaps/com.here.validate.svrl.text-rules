@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="validation">
+	<title>Introduction</title>
+	<body>
+			<p>
+				This document is used to test spell-checking and grammar rules with both  positive and negative test cases.
+			</p>
+      <p>
+        A complete list of rules covered by the DITA validator can be found in the <xref href="./spell-checker-error-messages.dita" format="dita">error table</xref>.
+        The following <codeph>&lt;chapters&gt;</codeph> contain a set of test DITA <codeph>&lt;topics&gt;</codeph>. Each  demonstrating a broken validation rule.
+      </p>
+      <p>
+        The <codeph>&lt;topic&gt;</codeph> files are sorted as follows:
+      </p>
+      <ul>
+        <li> The base validation DITA-OT plugin (<codeph>com.here.validate.svrl</codeph>) &#x2013; this  <codeph>&lt;chapter&gt;</codeph> contains a two common textual validation rules.
+
+        </li>
+        <li> The spell-checker DITA-OT plugin (<codeph>com.here.validate.svrl.spell-checker</codeph>) &#x2013; This  <codeph>&lt;chapter&gt;</codeph> contains a set of English language spelling and grammar rules.
+        </li>
+      </ul>
+	</body>
+</topic>

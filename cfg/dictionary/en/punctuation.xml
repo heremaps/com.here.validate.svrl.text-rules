@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	This file is part of the Spelling and Grammar Checker project.
+	See the accompanying LICENSE file for applicable licenses.
+-->
+<entries>
+	<entry>
+		<mistake>«</mistake>
+		<corrected>"</corrected>
+	</entry>
+	<entry>
+		<mistake>»</mistake>
+		<corrected>"</corrected>
+	</entry>
+	<entry>
+		<mistake>‘</mistake>
+		<corrected>'</corrected>
+	</entry>
+	<entry>
+		<mistake>’</mistake>
+		<corrected>'</corrected>
+	</entry>
+	<entry>
+		<mistake>‚</mistake>
+		<corrected>'</corrected>
+	</entry>
+	<entry>
+		<mistake>‛</mistake>
+		<corrected>'</corrected>
+	</entry>
+	<entry>
+		<mistake>“</mistake>
+		<corrected>"</corrected>
+	</entry>
+	<entry>
+		<mistake>”</mistake>
+		<corrected>"</corrected>
+	</entry>
+	<entry>
+		<mistake>„</mistake>
+		<corrected>"</corrected>
+	</entry>
+	<entry>
+		<mistake>‟</mistake>
+		<corrected>"</corrected>
+	</entry>
+	<entry>
+		<mistake>‹</mistake>
+		<corrected>"</corrected>
+	</entry>
+	<entry>
+		<mistake>›</mistake>
+		<corrected>"</corrected>
+	</entry>
+</entries>

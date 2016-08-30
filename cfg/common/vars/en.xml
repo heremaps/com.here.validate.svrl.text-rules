@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	This file is part of the Spelling and Grammar Checker project.
+	See the accompanying LICENSE file for applicable licenses.
+-->
+<vars>
+	<variable id="a-followed-by-vowel">In the following text, change 'a' to 'an' where appropriate:&#xA;&#xA;PARAM1.</variable>
+	<variable id="an-followed-by-consonant">In the following text, change 'an' to 'a' where appropriate:&#xA;&#xA;PARAM1.</variable>
+	<variable id="duplicated-words">The word 'PARAM1' is duplicated ('PARAM2') in the following text: &#xA;&#xA;PARAM3.</variable>
+	<variable id="duplicated-punctuation">The following text contains a duplicated punctuation mark. &#xA;&#xA;PARAM1.</variable>
+	<variable id="incorrect-grammar">The phrase 'PARAM1' is written incorrectly ('PARAM2') in the following text: &#xA;&#xA;PARAM3.</variable>
+	<variable id="incorrect-punctuation">The character PARAM1 is written incorrectly (PARAM2) in the following text: &#xA;&#xA;PARAM3.</variable>
+	<variable id="incorrect-spelling">The word 'PARAM1' is spelt incorrectly ('PARAM2') in the following text: &#xA;&#xA;PARAM3.</variable>
+	<variable id="latin-abbreviation">This &lt;@NAME&gt; element contains a latinate abbreviation (i.e, e.g). Consider removing it. &#xA;&#xA;PARAM1</variable>
+	<variable id="sentence-capitalization">This &lt;@NAME&gt; element contains a sentence that does not start with a capital letter. &#xA;&#xA;PARAM1</variable>
+	 <variable id="split-infinitive">This &lt;@NAME&gt; element contains a sentence with a split infinitive. You may wish to correct this. &#xA;&#xA;PARAM1</variable>
+	<variable id="where-not-were">This &lt;@NAME&gt; element contains a sentence with a subordinate clause starting with the word 'were'. You might want to correct this to 'where'. &#xA;&#xA;PARAM1</variable>
+</vars>

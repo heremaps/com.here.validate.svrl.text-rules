@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	This file is part of the Spelling and Grammar Checker project.
+	See the accompanying LICENSE file for applicable licenses.
+
+	The list below has been modified and adapted from the Wikipedia:Lists of common misspellings
+
+		https://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings/Repetitions
+
+	Content from Wikipedia is available under Creative Commons and can be freely shared and adapted when attributed
+
+		https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+-->
+<entries>
+	<entry>
+		<mistake>a a</mistake>
+		<corrected>a</corrected>
+	</entry>
+	<entry>
+		<mistake>about about</mistake>
+		<corrected>about</corrected>
+	</entry>
+	<entry>
+		<mistake>above above</mistake>
+		<corrected>above</corrected>
+	</entry>
+	<entry>
+		<mistake>across across</mistake>
+		<corrected>across</corrected>
+	</entry>
+	<entry>
+		<mistake>after after</mistake>
+		<corrected>after</corrected>
+	</entry>
+	<entry>
+		<mistake>against against</mistake>
+		<corrected>against</corrected>
+	</entry>
+	<entry>
+		<mistake>along along</mistake>
+		<corrected>along</corrected>
+	</entry>
+	<entry>
+		<mistake>also also</mistake>
+		<corrected>also</corrected>
+	</entry>
+	<entry>
+		<mistake>an an</mistake>
+		<corrected>an, and an</corrected>
+	</entry>
+	<entry>
+		<mistake>and and</mistake>
+		<corrected>and, and an</corrected>
+	</entry>
+	<entry>
+		<mistake>any any</mistake>
+		<corrected>and any, any</corrected>
+	</entry>
+	<entry>
+		<mistake>are are</mistake>
+		<corrected>are</corrected>
+	</entry>
+	<entry>
+		<mistake>around around</mistake>
+		<corrected>around</corrected>
+	</entry>
+	<entry>
+		<mistake>as as</mistake>
+		<corrected>as, as a</corrected>
+	</entry>
+	<entry>
+		<mistake>at at</mistake>
+		<corrected>at, at a</corrected>
+	</entry>
+	<entry>
+		<mistake>back back</mistake>
+		<corrected>back</corrected>
+	</entry>
+	<entry>
+		<mistake>be be</mistake>
+		<corrected>be</corrected>
+	</entry>
+	<entry>
+		<mistake>became became</mistake>
+		<corrected>became</corrected>
+	</entry>
+	<entry>
+		<mistake>because because</mistake>
+		<corrected>because</corrected>
+	</entry>
+	<entry>
+		<mistake>become become</mistake>
+		<corrected>become</corrected>
+	</entry>
+	<entry>
+		<mistake>been been</mistake>
+		<corrected>been</corrected>
+	</entry>
+	<entry>
+		<mistake>before before</mistake>
+		<corrected>before</corrected>
+	</entry>
+	<entry>
+		<mistake>behind behind</mistake>
+		<corrected>behind</corrected>
+	</entry>
+	<entry>
+		<mistake>being being</mistake>
+		<corrected>being</corrected>
+	</entry>
+	<entry>
+		<mistake>below below</mistake>
+		<corrected>below</corrected>
+	</entry>
+	<entry>
+		<mistake>between between</mistake>
+		<corrected>between</corrected>
+	</entry>
+	<entry>
+		<mistake>both both</mistake>
+		<corrected>both</corrected>
+	</entry>
+	<entry>
+		<mistake>but but</mistake>
+		<corrected>but</corrected>
+	</entry>
+	<entry>
+		<mistake>by by</mistake>
+		<corrected>by</corrected>
+	</entry>
+	<entry>
+		<mistake>could could</mistake>
+		<corrected>could</corrected>
+	</entry>
+	<entry>
+		<mistake>during during</mistake>
+		<corrected>during</corrected>
+	</entry>
+	<entry>
+		<mistake>each each</mistake>
+		<corrected>each</corrected>
+	</entry>
+	<entry>
+		<mistake>every every</mistake>
+		<corrected>every</corrected>
+	</entry>
+	<entry>
+		<mistake>first first</mistake>
+		<corrected>first</corrected>
+	</entry>
+	<entry>
+		<mistake>for for</mistake>
+		<corrected>for</corrected>
+	</entry>
+	<entry>
+		<mistake>from from</mistake>
+		<corrected>from</corrected>
+	</entry>
+	<entry>
+		<mistake>has has</mistake>
+		<corrected>has, has had</corrected>
+	</entry>
+	<entry>
+		<mistake>have have</mistake>
+		<corrected>have</corrected>
+	</entry>
+	<entry>
+		<mistake>having having</mistake>
+		<corrected>having</corrected>
+	</entry>
+	<entry>
+		<mistake>he he</mistake>
+		<corrected>he</corrected>
+	</entry>
+	<entry>
+		<mistake>held held</mistake>
+		<corrected>held</corrected>
+	</entry>
+	<entry>
+		<mistake>her her</mistake>
+		<corrected>her</corrected>
+	</entry>
+	<entry>
+		<mistake>his his</mistake>
+		<corrected>his</corrected>
+	</entry>
+	<entry>
+		<mistake>if if</mistake>
+		<corrected>if</corrected>
+	</entry>
+	<entry>
+		<mistake> in in</mistake>
+		<corrected> in</corrected>
+	</entry>
+	<entry>
+		<mistake>include include</mistake>
+		<corrected>include</corrected>
+	</entry>
+	<entry>
+		<mistake>included included</mistake>
+		<corrected>included</corrected>
+	</entry>
+	<entry>
+		<mistake>including including</mistake>
+		<corrected>including</corrected>
+	</entry>
+	<entry>
+		<mistake>includes includes</mistake>
+		<corrected>includes</corrected>
+	</entry>
+	<entry>
+		<mistake>into into</mistake>
+		<corrected>into</corrected>
+	</entry>
+	<entry>
+		<mistake>is is</mistake>
+		<corrected>is</corrected>
+	</entry>
+	<entry>
+		<mistake>it it</mistake>
+		<corrected>it is</corrected>
+	</entry>
+	<entry>
+		<mistake>its its</mistake>
+		<corrected>its</corrected>
+	</entry>
+	<entry>
+		<mistake>last last</mistake>
+		<corrected>last</corrected>
+	</entry>
+	<entry>
+		<mistake>most most</mistake>
+		<corrected>most</corrected>
+	</entry>
+	<entry>
+		<mistake>of of</mistake>
+		<corrected>of, off of</corrected>
+	</entry>
+	<entry>
+		<mistake>on on</mistake>
+		<corrected>on</corrected>
+	</entry>
+	<entry>
+		<mistake>only only</mistake>
+		<corrected>only, only on</corrected>
+	</entry>
+	<entry>
+		<mistake>or or</mistake>
+		<corrected>or</corrected>
+	</entry>
+	<entry>
+		<mistake>over over</mistake>
+		<corrected>of over, over</corrected>
+	</entry>
+	<entry>
+		<mistake>part part</mistake>
+		<corrected>part</corrected>
+	</entry>
+	<entry>
+		<mistake>place place</mistake>
+		<corrected>place</corrected>
+	</entry>
+	<entry>
+		<mistake>played played</mistake>
+		<corrected>played</corrected>
+	</entry>
+	<entry>
+		<mistake>she she</mistake>
+		<corrected>she</corrected>
+	</entry>
+	<entry>
+		<mistake>should should</mistake>
+		<corrected>should</corrected>
+	</entry>
+	<entry>
+		<mistake>since since</mistake>
+		<corrected>since</corrected>
+	</entry>
+	<entry>
+		<mistake>some some</mistake>
+		<corrected>some</corrected>
+	</entry>
+	<entry>
+		<mistake>still still</mistake>
+		<corrected>still</corrected>
+	</entry>
+	<entry>
+		<mistake>such such</mistake>
+		<corrected>such</corrected>
+	</entry>
+	<entry>
+		<mistake>than than</mistake>
+		<corrected>than</corrected>
+	</entry>
+	<entry>
+		<mistake>that that</mistake>
+		<corrected>that</corrected>
+	</entry>
+	<entry>
+		<mistake>the the</mistake>
+		<corrected>the</corrected>
+	</entry>
+	<entry>
+		<mistake>their their</mistake>
+		<corrected>their</corrected>
+	</entry>
+	<entry>
+		<mistake>them them</mistake>
+		<corrected>them</corrected>
+	</entry>
+	<entry>
+		<mistake>then then</mistake>
+		<corrected>then</corrected>
+	</entry>
+	<entry>
+		<mistake>there there</mistake>
+		<corrected>there</corrected>
+	</entry>
+	<entry>
+		<mistake>these these</mistake>
+		<corrected>these</corrected>
+	</entry>
+	<entry>
+		<mistake>they they</mistake>
+		<corrected>they</corrected>
+	</entry>
+	<entry>
+		<mistake>this this</mistake>
+		<corrected>this</corrected>
+	</entry>
+	<entry>
+		<mistake>those those</mistake>
+		<corrected>those</corrected>
+	</entry>
+	<entry>
+		<mistake>through through</mistake>
+		<corrected>through</corrected>
+	</entry>
+	<entry>
+		<mistake> to to</mistake>
+		<corrected> to, to the</corrected>
+	</entry>
+	<entry>
+		<mistake>under under</mistake>
+		<corrected>under</corrected>
+	</entry>
+	<entry>
+		<mistake>until until</mistake>
+		<corrected>until</corrected>
+	</entry>
+	<entry>
+		<mistake>up to up to</mistake>
+		<corrected>up to</corrected>
+	</entry>
+	<entry>
+		<mistake>was was</mistake>
+		<corrected>was</corrected>
+	</entry>
+	<entry>
+		<mistake>we we</mistake>
+		<corrected>we</corrected>
+	</entry>
+	<entry>
+		<mistake>were were</mistake>
+		<corrected>were</corrected>
+	</entry>
+	<entry>
+		<mistake>when when</mistake>
+		<corrected>when</corrected>
+	</entry>
+	<entry>
+		<mistake>where where</mistake>
+		<corrected>where, where there</corrected>
+	</entry>
+	<entry>
+		<mistake>whether whether</mistake>
+		<corrected>whether</corrected>
+	</entry>
+	<entry>
+		<mistake>which which</mistake>
+		<corrected>which, with which</corrected>
+	</entry>
+	<entry>
+		<mistake>while while</mistake>
+		<corrected>while</corrected>
+	</entry>
+	<entry>
+		<mistake>who who</mistake>
+		<corrected>who</corrected>
+	</entry>
+	<entry>
+		<mistake>whom whom</mistake>
+		<corrected>whom</corrected>
+	</entry>
+	<entry>
+		<mistake>whose whose</mistake>
+		<corrected>whose</corrected>
+	</entry>
+	<entry>
+		<mistake>will will</mistake>
+		<corrected>will</corrected>
+	</entry>
+	<entry>
+		<mistake>with with</mistake>
+		<corrected>with, with which</corrected>
+	</entry>
+	<entry>
+		<mistake>would would</mistake>
+		<corrected>would</corrected>
+	</entry>
+</entries>

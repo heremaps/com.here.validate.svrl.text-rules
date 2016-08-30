@@ -1,0 +1,7829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	This file is part of the Spelling and Grammar Checker project.
+	See the accompanying LICENSE file for applicable licenses.
+
+	The list below has been modified and adapted from the Wikipedia:Lists of common misspellings
+
+		https://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings/Grammar_and_miscellaneous
+
+	Content from Wikipedia is available under Creative Commons and can be freely shared and adapted when attributed
+
+		https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+
+-->
+<entries>
+	<entry>
+		<mistake>a 100</mistake>
+		<corrected>a hundred, one hundred</corrected>
+	</entry>
+	<entry>
+		<mistake>a 1000</mistake>
+		<corrected>a thousand, one thousand</corrected>
+	</entry>
+	<entry>
+		<mistake>a 11</mistake>
+		<corrected>an 11</corrected>
+	</entry>
+	<entry>
+		<mistake>a 11th</mistake>
+		<corrected>an 11th</corrected>
+	</entry>
+	<entry>
+		<mistake>a 18</mistake>
+		<corrected>an 18</corrected>
+	</entry>
+	<entry>
+		<mistake>a 1800</mistake>
+		<corrected>an 1800</corrected>
+	</entry>
+	<entry>
+		<mistake>a 18th</mistake>
+		<corrected>an 18th</corrected>
+	</entry>
+	<entry>
+		<mistake>a 18th century</mistake>
+		<corrected>an 18th-century</corrected>
+	</entry>
+	<entry>
+		<mistake>a 8</mistake>
+		<corrected>an 8</corrected>
+	</entry>
+	<entry>
+		<mistake>a 80</mistake>
+		<corrected>an 80</corrected>
+	</entry>
+	<entry>
+		<mistake>a 800</mistake>
+		<corrected>an 800</corrected>
+	</entry>
+	<entry>
+		<mistake>a 8000</mistake>
+		<corrected>an 8000</corrected>
+	</entry>
+	<entry>
+		<mistake>a 80th</mistake>
+		<corrected>an 80th</corrected>
+	</entry>
+	<entry>
+		<mistake>a 81</mistake>
+		<corrected>an 81</corrected>
+	</entry>
+	<entry>
+		<mistake>a 82</mistake>
+		<corrected>an 82</corrected>
+	</entry>
+	<entry>
+		<mistake>a 83</mistake>
+		<corrected>an 83</corrected>
+	</entry>
+	<entry>
+		<mistake>a 88</mistake>
+		<corrected>an 88</corrected>
+	</entry>
+	<entry>
+		<mistake>a 89</mistake>
+		<corrected>an 89</corrected>
+	</entry>
+	<entry>
+		<mistake>a 8th</mistake>
+		<corrected>an 8th</corrected>
+	</entry>
+	<entry>
+		<mistake>a abbreviation</mistake>
+		<corrected>an abbreviation</corrected>
+	</entry>
+	<entry>
+		<mistake>a ABC</mistake>
+		<corrected>an ABC</corrected>
+	</entry>
+	<entry>
+		<mistake>a absolute</mistake>
+		<corrected>an absolute</corrected>
+	</entry>
+	<entry>
+		<mistake>a abstract</mistake>
+		<corrected>an abstract</corrected>
+	</entry>
+	<entry>
+		<mistake>a accident</mistake>
+		<corrected>an accident</corrected>
+	</entry>
+	<entry>
+		<mistake>a accidental</mistake>
+		<corrected>an accidental</corrected>
+	</entry>
+	<entry>
+		<mistake>a account</mistake>
+		<corrected>an account</corrected>
+	</entry>
+	<entry>
+		<mistake>a acoustic</mistake>
+		<corrected>an acoustic</corrected>
+	</entry>
+	<entry>
+		<mistake>a acronym</mistake>
+		<corrected>an acronym</corrected>
+	</entry>
+	<entry>
+		<mistake>a acting</mistake>
+		<corrected>an acting</corrected>
+	</entry>
+	<entry>
+		<mistake>a action</mistake>
+		<corrected>an action</corrected>
+	</entry>
+	<entry>
+		<mistake>a active</mistake>
+		<corrected>an active</corrected>
+	</entry>
+	<entry>
+		<mistake>a actor</mistake>
+		<corrected>an actor</corrected>
+	</entry>
+	<entry>
+		<mistake>a actress</mistake>
+		<corrected>an actress</corrected>
+	</entry>
+	<entry>
+		<mistake>a actual</mistake>
+		<corrected>an actual</corrected>
+	</entry>
+	<entry>
+		<mistake>a additional</mistake>
+		<corrected>an additional</corrected>
+	</entry>
+	<entry>
+		<mistake>a advanced</mistake>
+		<corrected>an advanced</corrected>
+	</entry>
+	<entry>
+		<mistake>a affair</mistake>
+		<corrected>an affair</corrected>
+	</entry>
+	<entry>
+		<mistake>a affiliate</mistake>
+		<corrected>an affiliate</corrected>
+	</entry>
+	<entry>
+		<mistake>a African</mistake>
+		<corrected>an African</corrected>
+	</entry>
+	<entry>
+		<mistake>a album</mistake>
+		<corrected>an album</corrected>
+	</entry>
+	<entry>
+		<mistake>a Algerian</mistake>
+		<corrected>an Algerian</corrected>
+	</entry>
+	<entry>
+		<mistake>a alias</mistake>
+		<corrected>an alias</corrected>
+	</entry>
+	<entry>
+		<mistake>a alien</mistake>
+		<corrected>an alien</corrected>
+	</entry>
+	<entry>
+		<mistake>a alternative</mistake>
+		<corrected>an alternative</corrected>
+	</entry>
+	<entry>
+		<mistake>a AM</mistake>
+		<corrected>an AM</corrected>
+	</entry>
+	<entry>
+		<mistake>a amateur</mistake>
+		<corrected>an amateur</corrected>
+	</entry>
+	<entry>
+		<mistake>a American</mistake>
+		<corrected>an American</corrected>
+	</entry>
+	<entry>
+		<mistake>a amount</mistake>
+		<corrected>an amount</corrected>
+	</entry>
+	<entry>
+		<mistake>a an</mistake>
+		<corrected>a, an</corrected>
+	</entry>
+	<entry>
+		<mistake>a analog</mistake>
+		<corrected>an analog</corrected>
+	</entry>
+	<entry>
+		<mistake>a analogue</mistake>
+		<corrected>an analogue</corrected>
+	</entry>
+	<entry>
+		<mistake>a ancient</mistake>
+		<corrected>an ancient</corrected>
+	</entry>
+	<entry>
+		<mistake>a angle</mistake>
+		<corrected>an angle</corrected>
+	</entry>
+	<entry>
+		<mistake>a Angolan</mistake>
+		<corrected>an Angolan</corrected>
+	</entry>
+	<entry>
+		<mistake>a annual</mistake>
+		<corrected>an annual</corrected>
+	</entry>
+	<entry>
+		<mistake>a another</mistake>
+		<corrected>another</corrected>
+	</entry>
+	<entry>
+		<mistake>a answer</mistake>
+		<corrected>an answer</corrected>
+	</entry>
+	<entry>
+		<mistake>a antenna</mistake>
+		<corrected>an antenna</corrected>
+	</entry>
+	<entry>
+		<mistake>a anti</mistake>
+		<corrected>an anti</corrected>
+	</entry>
+	<entry>
+		<mistake>a Arabian</mistake>
+		<corrected>an Arabian</corrected>
+	</entry>
+	<entry>
+		<mistake>a Arabic</mistake>
+		<corrected>an Arabic</corrected>
+	</entry>
+	<entry>
+		<mistake>a Argentine</mistake>
+		<corrected>an Argentine</corrected>
+	</entry>
+	<entry>
+		<mistake>a Armenian</mistake>
+		<corrected>an Armenian</corrected>
+	</entry>
+	<entry>
+		<mistake>a Asian</mistake>
+		<corrected>an Asian</corrected>
+	</entry>
+	<entry>
+		<mistake>a assistant</mistake>
+		<corrected>an assistant</corrected>
+	</entry>
+	<entry>
+		<mistake>a associate</mistake>
+		<corrected>an associate</corrected>
+	</entry>
+	<entry>
+		<mistake>a ATM</mistake>
+		<corrected>an ATM</corrected>
+	</entry>
+	<entry>
+		<mistake>a Australian</mistake>
+		<corrected>an Australian</corrected>
+	</entry>
+	<entry>
+		<mistake>a Austrian</mistake>
+		<corrected>an Austrian</corrected>
+	</entry>
+	<entry>
+		<mistake>a average</mistake>
+		<corrected>an average</corrected>
+	</entry>
+	<entry>
+		<mistake>a back up</mistake>
+		<corrected>a back-up, a backup</corrected>
+	</entry>
+	<entry>
+		<mistake>a bacteria</mistake>
+		<corrected>a bacterium [singular], bacteria [plural]</corrected>
+	</entry>
+	<entry>
+		<mistake>a batsmen</mistake>
+		<corrected>a batsman [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a businessmen</mistake>
+		<corrected>a businessman [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a businesswomen</mistake>
+		<corrected>a businesswoman</corrected>
+	</entry>
+	<entry>
+		<mistake>a consortia</mistake>
+		<corrected>a consortium [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a criteria</mistake>
+		<corrected>a criterion [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a dominate</mistake>
+		<corrected>a dominant</corrected>
+	</entry>
+	<entry>
+		<mistake>a early</mistake>
+		<corrected>an early</corrected>
+	</entry>
+	<entry>
+		<mistake>a effective</mistake>
+		<corrected>an effective</corrected>
+	</entry>
+	<entry>
+		<mistake>a Egyptian</mistake>
+		<corrected>an Egyptian</corrected>
+	</entry>
+	<entry>
+		<mistake>a eight</mistake>
+		<corrected>an eight</corrected>
+	</entry>
+	<entry>
+		<mistake>a eighth</mistake>
+		<corrected>an eighth</corrected>
+	</entry>
+	<entry>
+		<mistake>a eighteen</mistake>
+		<corrected>an eighteen</corrected>
+	</entry>
+	<entry>
+		<mistake>a eighteenth</mistake>
+		<corrected>an eighteenth</corrected>
+	</entry>
+	<entry>
+		<mistake>a eighty</mistake>
+		<corrected>an eighty</corrected>
+	</entry>
+	<entry>
+		<mistake>a electric</mistake>
+		<corrected>an electric</corrected>
+	</entry>
+	<entry>
+		<mistake>a electronic</mistake>
+		<corrected>an electronic</corrected>
+	</entry>
+	<entry>
+		<mistake>a eleven</mistake>
+		<corrected>an eleven</corrected>
+	</entry>
+	<entry>
+		<mistake>a eleventh</mistake>
+		<corrected>an eleventh</corrected>
+	</entry>
+	<entry>
+		<mistake>a elite</mistake>
+		<corrected>an elite</corrected>
+	</entry>
+	<entry>
+		<mistake>a embedded</mistake>
+		<corrected>an embedded</corrected>
+	</entry>
+	<entry>
+		<mistake>a English</mistake>
+		<corrected>an English</corrected>
+	</entry>
+	<entry>
+		<mistake>a entire</mistake>
+		<corrected>an entire</corrected>
+	</entry>
+	<entry>
+		<mistake>a EP</mistake>
+		<corrected>an EP</corrected>
+	</entry>
+	<entry>
+		<mistake>a epic</mistake>
+		<corrected>an epic</corrected>
+	</entry>
+	<entry>
+		<mistake>a episode</mistake>
+		<corrected>an episode</corrected>
+	</entry>
+	<entry>
+		<mistake>a equal</mistake>
+		<corrected>an equal</corrected>
+	</entry>
+	<entry>
+		<mistake>a estimate</mistake>
+		<corrected>an estimate</corrected>
+	</entry>
+	<entry>
+		<mistake>a Ethiopian</mistake>
+		<corrected>an Ethiopian</corrected>
+	</entry>
+	<entry>
+		<mistake>a ethnic</mistake>
+		<corrected>an ethnic</corrected>
+	</entry>
+	<entry>
+		<mistake>a example</mistake>
+		<corrected>an example</corrected>
+	</entry>
+	<entry>
+		<mistake>a extra</mistake>
+		<corrected>an extra</corrected>
+	</entry>
+	<entry>
+		<mistake>a falling out</mistake>
+		<corrected>a falling-out [though Wiktionary has both]</corrected>
+	</entry>
+	<entry>
+		<mistake>a firemen</mistake>
+		<corrected>a fireman [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a flagella</mistake>
+		<corrected>a flagellum [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a FM</mistake>
+		<corrected>an FM</corrected>
+	</entry>
+	<entry>
+		<mistake>a freshmen</mistake>
+		<corrected>a freshman [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a fungi</mistake>
+		<corrected>a fungus [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a gunmen</mistake>
+		<corrected>a gunman [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a heir</mistake>
+		<corrected>an heir</corrected>
+	</entry>
+	<entry>
+		<mistake>a honor</mistake>
+		<corrected>an honor</corrected>
+	</entry>
+	<entry>
+		<mistake>a hour</mistake>
+		<corrected>an hour</corrected>
+	</entry>
+	<entry>
+		<mistake>a impact</mistake>
+		<corrected>an impact</corrected>
+	</entry>
+	<entry>
+		<mistake>a independent</mistake>
+		<corrected>an independent</corrected>
+	</entry>
+	<entry>
+		<mistake>a Indian</mistake>
+		<corrected>an Indian</corrected>
+	</entry>
+	<entry>
+		<mistake>a individual</mistake>
+		<corrected>an individual</corrected>
+	</entry>
+	<entry>
+		<mistake>a Indonesian</mistake>
+		<corrected>an Indonesian</corrected>
+	</entry>
+	<entry>
+		<mistake>a indoor</mistake>
+		<corrected>an indoor</corrected>
+	</entry>
+	<entry>
+		<mistake>a information</mistake>
+		<corrected>an information</corrected>
+	</entry>
+	<entry>
+		<mistake>a initiative</mistake>
+		<corrected>an initiative</corrected>
+	</entry>
+	<entry>
+		<mistake>a intelligent</mistake>
+		<corrected>an intelligent</corrected>
+	</entry>
+	<entry>
+		<mistake>a interesting</mistake>
+		<corrected>an interesting</corrected>
+	</entry>
+	<entry>
+		<mistake>a interim</mistake>
+		<corrected>an interim</corrected>
+	</entry>
+	<entry>
+		<mistake>a interior</mistake>
+		<corrected>an interior</corrected>
+	</entry>
+	<entry>
+		<mistake>a intermediate</mistake>
+		<corrected>an intermediate</corrected>
+	</entry>
+	<entry>
+		<mistake>a international</mistake>
+		<corrected>an international</corrected>
+	</entry>
+	<entry>
+		<mistake>a Internet</mistake>
+		<corrected>an Internet</corrected>
+	</entry>
+	<entry>
+		<mistake>a intersection</mistake>
+		<corrected>an intersection</corrected>
+	</entry>
+	<entry>
+		<mistake>a interview</mistake>
+		<corrected>an interview</corrected>
+	</entry>
+	<entry>
+		<mistake>a introduction</mistake>
+		<corrected>an introduction</corrected>
+	</entry>
+	<entry>
+		<mistake>a Iranian</mistake>
+		<corrected>an Iranian</corrected>
+	</entry>
+	<entry>
+		<mistake>a Iraqi</mistake>
+		<corrected>an Iraqi</corrected>
+	</entry>
+	<entry>
+		<mistake>a Irish</mistake>
+		<corrected>an Irish</corrected>
+	</entry>
+	<entry>
+		<mistake>a iron</mistake>
+		<corrected>an iron</corrected>
+	</entry>
+	<entry>
+		<mistake>a island</mistake>
+		<corrected>an island</corrected>
+	</entry>
+	<entry>
+		<mistake>a Israeli</mistake>
+		<corrected>an Israeli</corrected>
+	</entry>
+	<entry>
+		<mistake>a issue</mistake>
+		<corrected>an issue</corrected>
+	</entry>
+	<entry>
+		<mistake>a Italian</mistake>
+		<corrected>an Italian</corrected>
+	</entry>
+	<entry>
+		<mistake>a larvae</mistake>
+		<corrected>a larva [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a line up</mistake>
+		<corrected>a line-up, a lineup</corrected>
+	</entry>
+	<entry>
+		<mistake>a lock out</mistake>
+		<corrected>a lockout</corrected>
+	</entry>
+	<entry>
+		<mistake>a lose</mistake>
+		<corrected>a loss</corrected>
+	</entry>
+	<entry>
+		<mistake>a manufacture</mistake>
+		<corrected>a manufacturer</corrected>
+	</entry>
+	<entry>
+		<mistake>a match up</mistake>
+		<corrected>a match-up, a matchup</corrected>
+	</entry>
+	<entry>
+		<mistake>a media for</mistake>
+		<corrected>a medium for [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a NFL</mistake>
+		<corrected>an NFL</corrected>
+	</entry>
+	<entry>
+		<mistake>a nuclei</mistake>
+		<corrected>a nucleus [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a numbers of</mistake>
+		<corrected>a number of</corrected>
+	</entry>
+	<entry>
+		<mistake>a ocean</mistake>
+		<corrected>an ocean</corrected>
+	</entry>
+	<entry>
+		<mistake>a offensive</mistake>
+		<corrected>an offensive</corrected>
+	</entry>
+	<entry>
+		<mistake>a official</mistake>
+		<corrected>an official</corrected>
+	</entry>
+	<entry>
+		<mistake>a Ohio</mistake>
+		<corrected>an Ohio</corrected>
+	</entry>
+	<entry>
+		<mistake>a oil</mistake>
+		<corrected>an oil</corrected>
+	</entry>
+	<entry>
+		<mistake>a old</mistake>
+		<corrected>an old</corrected>
+	</entry>
+	<entry>
+		<mistake>a Olympic</mistake>
+		<corrected>an Olympic</corrected>
+	</entry>
+	<entry>
+		<mistake>a one of the</mistake>
+		<corrected>one of the</corrected>
+	</entry>
+	<entry>
+		<mistake>a online</mistake>
+		<corrected>an online</corrected>
+	</entry>
+	<entry>
+		<mistake>a only</mistake>
+		<corrected>an only, only a</corrected>
+	</entry>
+	<entry>
+		<mistake>a only a</mistake>
+		<corrected>only a</corrected>
+	</entry>
+	<entry>
+		<mistake>a open</mistake>
+		<corrected>an open</corrected>
+	</entry>
+	<entry>
+		<mistake>a opinion</mistake>
+		<corrected>an opinion</corrected>
+	</entry>
+	<entry>
+		<mistake>a opposite</mistake>
+		<corrected>an opposite</corrected>
+	</entry>
+	<entry>
+		<mistake>a organization</mistake>
+		<corrected>an organization</corrected>
+	</entry>
+	<entry>
+		<mistake>a original</mistake>
+		<corrected>an original</corrected>
+	</entry>
+	<entry>
+		<mistake>a other</mistake>
+		<corrected>an other</corrected>
+	</entry>
+	<entry>
+		<mistake>a outbreak</mistake>
+		<corrected>an outbreak</corrected>
+	</entry>
+	<entry>
+		<mistake>a outdoor</mistake>
+		<corrected>an outdoor</corrected>
+	</entry>
+	<entry>
+		<mistake>a outside</mistake>
+		<corrected>an outside</corrected>
+	</entry>
+	<entry>
+		<mistake>a overtime</mistake>
+		<corrected>an overtime</corrected>
+	</entry>
+	<entry>
+		<mistake>a owner</mistake>
+		<corrected>an owner</corrected>
+	</entry>
+	<entry>
+		<mistake>a paparazzi</mistake>
+		<corrected>a paparazzo [singular], paparazzi [plural]</corrected>
+	</entry>
+	<entry>
+		<mistake>a parentheses</mistake>
+		<corrected>a parenthesis [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a phenomena</mistake>
+		<corrected>a phenomenon [singular], phenomena [plural]</corrected>
+	</entry>
+	<entry>
+		<mistake>a protozoa</mistake>
+		<corrected>a protozoon [singular], protozoa [plural]</corrected>
+	</entry>
+	<entry>
+		<mistake>a pupae</mistake>
+		<corrected>a pupa [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a radii</mistake>
+		<corrected>a radius [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a renown</mistake>
+		<corrected>a renowned [adjective]</corrected>
+	</entry>
+	<entry>
+		<mistake>a run in</mistake>
+		<corrected>a run-in</corrected>
+	</entry>
+	<entry>
+		<mistake>a set back</mistake>
+		<corrected>a set-back, a setback</corrected>
+	</entry>
+	<entry>
+		<mistake>a set up</mistake>
+		<corrected>a setup</corrected>
+	</entry>
+	<entry>
+		<mistake>a several</mistake>
+		<corrected>several</corrected>
+	</entry>
+	<entry>
+		<mistake>a simple as</mistake>
+		<corrected>as simple as</corrected>
+	</entry>
+	<entry>
+		<mistake>a spermatozoa</mistake>
+		<corrected>a spermatozoon [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a statesmen</mistake>
+		<corrected>a statesman [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a strata</mistake>
+		<corrected>a stratum [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a taxa</mistake>
+		<corrected>a taxon [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a toss up</mistake>
+		<corrected>a toss-up, a tossup</corrected>
+	</entry>
+	<entry>
+		<mistake>a two months</mistake>
+		<corrected>a two-month</corrected>
+	</entry>
+	<entry>
+		<mistake>a ultimate</mistake>
+		<corrected>an ultimate</corrected>
+	</entry>
+	<entry>
+		<mistake>a undercover</mistake>
+		<corrected>an undercover</corrected>
+	</entry>
+	<entry>
+		<mistake>a underground</mistake>
+		<corrected>an underground</corrected>
+	</entry>
+	<entry>
+		<mistake>a unfortunate</mistake>
+		<corrected>an unfortunate</corrected>
+	</entry>
+	<entry>
+		<mistake>a unusual</mistake>
+		<corrected>an unusual</corrected>
+	</entry>
+	<entry>
+		<mistake>a upgrade</mistake>
+		<corrected>an upgrade</corrected>
+	</entry>
+	<entry>
+		<mistake>a upper</mistake>
+		<corrected>an upper</corrected>
+	</entry>
+	<entry>
+		<mistake>a urban</mistake>
+		<corrected>an urban</corrected>
+	</entry>
+	<entry>
+		<mistake>a vertebrae</mistake>
+		<corrected>a vertebra [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a women</mistake>
+		<corrected>a woman [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>a work out</mistake>
+		<corrected>a workout</corrected>
+	</entry>
+	<entry>
+		<mistake>Aboriginal decent</mistake>
+		<corrected>Aboriginal descent</corrected>
+	</entry>
+	<entry>
+		<mistake>about it's</mistake>
+		<corrected>about its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>about they're</mistake>
+		<corrected>about their [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>about who to</mistake>
+		<corrected>about whom to</corrected>
+	</entry>
+	<entry>
+		<mistake>about who's</mistake>
+		<corrected>about whose [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>above it's</mistake>
+		<corrected>above its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>AC current</mistake>
+		<corrected>AC, alternating current</corrected>
+	</entry>
+	<entry>
+		<mistake>according a</mistake>
+		<corrected>according to a</corrected>
+	</entry>
+	<entry>
+		<mistake>ACL ligament</mistake>
+		<corrected>ACL, anterior cruciate ligament</corrected>
+	</entry>
+	<entry>
+		<mistake>across it's</mistake>
+		<corrected>across its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>affect on</mistake>
+		<corrected>effect on</corrected>
+	</entry>
+	<entry>
+		<mistake>affect upon</mistake>
+		<corrected>effect upon</corrected>
+	</entry>
+	<entry>
+		<mistake>affects of</mistake>
+		<corrected>effects of</corrected>
+	</entry>
+	<entry>
+		<mistake>African decent</mistake>
+		<corrected>African descent</corrected>
+	</entry>
+	<entry>
+		<mistake>after along time</mistake>
+		<corrected>after a long time</corrected>
+	</entry>
+	<entry>
+		<mistake>after awhile</mistake>
+		<corrected>after a while [noun]</corrected>
+	</entry>
+	<entry>
+		<mistake>after been</mistake>
+		<corrected>after being</corrected>
+	</entry>
+	<entry>
+		<mistake>after it's</mistake>
+		<corrected>after its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>after quite awhile</mistake>
+		<corrected>after quite a while</corrected>
+	</entry>
+	<entry>
+		<mistake>against it's</mistake>
+		<corrected>against its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>against who</mistake>
+		<corrected>against whom</corrected>
+	</entry>
+	<entry>
+		<mistake>ago since</mistake>
+		<corrected>since</corrected>
+	</entry>
+	<entry>
+		<mistake>agree in principal</mistake>
+		<corrected>agree in principle</corrected>
+	</entry>
+	<entry>
+		<mistake>agreement in principal</mistake>
+		<corrected>agreement in principle</corrected>
+	</entry>
+	<entry>
+		<mistake>Air Canada Center</mistake>
+		<corrected>Air Canada Centre</corrected>
+	</entry>
+	<entry>
+		<mistake>airplane hanger</mistake>
+		<corrected>airplane hangar</corrected>
+	</entry>
+	<entry>
+		<mistake>Albanian decent</mistake>
+		<corrected>Albanian descent</corrected>
+	</entry>
+	<entry>
+		<mistake>all for not</mistake>
+		<corrected>all for naught</corrected>
+	</entry>
+	<entry>
+		<mistake>all it's</mistake>
+		<corrected>all its</corrected>
+	</entry>
+	<entry>
+		<mistake>all though</mistake>
+		<corrected>although</corrected>
+	</entry>
+	<entry>
+		<mistake>all tolled</mistake>
+		<corrected>all told</corrected>
+	</entry>
+	<entry>
+		<mistake>allot of</mistake>
+		<corrected>a lot of</corrected>
+	</entry>
+	<entry>
+		<mistake>alma matter</mistake>
+		<corrected>alma mater</corrected>
+	</entry>
+	<entry>
+		<mistake>along it's</mistake>
+		<corrected>along its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>along side</mistake>
+		<corrected>alongside</corrected>
+	</entry>
+	<entry>
+		<mistake>along time</mistake>
+		<corrected>a long time</corrected>
+	</entry>
+	<entry>
+		<mistake>alongside it's</mistake>
+		<corrected>alongside its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>alongside with</mistake>
+		<corrected>along with, alongside</corrected>
+	</entry>
+	<entry>
+		<mistake>also know as</mistake>
+		<corrected>also known as</corrected>
+	</entry>
+	<entry>
+		<mistake>also know by</mistake>
+		<corrected>also known by</corrected>
+	</entry>
+	<entry>
+		<mistake>also know for</mistake>
+		<corrected>also known for</corrected>
+	</entry>
+	<entry>
+		<mistake>alter boy</mistake>
+		<corrected>altar boy</corrected>
+	</entry>
+	<entry>
+		<mistake>alter server</mistake>
+		<corrected>altar server</corrected>
+	</entry>
+	<entry>
+		<mistake>AM in the morning</mistake>
+		<corrected>AM, in the morning</corrected>
+	</entry>
+	<entry>
+		<mistake>am loathe to</mistake>
+		<corrected>am loath to [adjective]</corrected>
+	</entry>
+	<entry>
+		<mistake>American decent</mistake>
+		<corrected>American descent</corrected>
+	</entry>
+	<entry>
+		<mistake>amid it's</mistake>
+		<corrected>amid its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>amidst it's</mistake>
+		<corrected>amidst its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>among it's</mistake>
+		<corrected>among its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>among others things</mistake>
+		<corrected>among other things</corrected>
+	</entry>
+	<entry>
+		<mistake>amongst it's</mistake>
+		<corrected>amongst its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>an affect</mistake>
+		<corrected>an effect</corrected>
+	</entry>
+	<entry>
+		<mistake>an alumnae of</mistake>
+		<corrected>an alumna of [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>an alumni of</mistake>
+		<corrected>an alumnus of [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>an another</mistake>
+		<corrected>another</corrected>
+	</entry>
+	<entry>
+		<mistake>an antennae</mistake>
+		<corrected>an antenna [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>an British</mistake>
+		<corrected>a British</corrected>
+	</entry>
+	<entry>
+		<mistake>an Canadian</mistake>
+		<corrected>a Canadian</corrected>
+	</entry>
+	<entry>
+		<mistake>an European</mistake>
+		<corrected>a European</corrected>
+	</entry>
+	<entry>
+		<mistake>an half</mistake>
+		<corrected>a half</corrected>
+	</entry>
+	<entry>
+		<mistake>an halt</mistake>
+		<corrected>a halt</corrected>
+	</entry>
+	<entry>
+		<mistake>an hand</mistake>
+		<corrected>a hand</corrected>
+	</entry>
+	<entry>
+		<mistake>an Hawaiian</mistake>
+		<corrected>a Hawaiian</corrected>
+	</entry>
+	<entry>
+		<mistake>an head</mistake>
+		<corrected>a head</corrected>
+	</entry>
+	<entry>
+		<mistake>an heart</mistake>
+		<corrected>a heart</corrected>
+	</entry>
+	<entry>
+		<mistake>an helicopter</mistake>
+		<corrected>a helicopter</corrected>
+	</entry>
+	<entry>
+		<mistake>an hero</mistake>
+		<corrected>a hero</corrected>
+	</entry>
+	<entry>
+		<mistake>an high</mistake>
+		<corrected>a high</corrected>
+	</entry>
+	<entry>
+		<mistake>an historian</mistake>
+		<corrected>a historian</corrected>
+	</entry>
+	<entry>
+		<mistake>an historic</mistake>
+		<corrected>a historic</corrected>
+	</entry>
+	<entry>
+		<mistake>an historical</mistake>
+		<corrected>a historical</corrected>
+	</entry>
+	<entry>
+		<mistake>an history</mistake>
+		<corrected>a history</corrected>
+	</entry>
+	<entry>
+		<mistake>an hospital</mistake>
+		<corrected>a hospital</corrected>
+	</entry>
+	<entry>
+		<mistake>an hotel</mistake>
+		<corrected>a hotel</corrected>
+	</entry>
+	<entry>
+		<mistake>an humanitarian</mistake>
+		<corrected>a humanitarian</corrected>
+	</entry>
+	<entry>
+		<mistake>an large</mistake>
+		<corrected>a large</corrected>
+	</entry>
+	<entry>
+		<mistake>an larger</mistake>
+		<corrected>a larger</corrected>
+	</entry>
+	<entry>
+		<mistake>an law</mistake>
+		<corrected>a law</corrected>
+	</entry>
+	<entry>
+		<mistake>an lawyer</mistake>
+		<corrected>a lawyer</corrected>
+	</entry>
+	<entry>
+		<mistake>an local</mistake>
+		<corrected>a local</corrected>
+	</entry>
+	<entry>
+		<mistake>an Malaysian</mistake>
+		<corrected>a Malaysian</corrected>
+	</entry>
+	<entry>
+		<mistake>an new</mistake>
+		<corrected>a new</corrected>
+	</entry>
+	<entry>
+		<mistake>an nine</mistake>
+		<corrected>a nine</corrected>
+	</entry>
+	<entry>
+		<mistake>an ninth</mistake>
+		<corrected>a ninth</corrected>
+	</entry>
+	<entry>
+		<mistake>an non</mistake>
+		<corrected>a non</corrected>
+	</entry>
+	<entry>
+		<mistake>an number</mistake>
+		<corrected>a number</corrected>
+	</entry>
+	<entry>
+		<mistake>an one</mistake>
+		<corrected>a one, one</corrected>
+	</entry>
+	<entry>
+		<mistake>an other</mistake>
+		<corrected>another</corrected>
+	</entry>
+	<entry>
+		<mistake>an Scottish</mistake>
+		<corrected>a Scottish</corrected>
+	</entry>
+	<entry>
+		<mistake>an second</mistake>
+		<corrected>a second</corrected>
+	</entry>
+	<entry>
+		<mistake>an series</mistake>
+		<corrected>a series</corrected>
+	</entry>
+	<entry>
+		<mistake>an seven</mistake>
+		<corrected>a seven</corrected>
+	</entry>
+	<entry>
+		<mistake>an seventh</mistake>
+		<corrected>a seventh</corrected>
+	</entry>
+	<entry>
+		<mistake>an six</mistake>
+		<corrected>a six</corrected>
+	</entry>
+	<entry>
+		<mistake>an sixteen</mistake>
+		<corrected>a sixteen</corrected>
+	</entry>
+	<entry>
+		<mistake>an sixth</mistake>
+		<corrected>a sixth</corrected>
+	</entry>
+	<entry>
+		<mistake>an special</mistake>
+		<corrected>a special</corrected>
+	</entry>
+	<entry>
+		<mistake>an species</mistake>
+		<corrected>a species</corrected>
+	</entry>
+	<entry>
+		<mistake>an specific</mistake>
+		<corrected>a specific</corrected>
+	</entry>
+	<entry>
+		<mistake>an statement</mistake>
+		<corrected>a statement</corrected>
+	</entry>
+	<entry>
+		<mistake>an ten</mistake>
+		<corrected>a ten</corrected>
+	</entry>
+	<entry>
+		<mistake>an unit</mistake>
+		<corrected>a unit</corrected>
+	</entry>
+	<entry>
+		<mistake>an Unix</mistake>
+		<corrected>a Unix</corrected>
+	</entry>
+	<entry>
+		<mistake>an USB</mistake>
+		<corrected>a USB</corrected>
+	</entry>
+	<entry>
+		<mistake>and/or</mistake>
+		<corrected>or</corrected>
+	</entry>
+	<entry>
+		<mistake>and etc</mistake>
+		<corrected>etc</corrected>
+	</entry>
+	<entry>
+		<mistake>and so fourth</mistake>
+		<corrected>and so forth</corrected>
+	</entry>
+	<entry>
+		<mistake>another criteria</mistake>
+		<corrected>another criterion [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>another wise</mistake>
+		<corrected>an otherwise</corrected>
+	</entry>
+	<entry>
+		<mistake>another words</mistake>
+		<corrected>in other words, other words</corrected>
+	</entry>
+	<entry>
+		<mistake>any another</mistake>
+		<corrected>another, any other</corrected>
+	</entry>
+	<entry>
+		<mistake>any where</mistake>
+		<corrected>anywhere</corrected>
+	</entry>
+	<entry>
+		<mistake>anyways</mistake>
+		<corrected>anyway</corrected>
+	</entry>
+	<entry>
+		<mistake>apart for</mistake>
+		<corrected>apart from</corrected>
+	</entry>
+	<entry>
+		<mistake>apart form</mistake>
+		<corrected>apart from</corrected>
+	</entry>
+	<entry>
+		<mistake>are aloud to</mistake>
+		<corrected>are allowed to</corrected>
+	</entry>
+	<entry>
+		<mistake>are be</mistake>
+		<corrected>are, were</corrected>
+	</entry>
+	<entry>
+		<mistake>are been</mistake>
+		<corrected>are, are being, have been</corrected>
+	</entry>
+	<entry>
+		<mistake>are build</mistake>
+		<corrected>are built</corrected>
+	</entry>
+	<entry>
+		<mistake>are can</mistake>
+		<corrected>can</corrected>
+	</entry>
+	<entry>
+		<mistake>are dominate</mistake>
+		<corrected>are dominant [adjective]</corrected>
+	</entry>
+	<entry>
+		<mistake>are drew</mistake>
+		<corrected>are drawn</corrected>
+	</entry>
+	<entry>
+		<mistake>are have</mistake>
+		<corrected>have</corrected>
+	</entry>
+	<entry>
+		<mistake>are it's</mistake>
+		<corrected>are its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>are know as</mistake>
+		<corrected>are known as</corrected>
+	</entry>
+	<entry>
+		<mistake>are know by</mistake>
+		<corrected>are known by</corrected>
+	</entry>
+	<entry>
+		<mistake>are know for</mistake>
+		<corrected>are known for</corrected>
+	</entry>
+	<entry>
+		<mistake>are know to</mistake>
+		<corrected>are known to</corrected>
+	</entry>
+	<entry>
+		<mistake>are lain</mistake>
+		<corrected>are laid</corrected>
+	</entry>
+	<entry>
+		<mistake>are lead by</mistake>
+		<corrected>are led by</corrected>
+	</entry>
+	<entry>
+		<mistake>are loathe to</mistake>
+		<corrected>are loath to [adjective]</corrected>
+	</entry>
+	<entry>
+		<mistake>are meet</mistake>
+		<corrected>are met</corrected>
+	</entry>
+	<entry>
+		<mistake>are ran by</mistake>
+		<corrected>are run by</corrected>
+	</entry>
+	<entry>
+		<mistake>are renown</mistake>
+		<corrected>are renowned</corrected>
+	</entry>
+	<entry>
+		<mistake>are set-up</mistake>
+		<corrected>are set up</corrected>
+	</entry>
+	<entry>
+		<mistake>are setup</mistake>
+		<corrected>are set up</corrected>
+	</entry>
+	<entry>
+		<mistake>are shutdown</mistake>
+		<corrected>are shut down</corrected>
+	</entry>
+	<entry>
+		<mistake>are shutout</mistake>
+		<corrected>are shut out</corrected>
+	</entry>
+	<entry>
+		<mistake>are suppose to</mistake>
+		<corrected>are supposed to</corrected>
+	</entry>
+	<entry>
+		<mistake>are the dominate</mistake>
+		<corrected>are the dominant</corrected>
+	</entry>
+	<entry>
+		<mistake>are use to</mistake>
+		<corrected>are used to</corrected>
+	</entry>
+	<entry>
+		<mistake>are were</mistake>
+		<corrected>are, are where, were</corrected>
+	</entry>
+	<entry>
+		<mistake>Armenian decent</mistake>
+		<corrected>Armenian descent</corrected>
+	</entry>
+	<entry>
+		<mistake>around it's</mistake>
+		<corrected>around its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>as a resulted</mistake>
+		<corrected>as a result</corrected>
+	</entry>
+	<entry>
+		<mistake>as apposed to</mistake>
+		<corrected>as opposed to</corrected>
+	</entry>
+	<entry>
+		<mistake>as back up</mistake>
+		<corrected>as backup</corrected>
+	</entry>
+	<entry>
+		<mistake>as been</mistake>
+		<corrected>as being, has been</corrected>
+	</entry>
+	<entry>
+		<mistake>as followed</mistake>
+		<corrected>as follows</corrected>
+	</entry>
+	<entry>
+		<mistake>as it's</mistake>
+		<corrected>as its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>as oppose to</mistake>
+		<corrected>as opposed to</corrected>
+	</entry>
+	<entry>
+		<mistake>Asian decent</mistake>
+		<corrected>Asian descent</corrected>
+	</entry>
+	<entry>
+		<mistake>aside form</mistake>
+		<corrected>aside from</corrected>
+	</entry>
+	<entry>
+		<mistake>aside it's</mistake>
+		<corrected>aside its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>assume the reigns</mistake>
+		<corrected>assume the reins</corrected>
+	</entry>
+	<entry>
+		<mistake>assume the roll</mistake>
+		<corrected>assume the role</corrected>
+	</entry>
+	<entry>
+		<mistake>at it's</mistake>
+		<corrected>at its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>at the alter</mistake>
+		<corrected>at the altar</corrected>
+	</entry>
+	<entry>
+		<mistake>at the reigns</mistake>
+		<corrected>at the reins</corrected>
+	</entry>
+	<entry>
+		<mistake>at then end</mistake>
+		<corrected>at the end</corrected>
+	</entry>
+	<entry>
+		<mistake>ATM machine</mistake>
+		<corrected>ATM, automated teller machine</corrected>
+	</entry>
+	<entry>
+		<mistake>away form</mistake>
+		<corrected>away from</corrected>
+	</entry>
+	<entry>
+		<mistake>back and fourth</mistake>
+		<corrected>back and forth</corrected>
+	</entry>
+	<entry>
+		<mistake>back drop</mistake>
+		<corrected>backdrop</corrected>
+	</entry>
+	<entry>
+		<mistake>back fire</mistake>
+		<corrected>backfire [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>back in forth</mistake>
+		<corrected>back and forth</corrected>
+	</entry>
+	<entry>
+		<mistake>back peddle</mistake>
+		<corrected>backpedal</corrected>
+	</entry>
+	<entry>
+		<mistake>back round</mistake>
+		<corrected>background</corrected>
+	</entry>
+	<entry>
+		<mistake>badly effected</mistake>
+		<corrected>badly affected</corrected>
+	</entry>
+	<entry>
+		<mistake>baited breath</mistake>
+		<corrected>bated breath</corrected>
+	</entry>
+	<entry>
+		<mistake>baled out</mistake>
+		<corrected>bailed out [though Wiktionary and the COD allow both spellings]</corrected>
+	</entry>
+	<entry>
+		<mistake>baling out</mistake>
+		<corrected>bailing out [ditto]</corrected>
+	</entry>
+	<entry>
+		<mistake>barb wire</mistake>
+		<corrected>barbed wire</corrected>
+	</entry>
+	<entry>
+		<mistake>bare in mind</mistake>
+		<corrected>bear in mind</corrected>
+	</entry>
+	<entry>
+		<mistake>based off</mistake>
+		<corrected>based on</corrected>
+	</entry>
+	<entry>
+		<mistake>based out of</mistake>
+		<corrected>based in</corrected>
+	</entry>
+	<entry>
+		<mistake>basic principal</mistake>
+		<corrected>basic principle</corrected>
+	</entry>
+	<entry>
+		<mistake>be apart of</mistake>
+		<corrected>be a part of</corrected>
+	</entry>
+	<entry>
+		<mistake>be build</mistake>
+		<corrected>be built</corrected>
+	</entry>
+	<entry>
+		<mistake>be cause</mistake>
+		<corrected>because</corrected>
+	</entry>
+	<entry>
+		<mistake>be drew</mistake>
+		<corrected>be drawn</corrected>
+	</entry>
+	<entry>
+		<mistake>be it's</mistake>
+		<corrected>be its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>be know as</mistake>
+		<corrected>be known as</corrected>
+	</entry>
+	<entry>
+		<mistake>be lain</mistake>
+		<corrected>be laid</corrected>
+	</entry>
+	<entry>
+		<mistake>be lead by</mistake>
+		<corrected>be led by</corrected>
+	</entry>
+	<entry>
+		<mistake>be loathe to</mistake>
+		<corrected>be loath to</corrected>
+	</entry>
+	<entry>
+		<mistake>be ran</mistake>
+		<corrected>be run</corrected>
+	</entry>
+	<entry>
+		<mistake>be rebuild</mistake>
+		<corrected>be rebuilt</corrected>
+	</entry>
+	<entry>
+		<mistake>be rode</mistake>
+		<corrected>be ridden</corrected>
+	</entry>
+	<entry>
+		<mistake>be send</mistake>
+		<corrected>be sent</corrected>
+	</entry>
+	<entry>
+		<mistake>be set-up</mistake>
+		<corrected>be set up</corrected>
+	</entry>
+	<entry>
+		<mistake>be setup</mistake>
+		<corrected>be set up</corrected>
+	</entry>
+	<entry>
+		<mistake>be shutdown</mistake>
+		<corrected>be shut down</corrected>
+	</entry>
+	<entry>
+		<mistake>be use to</mistake>
+		<corrected>be used to</corrected>
+	</entry>
+	<entry>
+		<mistake>be ware</mistake>
+		<corrected>beware</corrected>
+	</entry>
+	<entry>
+		<mistake>became it's</mistake>
+		<corrected>became its</corrected>
+	</entry>
+	<entry>
+		<mistake>became know</mistake>
+		<corrected>became known</corrected>
+	</entry>
+	<entry>
+		<mistake>became to be</mistake>
+		<corrected>became, came to be</corrected>
+	</entry>
+	<entry>
+		<mistake>because of it's</mistake>
+		<corrected>because of its</corrected>
+	</entry>
+	<entry>
+		<mistake>because of the fact that</mistake>
+		<corrected>because</corrected>
+	</entry>
+	<entry>
+		<mistake>been a while</mistake>
+		<corrected>been awhile</corrected>
+	</entry>
+	<entry>
+		<mistake>been accustom to</mistake>
+		<corrected>been accustomed to</corrected>
+	</entry>
+	<entry>
+		<mistake>been already been</mistake>
+		<corrected>already been</corrected>
+	</entry>
+	<entry>
+		<mistake>been build</mistake>
+		<corrected>been built</corrected>
+	</entry>
+	<entry>
+		<mistake>been it's</mistake>
+		<corrected>been its</corrected>
+	</entry>
+	<entry>
+		<mistake>been know</mistake>
+		<corrected>been known</corrected>
+	</entry>
+	<entry>
+		<mistake>been lain</mistake>
+		<corrected>been laid</corrected>
+	</entry>
+	<entry>
+		<mistake>been lead by</mistake>
+		<corrected>been led by</corrected>
+	</entry>
+	<entry>
+		<mistake>been loathe to</mistake>
+		<corrected>been loath to</corrected>
+	</entry>
+	<entry>
+		<mistake>been mislead</mistake>
+		<corrected>been misled</corrected>
+	</entry>
+	<entry>
+		<mistake>been ran</mistake>
+		<corrected>been run</corrected>
+	</entry>
+	<entry>
+		<mistake>been rode</mistake>
+		<corrected>been ridden</corrected>
+	</entry>
+	<entry>
+		<mistake>been send</mistake>
+		<corrected>been sent</corrected>
+	</entry>
+	<entry>
+		<mistake>been set-up</mistake>
+		<corrected>been set up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>been setup</mistake>
+		<corrected>been set up</corrected>
+	</entry>
+	<entry>
+		<mistake>been show on</mistake>
+		<corrected>been shown on</corrected>
+	</entry>
+	<entry>
+		<mistake>been shutdown</mistake>
+		<corrected>been shut down</corrected>
+	</entry>
+	<entry>
+		<mistake>been use to</mistake>
+		<corrected>been used to</corrected>
+	</entry>
+	<entry>
+		<mistake>before hand</mistake>
+		<corrected>beforehand</corrected>
+	</entry>
+	<entry>
+		<mistake>before it's</mistake>
+		<corrected>before its</corrected>
+	</entry>
+	<entry>
+		<mistake>began it's</mistake>
+		<corrected>began its</corrected>
+	</entry>
+	<entry>
+		<mistake>behind it's</mistake>
+		<corrected>behind its</corrected>
+	</entry>
+	<entry>
+		<mistake>being build</mistake>
+		<corrected>being built</corrected>
+	</entry>
+	<entry>
+		<mistake>being giving</mistake>
+		<corrected>been giving, being given</corrected>
+	</entry>
+	<entry>
+		<mistake>being it's</mistake>
+		<corrected>being its</corrected>
+	</entry>
+	<entry>
+		<mistake>being lain</mistake>
+		<corrected>being laid</corrected>
+	</entry>
+	<entry>
+		<mistake>being lead by</mistake>
+		<corrected>being led by</corrected>
+	</entry>
+	<entry>
+		<mistake>being loathe to</mistake>
+		<corrected>being loath to</corrected>
+	</entry>
+	<entry>
+		<mistake>being ran</mistake>
+		<corrected>being run</corrected>
+	</entry>
+	<entry>
+		<mistake>being rode</mistake>
+		<corrected>being ridden</corrected>
+	</entry>
+	<entry>
+		<mistake>being set-up</mistake>
+		<corrected>being set up</corrected>
+	</entry>
+	<entry>
+		<mistake>being setup</mistake>
+		<corrected>being set up</corrected>
+	</entry>
+	<entry>
+		<mistake>being show on</mistake>
+		<corrected>being shown on</corrected>
+	</entry>
+	<entry>
+		<mistake>being shutdown</mistake>
+		<corrected>being shut down</corrected>
+	</entry>
+	<entry>
+		<mistake>being taking</mistake>
+		<corrected>been taking, being taken</corrected>
+	</entry>
+	<entry>
+		<mistake>being use to</mistake>
+		<corrected>being used to</corrected>
+	</entry>
+	<entry>
+		<mistake>below it's</mistake>
+		<corrected>below its</corrected>
+	</entry>
+	<entry>
+		<mistake>beneath it's</mistake>
+		<corrected>beneath its</corrected>
+	</entry>
+	<entry>
+		<mistake>beside it's</mistake>
+		<corrected>beside its</corrected>
+	</entry>
+	<entry>
+		<mistake>besides it's</mistake>
+		<corrected>besides its</corrected>
+	</entry>
+	<entry>
+		<mistake>better know as</mistake>
+		<corrected>better known as</corrected>
+	</entry>
+	<entry>
+		<mistake>better know for</mistake>
+		<corrected>better known for</corrected>
+	</entry>
+	<entry>
+		<mistake>better that</mistake>
+		<corrected>better than</corrected>
+	</entry>
+	<entry>
+		<mistake>better then</mistake>
+		<corrected>better than</corrected>
+	</entry>
+	<entry>
+		<mistake>between he and</mistake>
+		<corrected>between him and</corrected>
+	</entry>
+	<entry>
+		<mistake>between I and</mistake>
+		<corrected>between me and</corrected>
+	</entry>
+	<entry>
+		<mistake>between it's</mistake>
+		<corrected>between its</corrected>
+	</entry>
+	<entry>
+		<mistake>between she and</mistake>
+		<corrected>between her and</corrected>
+	</entry>
+	<entry>
+		<mistake>between they and</mistake>
+		<corrected>between them and</corrected>
+	</entry>
+	<entry>
+		<mistake>beyond it's</mistake>
+		<corrected>beyond its</corrected>
+	</entry>
+	<entry>
+		<mistake>Bogota, Columbia</mistake>
+		<corrected>Bogotá, Colombia</corrected>
+	</entry>
+	<entry>
+		<mistake>both for both</mistake>
+		<corrected>for both</corrected>
+	</entry>
+	<entry>
+		<mistake>both it's</mistake>
+		<corrected>both its</corrected>
+	</entry>
+	<entry>
+		<mistake>both of both</mistake>
+		<corrected>of both</corrected>
+	</entry>
+	<entry>
+		<mistake>both of it's</mistake>
+		<corrected>both of its</corrected>
+	</entry>
+	<entry>
+		<mistake>both of them is</mistake>
+		<corrected>both of them are</corrected>
+	</entry>
+	<entry>
+		<mistake>both of who</mistake>
+		<corrected>both of whom</corrected>
+	</entry>
+	<entry>
+		<mistake>both player's</mistake>
+		<corrected>both players, both players' [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>both team's</mistake>
+		<corrected>both teams, both teams' [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>brake away</mistake>
+		<corrected>break away</corrected>
+	</entry>
+	<entry>
+		<mistake>breath fire</mistake>
+		<corrected>breathe fire</corrected>
+	</entry>
+	<entry>
+		<mistake>breathe a sign of relief</mistake>
+		<corrected>breathe a sigh of relief</corrected>
+	</entry>
+	<entry>
+		<mistake>brew haha</mistake>
+		<corrected>brouhaha</corrected>
+	</entry>
+	<entry>
+		<mistake>by fisherman</mistake>
+		<corrected>by fishermen</corrected>
+	</entry>
+	<entry>
+		<mistake>by it's</mistake>
+		<corrected>by its</corrected>
+	</entry>
+	<entry>
+		<mistake>by who's</mistake>
+		<corrected>by whose</corrected>
+	</entry>
+	<entry>
+		<mistake>can backup</mistake>
+		<corrected>can back up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>can been</mistake>
+		<corrected>can be</corrected>
+	</entry>
+	<entry>
+		<mistake>can blackout</mistake>
+		<corrected>can black out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>can breath</mistake>
+		<corrected>can breathe [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>can checkout</mistake>
+		<corrected>can check out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>can playback</mistake>
+		<corrected>can play back [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>can setup</mistake>
+		<corrected>can set up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>can tryout</mistake>
+		<corrected>can try out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>can workout</mistake>
+		<corrected>can work out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>can't breath</mistake>
+		<corrected>cannot breathe [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>Canadian decent</mistake>
+		<corrected>Canadian descent</corrected>
+	</entry>
+	<entry>
+		<mistake>card shark</mistake>
+		<corrected>card sharp</corrected>
+	</entry>
+	<entry>
+		<mistake>Caribbean decent</mistake>
+		<corrected>Caribbean descent</corrected>
+	</entry>
+	<entry>
+		<mistake>celebrated it's</mistake>
+		<corrected>celebrated its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>certain extend</mistake>
+		<corrected>certain extent</corrected>
+	</entry>
+	<entry>
+		<mistake>chalk full</mistake>
+		<corrected>chock-full</corrected>
+	</entry>
+	<entry>
+		<mistake>changed it's</mistake>
+		<corrected>changed its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>Chinese decent</mistake>
+		<corrected>Chinese descent</corrected>
+	</entry>
+	<entry>
+		<mistake>chocked full</mistake>
+		<corrected>chock-full</corrected>
+	</entry>
+	<entry>
+		<mistake>chomping at the bit</mistake>
+		<corrected>champing at the bit</corrected>
+	</entry>
+	<entry>
+		<mistake>close proximity</mistake>
+		<corrected>closeness, proximity</corrected>
+	</entry>
+	<entry>
+		<mistake>closed it's</mistake>
+		<corrected>closed its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>closer then</mistake>
+		<corrected>closer than [comparative]</corrected>
+	</entry>
+	<entry>
+		<mistake>commonly know as</mistake>
+		<corrected>commonly known as</corrected>
+	</entry>
+	<entry>
+		<mistake>commonly know for</mistake>
+		<corrected>commonly known for</corrected>
+	</entry>
+	<entry>
+		<mistake>comprise of</mistake>
+		<corrected>comprise, consist of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised almost entirely of</mistake>
+		<corrected>composed almost entirely of, consisting almost entirely of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised chiefly of</mistake>
+		<corrected>composed chiefly of, comprised chiefly, consisting chiefly of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised entirely of</mistake>
+		<corrected>composed entirely of, consisting entirely of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised exclusively of</mistake>
+		<corrected>composed exclusively of, consisting exclusively of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised generally of</mistake>
+		<corrected>composed generally of, comprised generally, consisting generally of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised largely of</mistake>
+		<corrected>composed largely of, consisting largely of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised mainly of</mistake>
+		<corrected>composed mainly of, comprised mainly, consisting mainly of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised mostly of</mistake>
+		<corrected>composed mostly of, consisting mostly of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised of</mistake>
+		<corrected>composed of, comprised, consisting of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised only of</mistake>
+		<corrected>composed only of, comprised only, consisting only of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised primarily of</mistake>
+		<corrected>composed primarily of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised principally of</mistake>
+		<corrected>composed principally of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised solely of</mistake>
+		<corrected>composed solely of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised totally of</mistake>
+		<corrected>composed totally of, comprised totally, consisting totally of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprised wholly of</mistake>
+		<corrected>composed wholly of, consisting wholly of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprises entirely of</mistake>
+		<corrected>comprises entirely, consists entirely of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprises exclusively of</mistake>
+		<corrected>comprises exclusively, composed exclusively of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprises mainly of</mistake>
+		<corrected>comprises mainly, consists mainly of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprises mostly of</mistake>
+		<corrected>comprises mostly, consists mostly of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprises of</mistake>
+		<corrected>comprises, consists of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprises only of</mistake>
+		<corrected>comprises only, composed only of, consists only of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprising chiefly of</mistake>
+		<corrected>comprising chiefly, consisting chiefly of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprising entirely of</mistake>
+		<corrected>comprising entirely, consisting entirely of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprising exclusively of</mistake>
+		<corrected>comprising exclusively, consisting exclusively of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprising generally of</mistake>
+		<corrected>comprising generally, consisting generally of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprising largely of</mistake>
+		<corrected>comprising largely, consisting largely of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprising mainly of</mistake>
+		<corrected>comprising mainly, consisting mainly of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprising mostly of</mistake>
+		<corrected>comprising mostly, consisting mostly of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprising of</mistake>
+		<corrected>comprising, consisting of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprising only of</mistake>
+		<corrected>comprising only, consisting only of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprising primarily of</mistake>
+		<corrected>comprising primarily, consisting primarily of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprising principally of</mistake>
+		<corrected>comprising principally, consisting principally of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprising solely of</mistake>
+		<corrected>comprising solely, consisting solely of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprising totally of</mistake>
+		<corrected>comprising totally, consisting totally of</corrected>
+	</entry>
+	<entry>
+		<mistake>comprising wholly of</mistake>
+		<corrected>comprising wholly, consisting wholly of</corrected>
+	</entry>
+	<entry>
+		<mistake>compromised of</mistake>
+		<corrected>comprised, comprising</corrected>
+	</entry>
+	<entry>
+		<mistake>consists a</mistake>
+		<corrected>comprises a, consists of a</corrected>
+	</entry>
+	<entry>
+		<mistake>consists an</mistake>
+		<corrected>comprises an, consists of an</corrected>
+	</entry>
+	<entry>
+		<mistake>constellation prize</mistake>
+		<corrected>consolation prize</corrected>
+	</entry>
+	<entry>
+		<mistake>constituted of</mistake>
+		<corrected>consisted of, constituted</corrected>
+	</entry>
+	<entry>
+		<mistake>constitutes of</mistake>
+		<corrected>consists of, constitutes</corrected>
+	</entry>
+	<entry>
+		<mistake>constituting of</mistake>
+		<corrected>consisting of, constituting</corrected>
+	</entry>
+	<entry>
+		<mistake>construction sight</mistake>
+		<corrected>construction site</corrected>
+	</entry>
+	<entry>
+		<mistake>contains of</mistake>
+		<corrected>consists of, contains</corrected>
+	</entry>
+	<entry>
+		<mistake>could backup</mistake>
+		<corrected>could back up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>could been</mistake>
+		<corrected>could be, could have been</corrected>
+	</entry>
+	<entry>
+		<mistake>could breath</mistake>
+		<corrected>could breathe [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>could care less</mistake>
+		<corrected>couldn't care less</corrected>
+	</entry>
+	<entry>
+		<mistake>could of</mistake>
+		<corrected>could have [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>could setup</mistake>
+		<corrected>could set up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>could spent</mistake>
+		<corrected>could spend</corrected>
+	</entry>
+	<entry>
+		<mistake>could workout</mistake>
+		<corrected>could work out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>couldn't breath</mistake>
+		<corrected>couldn't breathe [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>criteria is</mistake>
+		<corrected>criteria are [plural], criterion is [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>criteria was</mistake>
+		<corrected>criteria were [plural]</corrected>
+	</entry>
+	<entry>
+		<mistake>currently at this time</mistake>
+		<corrected>currently</corrected>
+	</entry>
+	<entry>
+		<mistake>daily regiment</mistake>
+		<corrected>daily regimen</corrected>
+	</entry>
+	<entry>
+		<mistake>darker then</mistake>
+		<corrected>darker than [comparative]</corrected>
+	</entry>
+	<entry>
+		<mistake>DC current</mistake>
+		<corrected>DC, direct current</corrected>
+	</entry>
+	<entry>
+		<mistake>de factor</mistake>
+		<corrected>de facto</corrected>
+	</entry>
+	<entry>
+		<mistake>de rigor</mistake>
+		<corrected>de rigueur</corrected>
+	</entry>
+	<entry>
+		<mistake>death nail</mistake>
+		<corrected>death knell</corrected>
+	</entry>
+	<entry>
+		<mistake>deciding on how</mistake>
+		<corrected>deciding how</corrected>
+	</entry>
+	<entry>
+		<mistake>deep-seeded</mistake>
+		<corrected>deep-seated</corrected>
+	</entry>
+	<entry>
+		<mistake>depending of</mistake>
+		<corrected>depending on</corrected>
+	</entry>
+	<entry>
+		<mistake>depending on who you</mistake>
+		<corrected>depending on whom you</corrected>
+	</entry>
+	<entry>
+		<mistake>depending upon who you</mistake>
+		<corrected>depending upon whom you</corrected>
+	</entry>
+	<entry>
+		<mistake>depends of</mistake>
+		<corrected>depends on</corrected>
+	</entry>
+	<entry>
+		<mistake>despite it's</mistake>
+		<corrected>despite its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>despite of</mistake>
+		<corrected>despite</corrected>
+	</entry>
+	<entry>
+		<mistake>despite of the fact</mistake>
+		<corrected>despite the fact, although, though</corrected>
+	</entry>
+	<entry>
+		<mistake>despite the fact that</mistake>
+		<corrected>although, though</corrected>
+	</entry>
+	<entry>
+		<mistake>did gave</mistake>
+		<corrected>did give</corrected>
+	</entry>
+	<entry>
+		<mistake>didn't fair</mistake>
+		<corrected>didn't fare</corrected>
+	</entry>
+	<entry>
+		<mistake>didn't had</mistake>
+		<corrected>didn't have</corrected>
+	</entry>
+	<entry>
+		<mistake>different tact</mistake>
+		<corrected>different tack</corrected>
+	</entry>
+	<entry>
+		<mistake>different to</mistake>
+		<corrected>different from</corrected>
+	</entry>
+	<entry>
+		<mistake>diffuse the situation</mistake>
+		<corrected>defuse the situation</corrected>
+	</entry>
+	<entry>
+		<mistake>diffuse the tension</mistake>
+		<corrected>defuse the tension</corrected>
+	</entry>
+	<entry>
+		<mistake>direct affect</mistake>
+		<corrected>direct effect</corrected>
+	</entry>
+	<entry>
+		<mistake>disc break</mistake>
+		<corrected>disc brake</corrected>
+	</entry>
+	<entry>
+		<mistake>do to</mistake>
+		<corrected>due to</corrected>
+	</entry>
+	<entry>
+		<mistake>doe snot</mistake>
+		<corrected>does not</corrected>
+	</entry>
+	<entry>
+		<mistake>dolling out</mistake>
+		<corrected>doling out [dole]</corrected>
+	</entry>
+	<entry>
+		<mistake>dominate player</mistake>
+		<corrected>dominant player</corrected>
+	</entry>
+	<entry>
+		<mistake>dominate role</mistake>
+		<corrected>dominant role</corrected>
+	</entry>
+	<entry>
+		<mistake>door jam</mistake>
+		<corrected>doorjamb</corrected>
+	</entry>
+	<entry>
+		<mistake>double header</mistake>
+		<corrected>doubleheader</corrected>
+	</entry>
+	<entry>
+		<mistake>down it's</mistake>
+		<corrected>down its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>down side</mistake>
+		<corrected>downside</corrected>
+	</entry>
+	<entry>
+		<mistake>due to it's</mistake>
+		<corrected>due to its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>due to the fact</mistake>
+		<corrected>because</corrected>
+	</entry>
+	<entry>
+		<mistake>during from</mistake>
+		<corrected>during, from</corrected>
+	</entry>
+	<entry>
+		<mistake>during in</mistake>
+		<corrected>during, in</corrected>
+	</entry>
+	<entry>
+		<mistake>during it's</mistake>
+		<corrected>during its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>during of</mistake>
+		<corrected>during, during or</corrected>
+	</entry>
+	<entry>
+		<mistake>during they're</mistake>
+		<corrected>during their [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>during to</mistake>
+		<corrected>during, during the</corrected>
+	</entry>
+	<entry>
+		<mistake>each alumni</mistake>
+		<corrected>each alumnus [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>each are</mistake>
+		<corrected>each is</corrected>
+	</entry>
+	<entry>
+		<mistake>each criteria</mistake>
+		<corrected>each criterion [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>each has their</mistake>
+		<corrected>each has its</corrected>
+	</entry>
+	<entry>
+		<mistake>each phenomena</mistake>
+		<corrected>each phenomenon [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>each vertebrae</mistake>
+		<corrected>each vertebra [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>easier then</mistake>
+		<corrected>easier than</corrected>
+	</entry>
+	<entry>
+		<mistake>egg yoke</mistake>
+		<corrected>egg yolk</corrected>
+	</entry>
+	<entry>
+		<mistake>either criteria</mistake>
+		<corrected>either criterion</corrected>
+	</entry>
+	<entry>
+		<mistake>either phenomena</mistake>
+		<corrected>either phenomenon</corrected>
+	</entry>
+	<entry>
+		<mistake>electrical current</mistake>
+		<corrected>electric current</corrected>
+	</entry>
+	<entry>
+		<mistake>eluded to</mistake>
+		<corrected>alluded to</corrected>
+	</entry>
+	<entry>
+		<mistake>emergency situation</mistake>
+		<corrected>emergency</corrected>
+	</entry>
+	<entry>
+		<mistake>en mass</mistake>
+		<corrected>en masse</corrected>
+	</entry>
+	<entry>
+		<mistake>even thought</mistake>
+		<corrected>even though</corrected>
+	</entry>
+	<entry>
+		<mistake>even tough</mistake>
+		<corrected>even though</corrected>
+	</entry>
+	<entry>
+		<mistake>exactly the same</mistake>
+		<corrected>the same</corrected>
+	</entry>
+	<entry>
+		<mistake>extract punishment</mistake>
+		<corrected>exact punishment</corrected>
+	</entry>
+	<entry>
+		<mistake>extract revenge</mistake>
+		<corrected>exact revenge</corrected>
+	</entry>
+	<entry>
+		<mistake>eye brow</mistake>
+		<corrected>eyebrow</corrected>
+	</entry>
+	<entry>
+		<mistake>eye lash</mistake>
+		<corrected>eyelash</corrected>
+	</entry>
+	<entry>
+		<mistake>eye lid</mistake>
+		<corrected>eyelid</corrected>
+	</entry>
+	<entry>
+		<mistake>eye sight</mistake>
+		<corrected>eyesight</corrected>
+	</entry>
+	<entry>
+		<mistake>eye sore</mistake>
+		<corrected>eyesore</corrected>
+	</entry>
+	<entry>
+		<mistake>faired as well</mistake>
+		<corrected>fared as well</corrected>
+	</entry>
+	<entry>
+		<mistake>faired badly</mistake>
+		<corrected>fared badly</corrected>
+	</entry>
+	<entry>
+		<mistake>faired better</mistake>
+		<corrected>fared better</corrected>
+	</entry>
+	<entry>
+		<mistake>faired far</mistake>
+		<corrected>fared far</corrected>
+	</entry>
+	<entry>
+		<mistake>faired less</mistake>
+		<corrected>fared less</corrected>
+	</entry>
+	<entry>
+		<mistake>faired little</mistake>
+		<corrected>fared little</corrected>
+	</entry>
+	<entry>
+		<mistake>faired much</mistake>
+		<corrected>fared much</corrected>
+	</entry>
+	<entry>
+		<mistake>faired no better</mistake>
+		<corrected>fared no better</corrected>
+	</entry>
+	<entry>
+		<mistake>faired poorly</mistake>
+		<corrected>fared poorly</corrected>
+	</entry>
+	<entry>
+		<mistake>faired quite</mistake>
+		<corrected>fared quite</corrected>
+	</entry>
+	<entry>
+		<mistake>faired rather</mistake>
+		<corrected>fared rather</corrected>
+	</entry>
+	<entry>
+		<mistake>faired slightly</mistake>
+		<corrected>fared slightly</corrected>
+	</entry>
+	<entry>
+		<mistake>faired somewhat</mistake>
+		<corrected>fared somewhat</corrected>
+	</entry>
+	<entry>
+		<mistake>faired well</mistake>
+		<corrected>fared well</corrected>
+	</entry>
+	<entry>
+		<mistake>faired worse</mistake>
+		<corrected>fared worse</corrected>
+	</entry>
+	<entry>
+		<mistake>farther then</mistake>
+		<corrected>farther than [comparative]</corrected>
+	</entry>
+	<entry>
+		<mistake>faster then</mistake>
+		<corrected>faster than</corrected>
+	</entry>
+	<entry>
+		<mistake>figure head</mistake>
+		<corrected>figurehead</corrected>
+	</entry>
+	<entry>
+		<mistake>first and foremost</mistake>
+		<corrected>first, foremost</corrected>
+	</entry>
+	<entry>
+		<mistake>First Word War</mistake>
+		<corrected>First World War</corrected>
+	</entry>
+	<entry>
+		<mistake>five month's</mistake>
+		<corrected>five months [plural], five months'</corrected>
+	</entry>
+	<entry>
+		<mistake>flag ship</mistake>
+		<corrected>flagship</corrected>
+	</entry>
+	<entry>
+		<mistake>flow of current</mistake>
+		<corrected>current, flow of charge</corrected>
+	</entry>
+	<entry>
+		<mistake>flow of electric current</mistake>
+		<corrected>electric current, flow of electric charge</corrected>
+	</entry>
+	<entry>
+		<mistake>follow suite</mistake>
+		<corrected>follow suit</corrected>
+	</entry>
+	<entry>
+		<mistake>following it's</mistake>
+		<corrected>following its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>for all intensive purposes</mistake>
+		<corrected>for all intents and purposes</corrected>
+	</entry>
+	<entry>
+		<mistake>for along time</mistake>
+		<corrected>for a long time</corrected>
+	</entry>
+	<entry>
+		<mistake>for awhile</mistake>
+		<corrected>for a while</corrected>
+	</entry>
+	<entry>
+		<mistake>for he and</mistake>
+		<corrected>for him and</corrected>
+	</entry>
+	<entry>
+		<mistake>for it's</mistake>
+		<corrected>for its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>for quite awhile</mistake>
+		<corrected>for quite a while</corrected>
+	</entry>
+	<entry>
+		<mistake>fore ground</mistake>
+		<corrected>foreground</corrected>
+	</entry>
+	<entry>
+		<mistake>forego her</mistake>
+		<corrected>forgo her</corrected>
+	</entry>
+	<entry>
+		<mistake>forego his</mistake>
+		<corrected>forgo his</corrected>
+	</entry>
+	<entry>
+		<mistake>forego their</mistake>
+		<corrected>forgo their</corrected>
+	</entry>
+	<entry>
+		<mistake>forgone conclusion</mistake>
+		<corrected>foregone conclusion</corrected>
+	</entry>
+	<entry>
+		<mistake>for who</mistake>
+		<corrected>for whom</corrected>
+	</entry>
+	<entry>
+		<mistake>for who to</mistake>
+		<corrected>for whom to</corrected>
+	</entry>
+	<entry>
+		<mistake>formally know as</mistake>
+		<corrected>formerly known as [but only if the change can be verified]</corrected>
+	</entry>
+	<entry>
+		<mistake>formerly know as</mistake>
+		<corrected>formerly known as</corrected>
+	</entry>
+	<entry>
+		<mistake>forth place</mistake>
+		<corrected>fourth place</corrected>
+	</entry>
+	<entry>
+		<mistake>free reign</mistake>
+		<corrected>free rein</corrected>
+	</entry>
+	<entry>
+		<mistake>freshman are</mistake>
+		<corrected>freshman is, freshmen are [plural]</corrected>
+	</entry>
+	<entry>
+		<mistake>from who</mistake>
+		<corrected>from whom</corrected>
+	</entry>
+	<entry>
+		<mistake>full compliment of</mistake>
+		<corrected>full complement of</corrected>
+	</entry>
+	<entry>
+		<mistake>future plans</mistake>
+		<corrected>plans</corrected>
+	</entry>
+	<entry>
+		<mistake>get pass</mistake>
+		<corrected>get past</corrected>
+	</entry>
+	<entry>
+		<mistake>get setup</mistake>
+		<corrected>get set up</corrected>
+	</entry>
+	<entry>
+		<mistake>get use to</mistake>
+		<corrected>get used to</corrected>
+	</entry>
+	<entry>
+		<mistake>gets it's</mistake>
+		<corrected>gets its</corrected>
+	</entry>
+	<entry>
+		<mistake>getting use to</mistake>
+		<corrected>getting used to</corrected>
+	</entry>
+	<entry>
+		<mistake>going threw</mistake>
+		<corrected>going through</corrected>
+	</entry>
+	<entry>
+		<mistake>got ran</mistake>
+		<corrected>got run</corrected>
+	</entry>
+	<entry>
+		<mistake>got setup</mistake>
+		<corrected>got set up</corrected>
+	</entry>
+	<entry>
+		<mistake>got shutdown</mistake>
+		<corrected>got shut down</corrected>
+	</entry>
+	<entry>
+		<mistake>got shutout</mistake>
+		<corrected>got shut out</corrected>
+	</entry>
+	<entry>
+		<mistake>greater then</mistake>
+		<corrected>greater than</corrected>
+	</entry>
+	<entry>
+		<mistake>ground work</mistake>
+		<corrected>groundwork</corrected>
+	</entry>
+	<entry>
+		<mistake>guest stared</mistake>
+		<corrected>guest-starred</corrected>
+	</entry>
+	<entry>
+		<mistake>had arose</mistake>
+		<corrected>had arisen</corrected>
+	</entry>
+	<entry>
+		<mistake>had awoke</mistake>
+		<corrected>had awoken</corrected>
+	</entry>
+	<entry>
+		<mistake>had be</mistake>
+		<corrected>had been</corrected>
+	</entry>
+	<entry>
+		<mistake>had became</mistake>
+		<corrected>had become</corrected>
+	</entry>
+	<entry>
+		<mistake>had began</mistake>
+		<corrected>had begun</corrected>
+	</entry>
+	<entry>
+		<mistake>had being</mistake>
+		<corrected>had been</corrected>
+	</entry>
+	<entry>
+		<mistake>had ben</mistake>
+		<corrected>had been</corrected>
+	</entry>
+	<entry>
+		<mistake>had bore</mistake>
+		<corrected>had borne</corrected>
+	</entry>
+	<entry>
+		<mistake>had broke</mistake>
+		<corrected>had broken</corrected>
+	</entry>
+	<entry>
+		<mistake>had brung</mistake>
+		<corrected>had brought</corrected>
+	</entry>
+	<entry>
+		<mistake>had came</mistake>
+		<corrected>had come</corrected>
+	</entry>
+	<entry>
+		<mistake>had chose</mistake>
+		<corrected>had chosen</corrected>
+	</entry>
+	<entry>
+		<mistake>had comeback</mistake>
+		<corrected>had come back [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>had cut-off</mistake>
+		<corrected>had cut off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>had did</mistake>
+		<corrected>had done</corrected>
+	</entry>
+	<entry>
+		<mistake>had drank</mistake>
+		<corrected>had drunk</corrected>
+	</entry>
+	<entry>
+		<mistake>had drew</mistake>
+		<corrected>had drawn</corrected>
+	</entry>
+	<entry>
+		<mistake>had drove</mistake>
+		<corrected>had driven</corrected>
+	</entry>
+	<entry>
+		<mistake>had fell</mistake>
+		<corrected>had fallen</corrected>
+	</entry>
+	<entry>
+		<mistake>had flew</mistake>
+		<corrected>had flown</corrected>
+	</entry>
+	<entry>
+		<mistake>had forbad</mistake>
+		<corrected>had forbidden</corrected>
+	</entry>
+	<entry>
+		<mistake>had forbade</mistake>
+		<corrected>had forbidden</corrected>
+	</entry>
+	<entry>
+		<mistake>had gave</mistake>
+		<corrected>had given</corrected>
+	</entry>
+	<entry>
+		<mistake>had grew</mistake>
+		<corrected>had grown</corrected>
+	</entry>
+	<entry>
+		<mistake>had it's</mistake>
+		<corrected>had its</corrected>
+	</entry>
+	<entry>
+		<mistake>had knew</mistake>
+		<corrected>had known</corrected>
+	</entry>
+	<entry>
+		<mistake>had know</mistake>
+		<corrected>had known</corrected>
+	</entry>
+	<entry>
+		<mistake>had lead the</mistake>
+		<corrected>had led the</corrected>
+	</entry>
+	<entry>
+		<mistake>had lead to</mistake>
+		<corrected>had led to</corrected>
+	</entry>
+	<entry>
+		<mistake>had meet</mistake>
+		<corrected>had met</corrected>
+	</entry>
+	<entry>
+		<mistake>had mislead</mistake>
+		<corrected>had misled</corrected>
+	</entry>
+	<entry>
+		<mistake>had overcame</mistake>
+		<corrected>had overcome</corrected>
+	</entry>
+	<entry>
+		<mistake>had overran</mistake>
+		<corrected>had overrun</corrected>
+	</entry>
+	<entry>
+		<mistake>had overtook</mistake>
+		<corrected>had overtaken</corrected>
+	</entry>
+	<entry>
+		<mistake>had plead</mistake>
+		<corrected>had pleaded, had pled</corrected>
+	</entry>
+	<entry>
+		<mistake>had ran</mistake>
+		<corrected>had run</corrected>
+	</entry>
+	<entry>
+		<mistake>had rang</mistake>
+		<corrected>had rung</corrected>
+	</entry>
+	<entry>
+		<mistake>had rode</mistake>
+		<corrected>had ridden</corrected>
+	</entry>
+	<entry>
+		<mistake>had rose</mistake>
+		<corrected>had risen</corrected>
+	</entry>
+	<entry>
+		<mistake>had runaway</mistake>
+		<corrected>had run away [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>had sang</mistake>
+		<corrected>had sung</corrected>
+	</entry>
+	<entry>
+		<mistake>had saw</mistake>
+		<corrected>had seen</corrected>
+	</entry>
+	<entry>
+		<mistake>had send</mistake>
+		<corrected>had sent</corrected>
+	</entry>
+	<entry>
+		<mistake>had set-up</mistake>
+		<corrected>had set up</corrected>
+	</entry>
+	<entry>
+		<mistake>had setup</mistake>
+		<corrected>had set up</corrected>
+	</entry>
+	<entry>
+		<mistake>had shook</mistake>
+		<corrected>had shaken</corrected>
+	</entry>
+	<entry>
+		<mistake>had shut-down</mistake>
+		<corrected>had shut down</corrected>
+	</entry>
+	<entry>
+		<mistake>had shutdown</mistake>
+		<corrected>had shut down</corrected>
+	</entry>
+	<entry>
+		<mistake>had shutout</mistake>
+		<corrected>had shut out</corrected>
+	</entry>
+	<entry>
+		<mistake>had sit</mistake>
+		<corrected>had sat</corrected>
+	</entry>
+	<entry>
+		<mistake>had sowed</mistake>
+		<corrected>had sown</corrected>
+	</entry>
+	<entry>
+		<mistake>had spend</mistake>
+		<corrected>had spent</corrected>
+	</entry>
+	<entry>
+		<mistake>had spoke</mistake>
+		<corrected>had spoken</corrected>
+	</entry>
+	<entry>
+		<mistake>had sprang</mistake>
+		<corrected>had sprung</corrected>
+	</entry>
+	<entry>
+		<mistake>had swam</mistake>
+		<corrected>had swum</corrected>
+	</entry>
+	<entry>
+		<mistake>had threw</mistake>
+		<corrected>had thrown</corrected>
+	</entry>
+	<entry>
+		<mistake>had throve</mistake>
+		<corrected>had thriven, had thrived</corrected>
+	</entry>
+	<entry>
+		<mistake>had thunk</mistake>
+		<corrected>had thought</corrected>
+	</entry>
+	<entry>
+		<mistake>had to much</mistake>
+		<corrected>had too much</corrected>
+	</entry>
+	<entry>
+		<mistake>had to used</mistake>
+		<corrected>had to use</corrected>
+	</entry>
+	<entry>
+		<mistake>had took</mistake>
+		<corrected>had taken</corrected>
+	</entry>
+	<entry>
+		<mistake>had tore</mistake>
+		<corrected>had torn</corrected>
+	</entry>
+	<entry>
+		<mistake>had trod</mistake>
+		<corrected>had trodden</corrected>
+	</entry>
+	<entry>
+		<mistake>had undertook</mistake>
+		<corrected>had undertaken</corrected>
+	</entry>
+	<entry>
+		<mistake>had underwent</mistake>
+		<corrected>had undergone</corrected>
+	</entry>
+	<entry>
+		<mistake>had went</mistake>
+		<corrected>had gone</corrected>
+	</entry>
+	<entry>
+		<mistake>had woke</mistake>
+		<corrected>had woken</corrected>
+	</entry>
+	<entry>
+		<mistake>had wore</mistake>
+		<corrected>had worn</corrected>
+	</entry>
+	<entry>
+		<mistake>had wrote</mistake>
+		<corrected>had written</corrected>
+	</entry>
+	<entry>
+		<mistake>hadn't went</mistake>
+		<corrected>hadn't gone</corrected>
+	</entry>
+	<entry>
+		<mistake>half and hour</mistake>
+		<corrected>half an hour</corrected>
+	</entry>
+	<entry>
+		<mistake>hand the reigns</mistake>
+		<corrected>hand the reins</corrected>
+	</entry>
+	<entry>
+		<mistake>has arose</mistake>
+		<corrected>has arisen</corrected>
+	</entry>
+	<entry>
+		<mistake>has awoke</mistake>
+		<corrected>has awoken</corrected>
+	</entry>
+	<entry>
+		<mistake>has be</mistake>
+		<corrected>has been</corrected>
+	</entry>
+	<entry>
+		<mistake>has became</mistake>
+		<corrected>became, has become</corrected>
+	</entry>
+	<entry>
+		<mistake>has been build</mistake>
+		<corrected>has been built</corrected>
+	</entry>
+	<entry>
+		<mistake>has began</mistake>
+		<corrected>began, has begun</corrected>
+	</entry>
+	<entry>
+		<mistake>has being</mistake>
+		<corrected>as being, has been</corrected>
+	</entry>
+	<entry>
+		<mistake>has ben</mistake>
+		<corrected>has been</corrected>
+	</entry>
+	<entry>
+		<mistake>has bore</mistake>
+		<corrected>has borne</corrected>
+	</entry>
+	<entry>
+		<mistake>has broke</mistake>
+		<corrected>has broken</corrected>
+	</entry>
+	<entry>
+		<mistake>has brung</mistake>
+		<corrected>has brought</corrected>
+	</entry>
+	<entry>
+		<mistake>has build</mistake>
+		<corrected>has built</corrected>
+	</entry>
+	<entry>
+		<mistake>has came</mistake>
+		<corrected>has come</corrected>
+	</entry>
+	<entry>
+		<mistake>has chose</mistake>
+		<corrected>has chosen</corrected>
+	</entry>
+	<entry>
+		<mistake>has comeback</mistake>
+		<corrected>has come back</corrected>
+	</entry>
+	<entry>
+		<mistake>has cut-off</mistake>
+		<corrected>has cut off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>has did</mistake>
+		<corrected>has done</corrected>
+	</entry>
+	<entry>
+		<mistake>has drank</mistake>
+		<corrected>has drunk</corrected>
+	</entry>
+	<entry>
+		<mistake>has drew</mistake>
+		<corrected>has drawn</corrected>
+	</entry>
+	<entry>
+		<mistake>has drove</mistake>
+		<corrected>has driven</corrected>
+	</entry>
+	<entry>
+		<mistake>has fell</mistake>
+		<corrected>has fallen</corrected>
+	</entry>
+	<entry>
+		<mistake>has flew</mistake>
+		<corrected>has flown</corrected>
+	</entry>
+	<entry>
+		<mistake>has forbad</mistake>
+		<corrected>has forbidden</corrected>
+	</entry>
+	<entry>
+		<mistake>has forbade</mistake>
+		<corrected>has forbidden</corrected>
+	</entry>
+	<entry>
+		<mistake>has gave</mistake>
+		<corrected>has given</corrected>
+	</entry>
+	<entry>
+		<mistake>has gives</mistake>
+		<corrected>gives, has given</corrected>
+	</entry>
+	<entry>
+		<mistake>has it's</mistake>
+		<corrected>has its</corrected>
+	</entry>
+	<entry>
+		<mistake>has knew</mistake>
+		<corrected>has known</corrected>
+	</entry>
+	<entry>
+		<mistake>has know</mistake>
+		<corrected>has known, has now</corrected>
+	</entry>
+	<entry>
+		<mistake>has lead the</mistake>
+		<corrected>has led the</corrected>
+	</entry>
+	<entry>
+		<mistake>has lead to</mistake>
+		<corrected>has led to</corrected>
+	</entry>
+	<entry>
+		<mistake>has meet</mistake>
+		<corrected>has met</corrected>
+	</entry>
+	<entry>
+		<mistake>has mislead</mistake>
+		<corrected>has misled</corrected>
+	</entry>
+	<entry>
+		<mistake>has overcame</mistake>
+		<corrected>has overcome</corrected>
+	</entry>
+	<entry>
+		<mistake>has plays</mistake>
+		<corrected>has played, plays [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>has plead</mistake>
+		<corrected>has pleaded, has pled</corrected>
+	</entry>
+	<entry>
+		<mistake>has ran</mistake>
+		<corrected>has run</corrected>
+	</entry>
+	<entry>
+		<mistake>has rang</mistake>
+		<corrected>has rung</corrected>
+	</entry>
+	<entry>
+		<mistake>has sang</mistake>
+		<corrected>has sung</corrected>
+	</entry>
+	<entry>
+		<mistake>has set-up</mistake>
+		<corrected>has set up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>has setup</mistake>
+		<corrected>has set up</corrected>
+	</entry>
+	<entry>
+		<mistake>has shook</mistake>
+		<corrected>has shaken</corrected>
+	</entry>
+	<entry>
+		<mistake>has spoke</mistake>
+		<corrected>has spoken</corrected>
+	</entry>
+	<entry>
+		<mistake>has sprang</mistake>
+		<corrected>has sprung</corrected>
+	</entry>
+	<entry>
+		<mistake>has swam</mistake>
+		<corrected>has swum</corrected>
+	</entry>
+	<entry>
+		<mistake>has threw</mistake>
+		<corrected>has thrown</corrected>
+	</entry>
+	<entry>
+		<mistake>has throve</mistake>
+		<corrected>has thrived, has thriven</corrected>
+	</entry>
+	<entry>
+		<mistake>has thunk</mistake>
+		<corrected>has thought</corrected>
+	</entry>
+	<entry>
+		<mistake>has took</mistake>
+		<corrected>has taken</corrected>
+	</entry>
+	<entry>
+		<mistake>has trod</mistake>
+		<corrected>has trodden</corrected>
+	</entry>
+	<entry>
+		<mistake>has undertook</mistake>
+		<corrected>has undertaken</corrected>
+	</entry>
+	<entry>
+		<mistake>has underwent</mistake>
+		<corrected>has undergone</corrected>
+	</entry>
+	<entry>
+		<mistake>has was</mistake>
+		<corrected>he was, was</corrected>
+	</entry>
+	<entry>
+		<mistake>has went</mistake>
+		<corrected>has gone</corrected>
+	</entry>
+	<entry>
+		<mistake>has woke</mistake>
+		<corrected>has woken</corrected>
+	</entry>
+	<entry>
+		<mistake>has wrote</mistake>
+		<corrected>has written</corrected>
+	</entry>
+	<entry>
+		<mistake>have drank</mistake>
+		<corrected>have drunken</corrected>
+	</entry>
+	<entry>
+		<mistake>have it's</mistake>
+		<corrected>have its</corrected>
+	</entry>
+	<entry>
+		<mistake>have lead to</mistake>
+		<corrected>have led to</corrected>
+	</entry>
+	<entry>
+		<mistake>have mislead</mistake>
+		<corrected>have misled</corrected>
+	</entry>
+	<entry>
+		<mistake>have ran</mistake>
+		<corrected>have run</corrected>
+	</entry>
+	<entry>
+		<mistake>have rang</mistake>
+		<corrected>have rung</corrected>
+	</entry>
+	<entry>
+		<mistake>have sang</mistake>
+		<corrected>have sung</corrected>
+	</entry>
+	<entry>
+		<mistake>have setup</mistake>
+		<corrected>have set up</corrected>
+	</entry>
+	<entry>
+		<mistake>have sprang</mistake>
+		<corrected>have sprung</corrected>
+	</entry>
+	<entry>
+		<mistake>have swam</mistake>
+		<corrected>have swum</corrected>
+	</entry>
+	<entry>
+		<mistake>have took</mistake>
+		<corrected>have taken</corrected>
+	</entry>
+	<entry>
+		<mistake>have underwent</mistake>
+		<corrected>have undergone</corrected>
+	</entry>
+	<entry>
+		<mistake>have went</mistake>
+		<corrected>have gone</corrected>
+	</entry>
+	<entry>
+		<mistake>having became</mistake>
+		<corrected>having become</corrected>
+	</entry>
+	<entry>
+		<mistake>having began</mistake>
+		<corrected>having begun</corrected>
+	</entry>
+	<entry>
+		<mistake>having being</mistake>
+		<corrected>having been</corrected>
+	</entry>
+	<entry>
+		<mistake>having it's</mistake>
+		<corrected>having its</corrected>
+	</entry>
+	<entry>
+		<mistake>having ran</mistake>
+		<corrected>having run</corrected>
+	</entry>
+	<entry>
+		<mistake>having sang</mistake>
+		<corrected>having sung</corrected>
+	</entry>
+	<entry>
+		<mistake>having setup</mistake>
+		<corrected>having set up</corrected>
+	</entry>
+	<entry>
+		<mistake>having swam</mistake>
+		<corrected>having swum</corrected>
+	</entry>
+	<entry>
+		<mistake>having took</mistake>
+		<corrected>having taken</corrected>
+	</entry>
+	<entry>
+		<mistake>having underwent</mistake>
+		<corrected>having undergone</corrected>
+	</entry>
+	<entry>
+		<mistake>having went</mistake>
+		<corrected>having gone</corrected>
+	</entry>
+	<entry>
+		<mistake>hay day</mistake>
+		<corrected>heyday</corrected>
+	</entry>
+	<entry>
+		<mistake>he begun</mistake>
+		<corrected>he began</corrected>
+	</entry>
+	<entry>
+		<mistake>he garnished</mistake>
+		<corrected>he garnered</corrected>
+	</entry>
+	<entry>
+		<mistake>he let's</mistake>
+		<corrected>he lets</corrected>
+	</entry>
+	<entry>
+		<mistake>he plead</mistake>
+		<corrected>he pleaded, he pled</corrected>
+	</entry>
+	<entry>
+		<mistake>he seen</mistake>
+		<corrected>he saw</corrected>
+	</entry>
+	<entry>
+		<mistake>he use to</mistake>
+		<corrected>he used to</corrected>
+	</entry>
+	<entry>
+		<mistake>he's drank</mistake>
+		<corrected>he drank, he's drunk</corrected>
+	</entry>
+	<entry>
+		<mistake>head gear</mistake>
+		<corrected>headgear</corrected>
+	</entry>
+	<entry>
+		<mistake>head quarters</mistake>
+		<corrected>headquarters</corrected>
+	</entry>
+	<entry>
+		<mistake>head stone</mistake>
+		<corrected>headstone</corrected>
+	</entry>
+	<entry>
+		<mistake>head wear</mistake>
+		<corrected>headwear</corrected>
+	</entry>
+	<entry>
+		<mistake>held the reigns</mistake>
+		<corrected>held the reins</corrected>
+	</entry>
+	<entry>
+		<mistake>help and make</mistake>
+		<corrected>help to make</corrected>
+	</entry>
+	<entry>
+		<mistake>higher then</mistake>
+		<corrected>higher than [comparative]</corrected>
+	</entry>
+	<entry>
+		<mistake>his worked</mistake>
+		<corrected>he worked, his work</corrected>
+	</entry>
+	<entry>
+		<mistake>hit the breaks</mistake>
+		<corrected>hit the brakes</corrected>
+	</entry>
+	<entry>
+		<mistake>hold onto</mistake>
+		<corrected>hold on to</corrected>
+	</entry>
+	<entry>
+		<mistake>hold the reigns</mistake>
+		<corrected>hold the reins</corrected>
+	</entry>
+	<entry>
+		<mistake>holding the reigns</mistake>
+		<corrected>holding the reins</corrected>
+	</entry>
+	<entry>
+		<mistake>holds the reigns</mistake>
+		<corrected>holds the reins</corrected>
+	</entry>
+	<entry>
+		<mistake>hone in on</mistake>
+		<corrected>home in on</corrected>
+	</entry>
+	<entry>
+		<mistake>hotter then</mistake>
+		<corrected>hotter than [comparative]</corrected>
+	</entry>
+	<entry>
+		<mistake>house hold</mistake>
+		<corrected>household</corrected>
+	</entry>
+	<entry>
+		<mistake>how ever</mistake>
+		<corrected>however</corrected>
+	</entry>
+	<entry>
+		<mistake>imminent domain</mistake>
+		<corrected>eminent domain</corrected>
+	</entry>
+	<entry>
+		<mistake>in affect</mistake>
+		<corrected>in effect</corrected>
+	</entry>
+	<entry>
+		<mistake>in along time</mistake>
+		<corrected>in a long time</corrected>
+	</entry>
+	<entry>
+		<mistake>in an of itself</mistake>
+		<corrected>in and of itself</corrected>
+	</entry>
+	<entry>
+		<mistake>in another words</mistake>
+		<corrected>in other words</corrected>
+	</entry>
+	<entry>
+		<mistake>in anyway</mistake>
+		<corrected>in any way</corrected>
+	</entry>
+	<entry>
+		<mistake>in awhile</mistake>
+		<corrected>in a while</corrected>
+	</entry>
+	<entry>
+		<mistake>in close proximity to</mistake>
+		<corrected>close to, in proximity to, near</corrected>
+	</entry>
+	<entry>
+		<mistake>in edition to</mistake>
+		<corrected>in addition to</corrected>
+	</entry>
+	<entry>
+		<mistake>in either in</mistake>
+		<corrected>either in, in either</corrected>
+	</entry>
+	<entry>
+		<mistake>in exchanged for</mistake>
+		<corrected>in exchange for</corrected>
+	</entry>
+	<entry>
+		<mistake>in it's</mistake>
+		<corrected>in its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>in January 1</mistake>
+		<corrected>on January 1</corrected>
+	</entry>
+	<entry>
+		<mistake>in masse</mistake>
+		<corrected>en masse, in massam</corrected>
+	</entry>
+	<entry>
+		<mistake>in parenthesis</mistake>
+		<corrected>in parentheses</corrected>
+	</entry>
+	<entry>
+		<mistake>in placed</mistake>
+		<corrected>in place</corrected>
+	</entry>
+	<entry>
+		<mistake>in principal</mistake>
+		<corrected>in principle</corrected>
+	</entry>
+	<entry>
+		<mistake>in quite awhile</mistake>
+		<corrected>in quite a while</corrected>
+	</entry>
+	<entry>
+		<mistake>in stead of</mistake>
+		<corrected>instead of</corrected>
+	</entry>
+	<entry>
+		<mistake>in tact</mistake>
+		<corrected>intact</corrected>
+	</entry>
+	<entry>
+		<mistake>in the long-term</mistake>
+		<corrected>in the long term</corrected>
+	</entry>
+	<entry>
+		<mistake>in the short-term</mistake>
+		<corrected>in the short term</corrected>
+	</entry>
+	<entry>
+		<mistake>in titled</mistake>
+		<corrected>entitled</corrected>
+	</entry>
+	<entry>
+		<mistake>in vein</mistake>
+		<corrected>in vain</corrected>
+	</entry>
+	<entry>
+		<mistake>in view of the fact that</mistake>
+		<corrected>since</corrected>
+	</entry>
+	<entry>
+		<mistake>incase of</mistake>
+		<corrected>in case of</corrected>
+	</entry>
+	<entry>
+		<mistake>including he</mistake>
+		<corrected>including him, including the</corrected>
+	</entry>
+	<entry>
+		<mistake>inorder to</mistake>
+		<corrected>in order to</corrected>
+	</entry>
+	<entry>
+		<mistake>into affect</mistake>
+		<corrected>into effect</corrected>
+	</entry>
+	<entry>
+		<mistake>into it's</mistake>
+		<corrected>into its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>into to</mistake>
+		<corrected>into</corrected>
+	</entry>
+	<entry>
+		<mistake>is also is</mistake>
+		<corrected>is also</corrected>
+	</entry>
+	<entry>
+		<mistake>is also know</mistake>
+		<corrected>is also known</corrected>
+	</entry>
+	<entry>
+		<mistake>is appears</mistake>
+		<corrected>appears, it appears</corrected>
+	</entry>
+	<entry>
+		<mistake>is are</mistake>
+		<corrected>are, is</corrected>
+	</entry>
+	<entry>
+		<mistake>is be</mistake>
+		<corrected>is, is by, is to be, was</corrected>
+	</entry>
+	<entry>
+		<mistake>is been</mistake>
+		<corrected>has been, is being</corrected>
+	</entry>
+	<entry>
+		<mistake>is capable of being</mistake>
+		<corrected>can be</corrected>
+	</entry>
+	<entry>
+		<mistake>is comprised from</mistake>
+		<corrected>comprises</corrected>
+	</entry>
+	<entry>
+		<mistake>is comprised with</mistake>
+		<corrected>comprises</corrected>
+	</entry>
+	<entry>
+		<mistake>is compromised of</mistake>
+		<corrected>comprises, consists of, is composed of</corrected>
+	</entry>
+	<entry>
+		<mistake>is consider</mistake>
+		<corrected>is considered</corrected>
+	</entry>
+	<entry>
+		<mistake>is contained of</mistake>
+		<corrected>contains</corrected>
+	</entry>
+	<entry>
+		<mistake>is dedicated to providing</mistake>
+		<corrected>provides</corrected>
+	</entry>
+	<entry>
+		<mistake>is does</mistake>
+		<corrected>does, it does</corrected>
+	</entry>
+	<entry>
+		<mistake>is focuses</mistake>
+		<corrected>is focused</corrected>
+	</entry>
+	<entry>
+		<mistake>is front of</mistake>
+		<corrected>in front of, is in front of</corrected>
+	</entry>
+	<entry>
+		<mistake>is has</mistake>
+		<corrected>has, it has</corrected>
+	</entry>
+	<entry>
+		<mistake>is it's</mistake>
+		<corrected>is its</corrected>
+	</entry>
+	<entry>
+		<mistake>is know</mistake>
+		<corrected>is known</corrected>
+	</entry>
+	<entry>
+		<mistake>is lead by</mistake>
+		<corrected>is led by</corrected>
+	</entry>
+	<entry>
+		<mistake>is loathe to</mistake>
+		<corrected>is loath to</corrected>
+	</entry>
+	<entry>
+		<mistake>is not know</mistake>
+		<corrected>is not known</corrected>
+	</entry>
+	<entry>
+		<mistake>is not only is</mistake>
+		<corrected>is not only</corrected>
+	</entry>
+	<entry>
+		<mistake>is probably is</mistake>
+		<corrected>is probably</corrected>
+	</entry>
+	<entry>
+		<mistake>is ran by</mistake>
+		<corrected>is run by</corrected>
+	</entry>
+	<entry>
+		<mistake>is renown for</mistake>
+		<corrected>is renowned for</corrected>
+	</entry>
+	<entry>
+		<mistake>is schedule to</mistake>
+		<corrected>is scheduled to</corrected>
+	</entry>
+	<entry>
+		<mistake>is seems</mistake>
+		<corrected>it seems, seems</corrected>
+	</entry>
+	<entry>
+		<mistake>is set-up</mistake>
+		<corrected>is set up</corrected>
+	</entry>
+	<entry>
+		<mistake>is setup</mistake>
+		<corrected>is set up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>is show on</mistake>
+		<corrected>is a show on, is shown on</corrected>
+	</entry>
+	<entry>
+		<mistake>is the fact that</mistake>
+		<corrected>is that</corrected>
+	</entry>
+	<entry>
+		<mistake>is use to</mistake>
+		<corrected>is used to</corrected>
+	</entry>
+	<entry>
+		<mistake>is wants</mistake>
+		<corrected>wants</corrected>
+	</entry>
+	<entry>
+		<mistake>is was</mistake>
+		<corrected>it was, was</corrected>
+	</entry>
+	<entry>
+		<mistake>is were</mistake>
+		<corrected>is where, were</corrected>
+	</entry>
+	<entry>
+		<mistake>ISBN number</mistake>
+		<corrected>International Standard Book Number, ISBN</corrected>
+	</entry>
+	<entry>
+		<mistake>it begun</mistake>
+		<corrected>it began</corrected>
+	</entry>
+	<entry>
+		<mistake>it comprises of</mistake>
+		<corrected>it comprises</corrected>
+	</entry>
+	<entry>
+		<mistake>it effect</mistake>
+		<corrected>its effect</corrected>
+	</entry>
+	<entry>
+		<mistake>it is though that</mistake>
+		<corrected>it is thought that</corrected>
+	</entry>
+	<entry>
+		<mistake>it is though to</mistake>
+		<corrected>it is thought to</corrected>
+	</entry>
+	<entry>
+		<mistake>it lead to</mistake>
+		<corrected>it led to</corrected>
+	</entry>
+	<entry>
+		<mistake>it lied</mistake>
+		<corrected>it lay</corrected>
+	</entry>
+	<entry>
+		<mistake>it self</mistake>
+		<corrected>itself</corrected>
+	</entry>
+	<entry>
+		<mistake>it set-up</mistake>
+		<corrected>it set up</corrected>
+	</entry>
+	<entry>
+		<mistake>it setup</mistake>
+		<corrected>it set up</corrected>
+	</entry>
+	<entry>
+		<mistake>it spend</mistake>
+		<corrected>it spent</corrected>
+	</entry>
+	<entry>
+		<mistake>it use to</mistake>
+		<corrected>it used to</corrected>
+	</entry>
+	<entry>
+		<mistake>it was her who</mistake>
+		<corrected>it was she who</corrected>
+	</entry>
+	<entry>
+		<mistake>it was him who</mistake>
+		<corrected>it was he who</corrected>
+	</entry>
+	<entry>
+		<mistake>it weighted</mistake>
+		<corrected>it weighed</corrected>
+	</entry>
+	<entry>
+		<mistake>it weights</mistake>
+		<corrected>it weighs</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 1000th</mistake>
+		<corrected>its 1000th [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 100th</mistake>
+		<corrected>its 100th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 10th</mistake>
+		<corrected>its 10th, its tenth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 11th</mistake>
+		<corrected>its 11th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 125th</mistake>
+		<corrected>its 125th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 12th</mistake>
+		<corrected>its 12th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 13th</mistake>
+		<corrected>its 13th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 14th</mistake>
+		<corrected>its 14th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 150th</mistake>
+		<corrected>its 150th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 15th</mistake>
+		<corrected>its 15th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 16th</mistake>
+		<corrected>its 16th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 17th</mistake>
+		<corrected>its 17th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 18th</mistake>
+		<corrected>its 18th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 19th</mistake>
+		<corrected>its 19th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 1st</mistake>
+		<corrected>its 1st, its first</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 2</mistake>
+		<corrected>its two</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 2000th</mistake>
+		<corrected>its 2000th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 200th</mistake>
+		<corrected>its 200th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 20th</mistake>
+		<corrected>its 20th, its twentieth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 21st</mistake>
+		<corrected>its 21st, its twenty-first</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 25th</mistake>
+		<corrected>its 25th, its twenty-fifth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 2nd</mistake>
+		<corrected>its 2nd, its second</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 300th</mistake>
+		<corrected>its 300th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 30th</mistake>
+		<corrected>its 30th, its thirtieth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 3rd</mistake>
+		<corrected>its 3rd, its third</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 400th</mistake>
+		<corrected>its 400th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 40th</mistake>
+		<corrected>its 40th, its fortieth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 4th</mistake>
+		<corrected>its 4th, its fourth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 500th</mistake>
+		<corrected>its 500th</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 50th</mistake>
+		<corrected>its 50th, its fiftieth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 5th</mistake>
+		<corrected>its 5th, its fifth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 6</mistake>
+		<corrected>its six</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 60th</mistake>
+		<corrected>its 60th, its sixtieth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 6th</mistake>
+		<corrected>its 6th, its sixth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 70th</mistake>
+		<corrected>its 70th, its seventieth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 7th</mistake>
+		<corrected>its 7th, its seventh</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 80th</mistake>
+		<corrected>its 80th, its eightieth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 8th</mistake>
+		<corrected>its 8th, its eighth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 90th</mistake>
+		<corrected>its 90th, its ninetieth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's 9th</mistake>
+		<corrected>its 9th, its ninth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's A-side</mistake>
+		<corrected>its A-side</corrected>
+	</entry>
+	<entry>
+		<mistake>it's ability</mistake>
+		<corrected>its ability</corrected>
+	</entry>
+	<entry>
+		<mistake>it's advantage</mistake>
+		<corrected>its advantage</corrected>
+	</entry>
+	<entry>
+		<mistake>it's aim</mistake>
+		<corrected>its aim</corrected>
+	</entry>
+	<entry>
+		<mistake>it's anniversary</mistake>
+		<corrected>its anniversary</corrected>
+	</entry>
+	<entry>
+		<mistake>it's annual</mistake>
+		<corrected>its annual</corrected>
+	</entry>
+	<entry>
+		<mistake>it's appearance</mistake>
+		<corrected>its appearance</corrected>
+	</entry>
+	<entry>
+		<mistake>it's B-side</mistake>
+		<corrected>its B-side</corrected>
+	</entry>
+	<entry>
+		<mistake>it's best</mistake>
+		<corrected>its best</corrected>
+	</entry>
+	<entry>
+		<mistake>it's capital</mistake>
+		<corrected>its capital</corrected>
+	</entry>
+	<entry>
+		<mistake>it's class</mistake>
+		<corrected>its class</corrected>
+	</entry>
+	<entry>
+		<mistake>it's closure</mistake>
+		<corrected>its closure</corrected>
+	</entry>
+	<entry>
+		<mistake>it's color</mistake>
+		<corrected>its color [Amer]</corrected>
+	</entry>
+	<entry>
+		<mistake>it's colour</mistake>
+		<corrected>its colour [Brit]</corrected>
+	</entry>
+	<entry>
+		<mistake>it's construction</mistake>
+		<corrected>its construction</corrected>
+	</entry>
+	<entry>
+		<mistake>it's contents</mistake>
+		<corrected>its contents</corrected>
+	</entry>
+	<entry>
+		<mistake>it's course</mistake>
+		<corrected>its course</corrected>
+	</entry>
+	<entry>
+		<mistake>it's current</mistake>
+		<corrected>its current</corrected>
+	</entry>
+	<entry>
+		<mistake>it's debut</mistake>
+		<corrected>its debut</corrected>
+	</entry>
+	<entry>
+		<mistake>it's doors</mistake>
+		<corrected>its doors</corrected>
+	</entry>
+	<entry>
+		<mistake>it's eastern</mistake>
+		<corrected>its eastern</corrected>
+	</entry>
+	<entry>
+		<mistake>it's end</mistake>
+		<corrected>its end</corrected>
+	</entry>
+	<entry>
+		<mistake>it's entire</mistake>
+		<corrected>its entire</corrected>
+	</entry>
+	<entry>
+		<mistake>it's entirety</mistake>
+		<corrected>its entirety</corrected>
+	</entry>
+	<entry>
+		<mistake>it's final</mistake>
+		<corrected>its final</corrected>
+	</entry>
+	<entry>
+		<mistake>it's first</mistake>
+		<corrected>its first</corrected>
+	</entry>
+	<entry>
+		<mistake>it's former</mistake>
+		<corrected>its former</corrected>
+	</entry>
+	<entry>
+		<mistake>it's fourth</mistake>
+		<corrected>its fourth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's goal</mistake>
+		<corrected>its goal</corrected>
+	</entry>
+	<entry>
+		<mistake>it's highest</mistake>
+		<corrected>its highest</corrected>
+	</entry>
+	<entry>
+		<mistake>it's history</mistake>
+		<corrected>its history</corrected>
+	</entry>
+	<entry>
+		<mistake>it's home</mistake>
+		<corrected>its home</corrected>
+	</entry>
+	<entry>
+		<mistake>it's identity</mistake>
+		<corrected>its identity</corrected>
+	</entry>
+	<entry>
+		<mistake>it's inability</mistake>
+		<corrected>its inability</corrected>
+	</entry>
+	<entry>
+		<mistake>it's inception</mistake>
+		<corrected>its inception</corrected>
+	</entry>
+	<entry>
+		<mistake>it's initial</mistake>
+		<corrected>its initial</corrected>
+	</entry>
+	<entry>
+		<mistake>it's international</mistake>
+		<corrected>its international</corrected>
+	</entry>
+	<entry>
+		<mistake>it's junction</mistake>
+		<corrected>its junction</corrected>
+	</entry>
+	<entry>
+		<mistake>it's kind</mistake>
+		<corrected>its kind</corrected>
+	</entry>
+	<entry>
+		<mistake>it's lack</mistake>
+		<corrected>its lack</corrected>
+	</entry>
+	<entry>
+		<mistake>it's last</mistake>
+		<corrected>its last</corrected>
+	</entry>
+	<entry>
+		<mistake>it's latest</mistake>
+		<corrected>its latest</corrected>
+	</entry>
+	<entry>
+		<mistake>it's lead</mistake>
+		<corrected>its lead</corrected>
+	</entry>
+	<entry>
+		<mistake>it's leader</mistake>
+		<corrected>its leader</corrected>
+	</entry>
+	<entry>
+		<mistake>it's length</mistake>
+		<corrected>its length</corrected>
+	</entry>
+	<entry>
+		<mistake>it's lowest</mistake>
+		<corrected>its lowest</corrected>
+	</entry>
+	<entry>
+		<mistake>it's main</mistake>
+		<corrected>its main</corrected>
+	</entry>
+	<entry>
+		<mistake>it's major</mistake>
+		<corrected>its major</corrected>
+	</entry>
+	<entry>
+		<mistake>it's maximum</mistake>
+		<corrected>its maximum</corrected>
+	</entry>
+	<entry>
+		<mistake>it's minimum</mistake>
+		<corrected>its minimum</corrected>
+	</entry>
+	<entry>
+		<mistake>it's money</mistake>
+		<corrected>its money</corrected>
+	</entry>
+	<entry>
+		<mistake>it's name</mistake>
+		<corrected>its name</corrected>
+	</entry>
+	<entry>
+		<mistake>it's national</mistake>
+		<corrected>its national</corrected>
+	</entry>
+	<entry>
+		<mistake>it's north</mistake>
+		<corrected>its north</corrected>
+	</entry>
+	<entry>
+		<mistake>it's northern</mistake>
+		<corrected>its northern</corrected>
+	</entry>
+	<entry>
+		<mistake>it's original</mistake>
+		<corrected>its original</corrected>
+	</entry>
+	<entry>
+		<mistake>it's own</mistake>
+		<corrected>its own</corrected>
+	</entry>
+	<entry>
+		<mistake>it's peak</mistake>
+		<corrected>its peak</corrected>
+	</entry>
+	<entry>
+		<mistake>it's performance</mistake>
+		<corrected>its performance</corrected>
+	</entry>
+	<entry>
+		<mistake>it's period</mistake>
+		<corrected>its period</corrected>
+	</entry>
+	<entry>
+		<mistake>it's popularity</mistake>
+		<corrected>its popularity</corrected>
+	</entry>
+	<entry>
+		<mistake>it's population</mistake>
+		<corrected>its population</corrected>
+	</entry>
+	<entry>
+		<mistake>it's previous</mistake>
+		<corrected>its previous</corrected>
+	</entry>
+	<entry>
+		<mistake>it's price</mistake>
+		<corrected>its price</corrected>
+	</entry>
+	<entry>
+		<mistake>it's primary</mistake>
+		<corrected>its primary</corrected>
+	</entry>
+	<entry>
+		<mistake>it's prime</mistake>
+		<corrected>its prime</corrected>
+	</entry>
+	<entry>
+		<mistake>it's purpose</mistake>
+		<corrected>its purpose</corrected>
+	</entry>
+	<entry>
+		<mistake>it's release</mistake>
+		<corrected>its release</corrected>
+	</entry>
+	<entry>
+		<mistake>it's residents</mistake>
+		<corrected>its residents</corrected>
+	</entry>
+	<entry>
+		<mistake>it's rival</mistake>
+		<corrected>its rival</corrected>
+	</entry>
+	<entry>
+		<mistake>it's second</mistake>
+		<corrected>its second</corrected>
+	</entry>
+	<entry>
+		<mistake>it's sister</mistake>
+		<corrected>its sister</corrected>
+	</entry>
+	<entry>
+		<mistake>it's size</mistake>
+		<corrected>its size</corrected>
+	</entry>
+	<entry>
+		<mistake>it's source</mistake>
+		<corrected>its source</corrected>
+	</entry>
+	<entry>
+		<mistake>it's south</mistake>
+		<corrected>its south</corrected>
+	</entry>
+	<entry>
+		<mistake>it's southern</mistake>
+		<corrected>its southern</corrected>
+	</entry>
+	<entry>
+		<mistake>it's status</mistake>
+		<corrected>its status</corrected>
+	</entry>
+	<entry>
+		<mistake>it's style</mistake>
+		<corrected>its style</corrected>
+	</entry>
+	<entry>
+		<mistake>it's subsidiary</mistake>
+		<corrected>its subsidiary</corrected>
+	</entry>
+	<entry>
+		<mistake>it's successor</mistake>
+		<corrected>its successor</corrected>
+	</entry>
+	<entry>
+		<mistake>it's tail</mistake>
+		<corrected>its tail</corrected>
+	</entry>
+	<entry>
+		<mistake>it's target</mistake>
+		<corrected>its target</corrected>
+	</entry>
+	<entry>
+		<mistake>it's team</mistake>
+		<corrected>its team</corrected>
+	</entry>
+	<entry>
+		<mistake>it's tenth</mistake>
+		<corrected>its tenth</corrected>
+	</entry>
+	<entry>
+		<mistake>it's test</mistake>
+		<corrected>its test</corrected>
+	</entry>
+	<entry>
+		<mistake>it's theme</mistake>
+		<corrected>its theme</corrected>
+	</entry>
+	<entry>
+		<mistake>it's third</mistake>
+		<corrected>its third</corrected>
+	</entry>
+	<entry>
+		<mistake>it's timeslot</mistake>
+		<corrected>its timeslot</corrected>
+	</entry>
+	<entry>
+		<mistake>it's toll</mistake>
+		<corrected>its toll</corrected>
+	</entry>
+	<entry>
+		<mistake>it's total</mistake>
+		<corrected>its total</corrected>
+	</entry>
+	<entry>
+		<mistake>it's type</mistake>
+		<corrected>its type</corrected>
+	</entry>
+	<entry>
+		<mistake>it's usage</mistake>
+		<corrected>its usage</corrected>
+	</entry>
+	<entry>
+		<mistake>it's user</mistake>
+		<corrected>its user</corrected>
+	</entry>
+	<entry>
+		<mistake>it's value</mistake>
+		<corrected>its value</corrected>
+	</entry>
+	<entry>
+		<mistake>it's way</mistake>
+		<corrected>its way</corrected>
+	</entry>
+	<entry>
+		<mistake>it's website</mistake>
+		<corrected>its website</corrected>
+	</entry>
+	<entry>
+		<mistake>it's weight</mistake>
+		<corrected>its weight</corrected>
+	</entry>
+	<entry>
+		<mistake>it's western</mistake>
+		<corrected>its western</corrected>
+	</entry>
+	<entry>
+		<mistake>it's width</mistake>
+		<corrected>its width</corrected>
+	</entry>
+	<entry>
+		<mistake>it's worst</mistake>
+		<corrected>its worst</corrected>
+	</entry>
+	<entry>
+		<mistake>it's yearly</mistake>
+		<corrected>its yearly</corrected>
+	</entry>
+	<entry>
+		<mistake>its is</mistake>
+		<corrected>it is</corrected>
+	</entry>
+	<entry>
+		<mistake>Jimmy Buffet</mistake>
+		<corrected>Jimmy Buffett</corrected>
+	</entry>
+	<entry>
+		<mistake>Jimmy Hendrix</mistake>
+		<corrected>Jimi Hendrix</corrected>
+	</entry>
+	<entry>
+		<mistake>jive with</mistake>
+		<corrected>jibe with</corrected>
+	</entry>
+	<entry>
+		<mistake>key note</mistake>
+		<corrected>keynote</corrected>
+	</entry>
+	<entry>
+		<mistake>lack there of</mistake>
+		<corrected>lack thereof</corrected>
+	</entry>
+	<entry>
+		<mistake>laid ahead</mistake>
+		<corrected>lay ahead</corrected>
+	</entry>
+	<entry>
+		<mistake>laid dormant</mistake>
+		<corrected>lay dormant</corrected>
+	</entry>
+	<entry>
+		<mistake>laid empty</mistake>
+		<corrected>lay empty</corrected>
+	</entry>
+	<entry>
+		<mistake>laid fallow</mistake>
+		<corrected>lay fallow</corrected>
+	</entry>
+	<entry>
+		<mistake>laid in state</mistake>
+		<corrected>lay in state</corrected>
+	</entry>
+	<entry>
+		<mistake>larger that</mistake>
+		<corrected>larger than</corrected>
+	</entry>
+	<entry>
+		<mistake>larger then</mistake>
+		<corrected>larger than</corrected>
+	</entry>
+	<entry>
+		<mistake>laughing stock</mistake>
+		<corrected>laughingstock</corrected>
+	</entry>
+	<entry>
+		<mistake>law suite</mistake>
+		<corrected>lawsuit</corrected>
+	</entry>
+	<entry>
+		<mistake>lay around</mistake>
+		<corrected>lie around</corrected>
+	</entry>
+	<entry>
+		<mistake>lay low</mistake>
+		<corrected>lie low</corrected>
+	</entry>
+	<entry>
+		<mistake>laying around</mistake>
+		<corrected>lying around</corrected>
+	</entry>
+	<entry>
+		<mistake>laying awake</mistake>
+		<corrected>lying awake</corrected>
+	</entry>
+	<entry>
+		<mistake>laying low</mistake>
+		<corrected>lying low</corrected>
+	</entry>
+	<entry>
+		<mistake>lays atop</mistake>
+		<corrected>lies atop</corrected>
+	</entry>
+	<entry>
+		<mistake>lays beside</mistake>
+		<corrected>lies beside</corrected>
+	</entry>
+	<entry>
+		<mistake>lays in</mistake>
+		<corrected>lies in</corrected>
+	</entry>
+	<entry>
+		<mistake>lays low</mistake>
+		<corrected>lies low</corrected>
+	</entry>
+	<entry>
+		<mistake>lays near</mistake>
+		<corrected>lies near</corrected>
+	</entry>
+	<entry>
+		<mistake>lays on</mistake>
+		<corrected>lies on</corrected>
+	</entry>
+	<entry>
+		<mistake>lead by</mistake>
+		<corrected>led by</corrected>
+	</entry>
+	<entry>
+		<mistake>lead roll</mistake>
+		<corrected>lead role</corrected>
+	</entry>
+	<entry>
+		<mistake>leading roll</mistake>
+		<corrected>leading role</corrected>
+	</entry>
+	<entry>
+		<mistake>less dominate</mistake>
+		<corrected>less dominant</corrected>
+	</entry>
+	<entry>
+		<mistake>less that</mistake>
+		<corrected>less than</corrected>
+	</entry>
+	<entry>
+		<mistake>less then</mistake>
+		<corrected>less than</corrected>
+	</entry>
+	<entry>
+		<mistake>lesser then</mistake>
+		<corrected>less than</corrected>
+	</entry>
+	<entry>
+		<mistake>life time</mistake>
+		<corrected>lifetime</corrected>
+	</entry>
+	<entry>
+		<mistake>lighter then</mistake>
+		<corrected>lighter than</corrected>
+	</entry>
+	<entry>
+		<mistake>lions share</mistake>
+		<corrected>lion's share</corrected>
+	</entry>
+	<entry>
+		<mistake>location is located</mistake>
+		<corrected>is located, location is</corrected>
+	</entry>
+	<entry>
+		<mistake>loose to</mistake>
+		<corrected>lose to</corrected>
+	</entry>
+	<entry>
+		<mistake>loosing effort</mistake>
+		<corrected>losing effort</corrected>
+	</entry>
+	<entry>
+		<mistake>loosing record</mistake>
+		<corrected>losing record</corrected>
+	</entry>
+	<entry>
+		<mistake>loosing season</mistake>
+		<corrected>losing season</corrected>
+	</entry>
+	<entry>
+		<mistake>loosing streak</mistake>
+		<corrected>losing streak</corrected>
+	</entry>
+	<entry>
+		<mistake>loosing team</mistake>
+		<corrected>losing team</corrected>
+	</entry>
+	<entry>
+		<mistake>loosing the</mistake>
+		<corrected>losing the</corrected>
+	</entry>
+	<entry>
+		<mistake>loosing to</mistake>
+		<corrected>losing to</corrected>
+	</entry>
+	<entry>
+		<mistake>lot's of</mistake>
+		<corrected>lots of, many, much</corrected>
+	</entry>
+	<entry>
+		<mistake>lower that</mistake>
+		<corrected>lower than</corrected>
+	</entry>
+	<entry>
+		<mistake>lower then</mistake>
+		<corrected>lower than</corrected>
+	</entry>
+	<entry>
+		<mistake>made an appearance with</mistake>
+		<corrected>appeared with</corrected>
+	</entry>
+	<entry>
+		<mistake>made it's</mistake>
+		<corrected>made its</corrected>
+	</entry>
+	<entry>
+		<mistake>mainly know as</mistake>
+		<corrected>mainly known as</corrected>
+	</entry>
+	<entry>
+		<mistake>mainly know for</mistake>
+		<corrected>mainly known for</corrected>
+	</entry>
+	<entry>
+		<mistake>major roll</mistake>
+		<corrected>major role</corrected>
+	</entry>
+	<entry>
+		<mistake>make an appearance with</mistake>
+		<corrected>appear with</corrected>
+	</entry>
+	<entry>
+		<mistake>make it's</mistake>
+		<corrected>make its</corrected>
+	</entry>
+	<entry>
+		<mistake>makes it way</mistake>
+		<corrected>makes its way</corrected>
+	</entry>
+	<entry>
+		<mistake>making it's</mistake>
+		<corrected>making its</corrected>
+	</entry>
+	<entry>
+		<mistake>managed to make</mistake>
+		<corrected>made</corrected>
+	</entry>
+	<entry>
+		<mistake>managed to win</mistake>
+		<corrected>won</corrected>
+	</entry>
+	<entry>
+		<mistake>managerial reigns</mistake>
+		<corrected>managerial reins</corrected>
+	</entry>
+	<entry>
+		<mistake>may been</mistake>
+		<corrected>may be, may have been</corrected>
+	</entry>
+	<entry>
+		<mistake>maybe be</mistake>
+		<corrected>may be</corrected>
+	</entry>
+	<entry>
+		<mistake>MCL ligament</mistake>
+		<corrected>MCL, medial collateral ligament</corrected>
+	</entry>
+	<entry>
+		<mistake>mean while</mistake>
+		<corrected>meanwhile</corrected>
+	</entry>
+	<entry>
+		<mistake>might of</mistake>
+		<corrected>might have</corrected>
+	</entry>
+	<entry>
+		<mistake>Milwaukee, Oregon</mistake>
+		<corrected>Milwaukie, Oregon</corrected>
+	</entry>
+	<entry>
+		<mistake>minor roll</mistake>
+		<corrected>minor role</corrected>
+	</entry>
+	<entry>
+		<mistake>more dominate</mistake>
+		<corrected>more dominant</corrected>
+	</entry>
+	<entry>
+		<mistake>more often then</mistake>
+		<corrected>more often than [comparative]</corrected>
+	</entry>
+	<entry>
+		<mistake>more optimal</mistake>
+		<corrected>better [comparative], optimal [superlative]</corrected>
+	</entry>
+	<entry>
+		<mistake>more better</mistake>
+		<corrected>better [comparative]</corrected>
+	</entry>
+	<entry>
+		<mistake>more that</mistake>
+		<corrected>more than</corrected>
+	</entry>
+	<entry>
+		<mistake>more then</mistake>
+		<corrected>more than [comparative]</corrected>
+	</entry>
+	<entry>
+		<mistake>more worse</mistake>
+		<corrected>even worse, much worse, worse</corrected>
+	</entry>
+	<entry>
+		<mistake>most dominate</mistake>
+		<corrected>most dominant</corrected>
+	</entry>
+	<entry>
+		<mistake>most optimal</mistake>
+		<corrected>best, optimal [superlative]</corrected>
+	</entry>
+	<entry>
+		<mistake>most populace</mistake>
+		<corrected>most populous</corrected>
+	</entry>
+	<entry>
+		<mistake>most well-known</mistake>
+		<corrected>best-known</corrected>
+	</entry>
+	<entry>
+		<mistake>mostly know as</mistake>
+		<corrected>mostly known as</corrected>
+	</entry>
+	<entry>
+		<mistake>mostly know for</mistake>
+		<corrected>mostly known for</corrected>
+	</entry>
+	<entry>
+		<mistake>must of</mistake>
+		<corrected>must have</corrected>
+	</entry>
+	<entry>
+		<mistake>mute point</mistake>
+		<corrected>moot point</corrected>
+	</entry>
+	<entry>
+		<mistake>nation wide</mistake>
+		<corrected>nationwide</corrected>
+	</entry>
+	<entry>
+		<mistake>near by</mistake>
+		<corrected>nearby</corrected>
+	</entry>
+	<entry>
+		<mistake>neither criteria</mistake>
+		<corrected>neither criterion</corrected>
+	</entry>
+	<entry>
+		<mistake>neither phenomena</mistake>
+		<corrected>neither phenomenon</corrected>
+	</entry>
+	<entry>
+		<mistake>Netherland Antilles</mistake>
+		<corrected>Netherlands Antilles</corrected>
+	</entry>
+	<entry>
+		<mistake>new comer</mistake>
+		<corrected>newcomer</corrected>
+	</entry>
+	<entry>
+		<mistake>next store</mistake>
+		<corrected>next-door</corrected>
+	</entry>
+	<entry>
+		<mistake>no where to</mistake>
+		<corrected>nowhere to</corrected>
+	</entry>
+	<entry>
+		<mistake>note worthy</mistake>
+		<corrected>noteworthy</corrected>
+	</entry>
+	<entry>
+		<mistake>now a days</mistake>
+		<corrected>nowadays</corrected>
+	</entry>
+	<entry>
+		<mistake>of been</mistake>
+		<corrected>have been, of being</corrected>
+	</entry>
+	<entry>
+		<mistake>of it's own</mistake>
+		<corrected>of its own</corrected>
+	</entry>
+	<entry>
+		<mistake>of who to</mistake>
+		<corrected>of whom to</corrected>
+	</entry>
+	<entry>
+		<mistake>oil barron</mistake>
+		<corrected>oil baron</corrected>
+	</entry>
+	<entry>
+		<mistake>on a daily basis</mistake>
+		<corrected>daily, every day</corrected>
+	</entry>
+	<entry>
+		<mistake>on a regular basis</mistake>
+		<corrected>regularly, at regular intervals</corrected>
+	</entry>
+	<entry>
+		<mistake>on accident</mistake>
+		<corrected>by accident, accidentally</corrected>
+	</entry>
+	<entry>
+		<mistake>on account of the fact that</mistake>
+		<corrected>because</corrected>
+	</entry>
+	<entry>
+		<mistake>on going</mistake>
+		<corrected>ongoing</corrected>
+	</entry>
+	<entry>
+		<mistake>on it's own</mistake>
+		<corrected>on its own</corrected>
+	</entry>
+	<entry>
+		<mistake>on-going</mistake>
+		<corrected>ongoing</corrected>
+	</entry>
+	<entry>
+		<mistake>one in the same</mistake>
+		<corrected>one and the same</corrected>
+	</entry>
+	<entry>
+		<mistake>one criteria</mistake>
+		<corrected>one criterion</corrected>
+	</entry>
+	<entry>
+		<mistake>one of most</mistake>
+		<corrected>one of the most</corrected>
+	</entry>
+	<entry>
+		<mistake>one phenomena</mistake>
+		<corrected>one phenomenon</corrected>
+	</entry>
+	<entry>
+		<mistake>originally born in</mistake>
+		<corrected>born in</corrected>
+	</entry>
+	<entry>
+		<mistake>originally know as</mistake>
+		<corrected>originally known as</corrected>
+	</entry>
+	<entry>
+		<mistake>other then</mistake>
+		<corrected>other than</corrected>
+	</entry>
+	<entry>
+		<mistake>out grow</mistake>
+		<corrected>outgrow</corrected>
+	</entry>
+	<entry>
+		<mistake>out of sink</mistake>
+		<corrected>out of sync</corrected>
+	</entry>
+	<entry>
+		<mistake>out side</mistake>
+		<corrected>outside</corrected>
+	</entry>
+	<entry>
+		<mistake>over a 100</mistake>
+		<corrected>over 100, over a hundred, over one hundred</corrected>
+	</entry>
+	<entry>
+		<mistake>over a 1000</mistake>
+		<corrected>over 1000, over a thousand, over one thousand</corrected>
+	</entry>
+	<entry>
+		<mistake>over hear</mistake>
+		<corrected>overhear</corrected>
+	</entry>
+	<entry>
+		<mistake>over heard</mistake>
+		<corrected>overheard</corrected>
+	</entry>
+	<entry>
+		<mistake>over look</mistake>
+		<corrected>overlook</corrected>
+	</entry>
+	<entry>
+		<mistake>over looked</mistake>
+		<corrected>overlooked</corrected>
+	</entry>
+	<entry>
+		<mistake>over looking</mistake>
+		<corrected>overlooking</corrected>
+	</entry>
+	<entry>
+		<mistake>over rated</mistake>
+		<corrected>overrated</corrected>
+	</entry>
+	<entry>
+		<mistake>over saw</mistake>
+		<corrected>oversaw</corrected>
+	</entry>
+	<entry>
+		<mistake>over seas</mistake>
+		<corrected>overseas</corrected>
+	</entry>
+	<entry>
+		<mistake>over see</mistake>
+		<corrected>oversee</corrected>
+	</entry>
+	<entry>
+		<mistake>over who to</mistake>
+		<corrected>over whom to</corrected>
+	</entry>
+	<entry>
+		<mistake>owing to the fact that</mistake>
+		<corrected>because</corrected>
+	</entry>
+	<entry>
+		<mistake>parent's house</mistake>
+		<corrected>parents' house</corrected>
+	</entry>
+	<entry>
+		<mistake>past away</mistake>
+		<corrected>passed away, died</corrected>
+	</entry>
+	<entry>
+		<mistake>past down</mistake>
+		<corrected>passed down</corrected>
+	</entry>
+	<entry>
+		<mistake>peak his interest</mistake>
+		<corrected>pique his interest</corrected>
+	</entry>
+	<entry>
+		<mistake>per say</mistake>
+		<corrected>per se</corrected>
+	</entry>
+	<entry>
+		<mistake>Phillips Arena</mistake>
+		<corrected>Philips Arena</corrected>
+	</entry>
+	<entry>
+		<mistake>player's union</mistake>
+		<corrected>players' union</corrected>
+	</entry>
+	<entry>
+		<mistake>playoff birth</mistake>
+		<corrected>playoff berth</corrected>
+	</entry>
+	<entry>
+		<mistake>Portland Trailblazers</mistake>
+		<corrected>Portland Trail Blazers</corrected>
+	</entry>
+	<entry>
+		<mistake>premier episode</mistake>
+		<corrected>premiere episode</corrected>
+	</entry>
+	<entry>
+		<mistake>principle action</mistake>
+		<corrected>principal action</corrected>
+	</entry>
+	<entry>
+		<mistake>principle activity</mistake>
+		<corrected>principal activity</corrected>
+	</entry>
+	<entry>
+		<mistake>principle actor</mistake>
+		<corrected>principal actor</corrected>
+	</entry>
+	<entry>
+		<mistake>principle advantage</mistake>
+		<corrected>principal advantage</corrected>
+	</entry>
+	<entry>
+		<mistake>principle advocate</mistake>
+		<corrected>principal advocate</corrected>
+	</entry>
+	<entry>
+		<mistake>principle agent</mistake>
+		<corrected>principal agent</corrected>
+	</entry>
+	<entry>
+		<mistake>principle aim</mistake>
+		<corrected>principal aim</corrected>
+	</entry>
+	<entry>
+		<mistake>principle area</mistake>
+		<corrected>principal area</corrected>
+	</entry>
+	<entry>
+		<mistake>principle artist</mistake>
+		<corrected>principal artist</corrected>
+	</entry>
+	<entry>
+		<mistake>principle assistant</mistake>
+		<corrected>principal assistant</corrected>
+	</entry>
+	<entry>
+		<mistake>principle attraction</mistake>
+		<corrected>principal attraction</corrected>
+	</entry>
+	<entry>
+		<mistake>principle author</mistake>
+		<corrected>principal author</corrected>
+	</entry>
+	<entry>
+		<mistake>principle branch</mistake>
+		<corrected>principal branch</corrected>
+	</entry>
+	<entry>
+		<mistake>principle cast</mistake>
+		<corrected>principal cast</corrected>
+	</entry>
+	<entry>
+		<mistake>principle caste</mistake>
+		<corrected>principal caste</corrected>
+	</entry>
+	<entry>
+		<mistake>principle cause</mistake>
+		<corrected>principal cause</corrected>
+	</entry>
+	<entry>
+		<mistake>principle character</mistake>
+		<corrected>principal character</corrected>
+	</entry>
+	<entry>
+		<mistake>principle church</mistake>
+		<corrected>principal church</corrected>
+	</entry>
+	<entry>
+		<mistake>principle city</mistake>
+		<corrected>principal city</corrected>
+	</entry>
+	<entry>
+		<mistake>principle component</mistake>
+		<corrected>principal component</corrected>
+	</entry>
+	<entry>
+		<mistake>principle composer</mistake>
+		<corrected>principal composer</corrected>
+	</entry>
+	<entry>
+		<mistake>principle goal</mistake>
+		<corrected>principal goal</corrected>
+	</entry>
+	<entry>
+		<mistake>principle group</mistake>
+		<corrected>principal group</corrected>
+	</entry>
+	<entry>
+		<mistake>principle method</mistake>
+		<corrected>principal method</corrected>
+	</entry>
+	<entry>
+		<mistake>principle office</mistake>
+		<corrected>principal office</corrected>
+	</entry>
+	<entry>
+		<mistake>principle officer</mistake>
+		<corrected>principal officer</corrected>
+	</entry>
+	<entry>
+		<mistake>principle owner</mistake>
+		<corrected>principal owner</corrected>
+	</entry>
+	<entry>
+		<mistake>principle photography</mistake>
+		<corrected>principal photography</corrected>
+	</entry>
+	<entry>
+		<mistake>principle source</mistake>
+		<corrected>principal source</corrected>
+	</entry>
+	<entry>
+		<mistake>principle student</mistake>
+		<corrected>principal student</corrected>
+	</entry>
+	<entry>
+		<mistake>principle town</mistake>
+		<corrected>principal town</corrected>
+	</entry>
+	<entry>
+		<mistake>put fourth</mistake>
+		<corrected>put forth</corrected>
+	</entry>
+	<entry>
+		<mistake>rather then</mistake>
+		<corrected>rather than</corrected>
+	</entry>
+	<entry>
+		<mistake>reek havoc</mistake>
+		<corrected>wreak havoc</corrected>
+	</entry>
+	<entry>
+		<mistake>reign in</mistake>
+		<corrected>rein in</corrected>
+	</entry>
+	<entry>
+		<mistake>"reigned in"</mistake>
+		<corrected>reined in</corrected>
+	</entry>
+	<entry>
+		<mistake>reigns of power</mistake>
+		<corrected>reins of power</corrected>
+	</entry>
+	<entry>
+		<mistake>reticence to</mistake>
+		<corrected>reluctance to</corrected>
+	</entry>
+	<entry>
+		<mistake>reticent to</mistake>
+		<corrected>reluctant to</corrected>
+	</entry>
+	<entry>
+		<mistake>role call</mistake>
+		<corrected>roll call</corrected>
+	</entry>
+	<entry>
+		<mistake>roll player</mistake>
+		<corrected>role player</corrected>
+	</entry>
+	<entry>
+		<mistake>runner up</mistake>
+		<corrected>runner-up</corrected>
+	</entry>
+	<entry>
+		<mistake>saddle up to</mistake>
+		<corrected>sidle up to</corrected>
+	</entry>
+	<entry>
+		<mistake>Second Word War</mistake>
+		<corrected>Second World War</corrected>
+	</entry>
+	<entry>
+		<mistake>seperate</mistake>
+		<corrected>separate</corrected>
+	</entry>
+	<entry>
+		<mistake>set backs</mistake>
+		<corrected>setbacks</corrected>
+	</entry>
+	<entry>
+		<mistake>she begun</mistake>
+		<corrected>she began</corrected>
+	</entry>
+	<entry>
+		<mistake>she let's</mistake>
+		<corrected>she lets</corrected>
+	</entry>
+	<entry>
+		<mistake>she seen</mistake>
+		<corrected>she saw</corrected>
+	</entry>
+	<entry>
+		<mistake>she weighted</mistake>
+		<corrected>she waited, she weighed</corrected>
+	</entry>
+	<entry>
+		<mistake>short coming</mistake>
+		<corrected>shortcoming</corrected>
+	</entry>
+	<entry>
+		<mistake>shorter then</mistake>
+		<corrected>shorter than</corrected>
+	</entry>
+	<entry>
+		<mistake>shortly there after</mistake>
+		<corrected>shortly thereafter</corrected>
+	</entry>
+	<entry>
+		<mistake>should backup</mistake>
+		<corrected>should back up</corrected>
+	</entry>
+	<entry>
+		<mistake>should been</mistake>
+		<corrected>should be, should have been</corrected>
+	</entry>
+	<entry>
+		<mistake>should not of</mistake>
+		<corrected>should not have</corrected>
+	</entry>
+	<entry>
+		<mistake>should of</mistake>
+		<corrected>should have</corrected>
+	</entry>
+	<entry>
+		<mistake>should've went</mistake>
+		<corrected>should have gone</corrected>
+	</entry>
+	<entry>
+		<mistake>side affect</mistake>
+		<corrected>side effect</corrected>
+	</entry>
+	<entry>
+		<mistake>side kick</mistake>
+		<corrected>sidekick [person]</corrected>
+	</entry>
+	<entry>
+		<mistake>simply know as</mistake>
+		<corrected>simply known as</corrected>
+	</entry>
+	<entry>
+		<mistake>since it's</mistake>
+		<corrected>since its</corrected>
+	</entry>
+	<entry>
+		<mistake>since many years</mistake>
+		<corrected>for many years</corrected>
+	</entry>
+	<entry>
+		<mistake>since years</mistake>
+		<corrected>for years</corrected>
+	</entry>
+	<entry>
+		<mistake>single handily</mistake>
+		<corrected>single-handedly</corrected>
+	</entry>
+	<entry>
+		<mistake>site lines</mistake>
+		<corrected>sight lines</corrected>
+	</entry>
+	<entry>
+		<mistake>slight of hand</mistake>
+		<corrected>sleight of hand</corrected>
+	</entry>
+	<entry>
+		<mistake>slue of</mistake>
+		<corrected>slew of</corrected>
+	</entry>
+	<entry>
+		<mistake>smaller then</mistake>
+		<corrected>smaller than</corrected>
+	</entry>
+	<entry>
+		<mistake>smarter then</mistake>
+		<corrected>smarter than</corrected>
+	</entry>
+	<entry>
+		<mistake>sneak peak</mistake>
+		<corrected>sneak peek</corrected>
+	</entry>
+	<entry>
+		<mistake>some how</mistake>
+		<corrected>somehow</corrected>
+	</entry>
+	<entry>
+		<mistake>some one</mistake>
+		<corrected>someone</corrected>
+	</entry>
+	<entry>
+		<mistake>some what</mistake>
+		<corrected>somewhat</corrected>
+	</entry>
+	<entry>
+		<mistake>some where</mistake>
+		<corrected>somewhere</corrected>
+	</entry>
+	<entry>
+		<mistake>sometimes know as</mistake>
+		<corrected>sometimes known as</corrected>
+	</entry>
+	<entry>
+		<mistake>soon there after</mistake>
+		<corrected>soon thereafter</corrected>
+	</entry>
+	<entry>
+		<mistake>sooner then</mistake>
+		<corrected>sooner than</corrected>
+	</entry>
+	<entry>
+		<mistake>sophomore album</mistake>
+		<corrected>second album</corrected>
+	</entry>
+	<entry>
+		<mistake>sophomore single</mistake>
+		<corrected>second single</corrected>
+	</entry>
+	<entry>
+		<mistake>spilt among</mistake>
+		<corrected>split among</corrected>
+	</entry>
+	<entry>
+		<mistake>spilt between</mistake>
+		<corrected>split between</corrected>
+	</entry>
+	<entry>
+		<mistake>spilt into</mistake>
+		<corrected>split into</corrected>
+	</entry>
+	<entry>
+		<mistake>spilt up</mistake>
+		<corrected>split up</corrected>
+	</entry>
+	<entry>
+		<mistake>spinal chord</mistake>
+		<corrected>spinal cord</corrected>
+	</entry>
+	<entry>
+		<mistake>spitting image</mistake>
+		<corrected>spit and image</corrected>
+	</entry>
+	<entry>
+		<mistake>split in to</mistake>
+		<corrected>split into</corrected>
+	</entry>
+	<entry>
+		<mistake>sq ft</mistake>
+		<corrected>ft²</corrected>
+	</entry>
+	<entry>
+		<mistake>sq in</mistake>
+		<corrected>in²</corrected>
+	</entry>
+	<entry>
+		<mistake>sq km</mistake>
+		<corrected>km²</corrected>
+	</entry>
+	<entry>
+		<mistake>sq mi</mistake>
+		<corrected>mi²</corrected>
+	</entry>
+	<entry>
+		<mistake>squared feet</mistake>
+		<corrected>square feet</corrected>
+	</entry>
+	<entry>
+		<mistake>squared inches</mistake>
+		<corrected>square inches</corrected>
+	</entry>
+	<entry>
+		<mistake>squared kilometers</mistake>
+		<corrected>square kilometers</corrected>
+	</entry>
+	<entry>
+		<mistake>squared meters</mistake>
+		<corrected>square meters</corrected>
+	</entry>
+	<entry>
+		<mistake>squared miles</mistake>
+		<corrected>square miles</corrected>
+	</entry>
+	<entry>
+		<mistake>stale mate</mistake>
+		<corrected>stalemate</corrected>
+	</entry>
+	<entry>
+		<mistake>staring role</mistake>
+		<corrected>starring role</corrected>
+	</entry>
+	<entry>
+		<mistake>starring roll</mistake>
+		<corrected>starring role</corrected>
+	</entry>
+	<entry>
+		<mistake>stay a while</mistake>
+		<corrected>stay awhile</corrected>
+	</entry>
+	<entry>
+		<mistake>Stevie Ray Vaughn</mistake>
+		<corrected>Stevie Ray Vaughan</corrected>
+	</entry>
+	<entry>
+		<mistake>Straight of</mistake>
+		<corrected>Strait of [geography]</corrected>
+	</entry>
+	<entry>
+		<mistake>strike outs</mistake>
+		<corrected>strikeouts</corrected>
+	</entry>
+	<entry>
+		<mistake>stronger then</mistake>
+		<corrected>stronger than</corrected>
+	</entry>
+	<entry>
+		<mistake>suppose to</mistake>
+		<corrected>supposed to</corrected>
+	</entry>
+	<entry>
+		<mistake>take affect</mistake>
+		<corrected>take effect</corrected>
+	</entry>
+	<entry>
+		<mistake>take over the reigns</mistake>
+		<corrected>take over the reins</corrected>
+	</entry>
+	<entry>
+		<mistake>take the reigns</mistake>
+		<corrected>take the reins</corrected>
+	</entry>
+	<entry>
+		<mistake>taken the reigns</mistake>
+		<corrected>taken the reins</corrected>
+	</entry>
+	<entry>
+		<mistake>taking the reigns</mistake>
+		<corrected>taking the reins</corrected>
+	</entry>
+	<entry>
+		<mistake>teacher's union</mistake>
+		<corrected>teachers' union</corrected>
+	</entry>
+	<entry>
+		<mistake>ten times less than</mistake>
+		<corrected>one tenth as much as</corrected>
+	</entry>
+	<entry>
+		<mistake>ten year's</mistake>
+		<corrected>ten years [plural], ten years' [possessive], ten-year</corrected>
+	</entry>
+	<entry>
+		<mistake>than it's</mistake>
+		<corrected>than its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>that fact that</mistake>
+		<corrected>that, the fact that</corrected>
+	</entry>
+	<entry>
+		<mistake>that him and</mistake>
+		<corrected>that he and</corrected>
+	</entry>
+	<entry>
+		<mistake>that maybe</mistake>
+		<corrected>that may be</corrected>
+	</entry>
+	<entry>
+		<mistake>that's is</mistake>
+		<corrected>that is</corrected>
+	</entry>
+	<entry>
+		<mistake>that's was</mistake>
+		<corrected>that was</corrected>
+	</entry>
+	<entry>
+		<mistake>the 1st of January</mistake>
+		<corrected>1 January</corrected>
+	</entry>
+	<entry>
+		<mistake>.
+the absent of</mistake>
+		<corrected>the absence of [noun]</corrected>
+	</entry>
+	<entry>
+		<mistake>the advise of</mistake>
+		<corrected>the advice of [noun]</corrected>
+	</entry>
+	<entry>
+		<mistake>the affect of</mistake>
+		<corrected>the effect of</corrected>
+	</entry>
+	<entry>
+		<mistake>the affect on</mistake>
+		<corrected>the effect on</corrected>
+	</entry>
+	<entry>
+		<mistake>the affects of</mistake>
+		<corrected>the effects of</corrected>
+	</entry>
+	<entry>
+		<mistake>the all of the</mistake>
+		<corrected>all of the</corrected>
+	</entry>
+	<entry>
+		<mistake>the among the</mistake>
+		<corrected>among the</corrected>
+	</entry>
+	<entry>
+		<mistake>the another</mistake>
+		<corrected>another</corrected>
+	</entry>
+	<entry>
+		<mistake>the any of the</mistake>
+		<corrected>any of the</corrected>
+	</entry>
+	<entry>
+		<mistake>the are</mistake>
+		<corrected>that are, the area, there are, they are</corrected>
+	</entry>
+	<entry>
+		<mistake>the began</mistake>
+		<corrected>that began, then began, they began</corrected>
+	</entry>
+	<entry>
+		<mistake>the both of the</mistake>
+		<corrected>both of the</corrected>
+	</entry>
+	<entry>
+		<mistake>the both the</mistake>
+		<corrected>both the</corrected>
+	</entry>
+	<entry>
+		<mistake>the break down</mistake>
+		<corrected>the breakdown [noun]</corrected>
+	</entry>
+	<entry>
+		<mistake>the break up</mistake>
+		<corrected>the breakup [noun]</corrected>
+	</entry>
+	<entry>
+		<mistake>the build up</mistake>
+		<corrected>the buildup [noun]</corrected>
+	</entry>
+	<entry>
+		<mistake>the clamp down</mistake>
+		<corrected>the clampdown [noun]</corrected>
+	</entry>
+	<entry>
+		<mistake>the could</mistake>
+		<corrected>could, he could, the cloud, they could</corrected>
+	</entry>
+	<entry>
+		<mistake>the crack down</mistake>
+		<corrected>the crackdown [noun]</corrected>
+	</entry>
+	<entry>
+		<mistake>the dominate</mistake>
+		<corrected>the dominant [adjective], they dominate [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>the each of the</mistake>
+		<corrected>each of the</corrected>
+	</entry>
+	<entry>
+		<mistake>the extend of</mistake>
+		<corrected>the extent of</corrected>
+	</entry>
+	<entry>
+		<mistake>the follow up</mistake>
+		<corrected>the follow-up [noun]</corrected>
+	</entry>
+	<entry>
+		<mistake>the had</mistake>
+		<corrected>that had, there had, they had</corrected>
+	</entry>
+	<entry>
+		<mistake>the have</mistake>
+		<corrected>that have, there have, they have</corrected>
+	</entry>
+	<entry>
+		<mistake>the he was</mistake>
+		<corrected>he was, that he was</corrected>
+	</entry>
+	<entry>
+		<mistake>the how the</mistake>
+		<corrected>how the</corrected>
+	</entry>
+	<entry>
+		<mistake>the injures</mistake>
+		<corrected>the injuries [noun]</corrected>
+	</entry>
+	<entry>
+		<mistake>the its</mistake>
+		<corrected>its</corrected>
+	</entry>
+	<entry>
+		<mistake>the lead up</mistake>
+		<corrected>the lead-up [noun]</corrected>
+	</entry>
+	<entry>
+		<mistake>the many of the</mistake>
+		<corrected>many of the</corrected>
+	</entry>
+	<entry>
+		<mistake>the most of the</mistake>
+		<corrected>most of the</corrected>
+	</entry>
+	<entry>
+		<mistake>the much of the</mistake>
+		<corrected>much of the</corrected>
+	</entry>
+	<entry>
+		<mistake>the one of the</mistake>
+		<corrected>one of the</corrected>
+	</entry>
+	<entry>
+		<mistake>the one's</mistake>
+		<corrected>one's [possessive], the ones [plural]</corrected>
+	</entry>
+	<entry>
+		<mistake>the only the</mistake>
+		<corrected>only the</corrected>
+	</entry>
+	<entry>
+		<mistake>the phenomena is</mistake>
+		<corrected>the phenomenon is [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>the rational behind</mistake>
+		<corrected>the rationale behind</corrected>
+	</entry>
+	<entry>
+		<mistake>the rational for</mistake>
+		<corrected>the rationale for</corrected>
+	</entry>
+	<entry>
+		<mistake>the set up</mistake>
+		<corrected>the setup [noun]</corrected>
+	</entry>
+	<entry>
+		<mistake>the several of the</mistake>
+		<corrected>several of the</corrected>
+	</entry>
+	<entry>
+		<mistake>the some of the</mistake>
+		<corrected>some of the</corrected>
+	</entry>
+	<entry>
+		<mistake>the their</mistake>
+		<corrected>their</corrected>
+	</entry>
+	<entry>
+		<mistake>the them</mistake>
+		<corrected>them</corrected>
+	</entry>
+	<entry>
+		<mistake>the these</mistake>
+		<corrected>these</corrected>
+	</entry>
+	<entry>
+		<mistake>the this</mistake>
+		<corrected>this</corrected>
+	</entry>
+	<entry>
+		<mistake>the those</mistake>
+		<corrected>those</corrected>
+	</entry>
+	<entry>
+		<mistake>the though</mistake>
+		<corrected>the thought, though</corrected>
+	</entry>
+	<entry>
+		<mistake>the trade off</mistake>
+		<corrected>the trade-off [noun]</corrected>
+	</entry>
+	<entry>
+		<mistake>the two of the</mistake>
+		<corrected>two of the</corrected>
+	</entry>
+	<entry>
+		<mistake>the was</mistake>
+		<corrected>that was, there was</corrected>
+	</entry>
+	<entry>
+		<mistake>the went</mistake>
+		<corrected>then went, they went</corrected>
+	</entry>
+	<entry>
+		<mistake>the were</mistake>
+		<corrected>they were</corrected>
+	</entry>
+	<entry>
+		<mistake>the where the</mistake>
+		<corrected>where the</corrected>
+	</entry>
+	<entry>
+		<mistake>the won the</mistake>
+		<corrected>he won the, she won the, they won the</corrected>
+	</entry>
+	<entry>
+		<mistake>their are</mistake>
+		<corrected>there are, they are</corrected>
+	</entry>
+	<entry>
+		<mistake>their had</mistake>
+		<corrected>there had, they had</corrected>
+	</entry>
+	<entry>
+		<mistake>their has</mistake>
+		<corrected>there has</corrected>
+	</entry>
+	<entry>
+		<mistake>their have</mistake>
+		<corrected>there have</corrected>
+	</entry>
+	<entry>
+		<mistake>their is</mistake>
+		<corrected>there is</corrected>
+	</entry>
+	<entry>
+		<mistake>their may be</mistake>
+		<corrected>there may be</corrected>
+	</entry>
+	<entry>
+		<mistake>their was</mistake>
+		<corrected>there was</corrected>
+	</entry>
+	<entry>
+		<mistake>their were</mistake>
+		<corrected>there were</corrected>
+	</entry>
+	<entry>
+		<mistake>their would</mistake>
+		<corrected>there would</corrected>
+	</entry>
+	<entry>
+		<mistake>them selves</mistake>
+		<corrected>themselves</corrected>
+	</entry>
+	<entry>
+		<mistake>there after</mistake>
+		<corrected>thereafter</corrected>
+	</entry>
+	<entry>
+		<mistake>there best</mistake>
+		<corrected>their best</corrected>
+	</entry>
+	<entry>
+		<mistake>there by</mistake>
+		<corrected>thereby</corrected>
+	</entry>
+	<entry>
+		<mistake>there fifth</mistake>
+		<corrected>their fifth</corrected>
+	</entry>
+	<entry>
+		<mistake>there final</mistake>
+		<corrected>their final</corrected>
+	</entry>
+	<entry>
+		<mistake>there first</mistake>
+		<corrected>their first</corrected>
+	</entry>
+	<entry>
+		<mistake>there fore</mistake>
+		<corrected>therefore</corrected>
+	</entry>
+	<entry>
+		<mistake>there fourth</mistake>
+		<corrected>their fourth</corrected>
+	</entry>
+	<entry>
+		<mistake>there last</mistake>
+		<corrected>their last</corrected>
+	</entry>
+	<entry>
+		<mistake>there maybe</mistake>
+		<corrected>there may be</corrected>
+	</entry>
+	<entry>
+		<mistake>there new</mistake>
+		<corrected>their new</corrected>
+	</entry>
+	<entry>
+		<mistake>there next</mistake>
+		<corrected>their next</corrected>
+	</entry>
+	<entry>
+		<mistake>there of</mistake>
+		<corrected>thereof</corrected>
+	</entry>
+	<entry>
+		<mistake>there only</mistake>
+		<corrected>their only</corrected>
+	</entry>
+	<entry>
+		<mistake>there own</mistake>
+		<corrected>their own</corrected>
+	</entry>
+	<entry>
+		<mistake>there second</mistake>
+		<corrected>their second</corrected>
+	</entry>
+	<entry>
+		<mistake>there third</mistake>
+		<corrected>their third</corrected>
+	</entry>
+	<entry>
+		<mistake>there where</mistake>
+		<corrected>there were</corrected>
+	</entry>
+	<entry>
+		<mistake>there's are</mistake>
+		<corrected>theirs are, there are</corrected>
+	</entry>
+	<entry>
+		<mistake>there's is</mistake>
+		<corrected>theirs is, there is</corrected>
+	</entry>
+	<entry>
+		<mistake>there's three</mistake>
+		<corrected>there are three [plural]</corrected>
+	</entry>
+	<entry>
+		<mistake>there's two</mistake>
+		<corrected>there are two [plural]</corrected>
+	</entry>
+	<entry>
+		<mistake>there's was</mistake>
+		<corrected>theirs was, there was</corrected>
+	</entry>
+	<entry>
+		<mistake>these includes</mistake>
+		<corrected>these include [plural], this includes [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>these maybe</mistake>
+		<corrected>these may be</corrected>
+	</entry>
+	<entry>
+		<mistake>these where</mistake>
+		<corrected>these were</corrected>
+	</entry>
+	<entry>
+		<mistake>they begun</mistake>
+		<corrected>they began</corrected>
+	</entry>
+	<entry>
+		<mistake>they breath</mistake>
+		<corrected>their breath [noun], they breathe [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>they garnished</mistake>
+		<corrected>they garnered</corrected>
+	</entry>
+	<entry>
+		<mistake>they includes</mistake>
+		<corrected>they include</corrected>
+	</entry>
+	<entry>
+		<mistake>they is</mistake>
+		<corrected>there is, they are</corrected>
+	</entry>
+	<entry>
+		<mistake>they maybe</mistake>
+		<corrected>they may be [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>they past</mistake>
+		<corrected>the past, they passed</corrected>
+	</entry>
+	<entry>
+		<mistake>they player</mistake>
+		<corrected>the player</corrected>
+	</entry>
+	<entry>
+		<mistake>they way</mistake>
+		<corrected>the way, their way</corrected>
+	</entry>
+	<entry>
+		<mistake>they we're</mistake>
+		<corrected>they were</corrected>
+	</entry>
+	<entry>
+		<mistake>they weight</mistake>
+		<corrected>they weigh, they weighed</corrected>
+	</entry>
+	<entry>
+		<mistake>they where</mistake>
+		<corrected>they wear, they were</corrected>
+	</entry>
+	<entry>
+		<mistake>they're are</mistake>
+		<corrected>there are, they are</corrected>
+	</entry>
+	<entry>
+		<mistake>this criteria</mistake>
+		<corrected>these criteria [plural], this criterion [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>this lead to</mistake>
+		<corrected>this led to</corrected>
+	</entry>
+	<entry>
+		<mistake>this maybe</mistake>
+		<corrected>this may be</corrected>
+	</entry>
+	<entry>
+		<mistake>this phenomena</mistake>
+		<corrected>these phenomena [plural], this phenomenon [singular]</corrected>
+	</entry>
+	<entry>
+		<mistake>those includes</mistake>
+		<corrected>those include [plural]</corrected>
+	</entry>
+	<entry>
+		<mistake>those maybe</mistake>
+		<corrected>those may be [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>three in a half</mistake>
+		<corrected>three and a half</corrected>
+	</entry>
+	<entry>
+		<mistake>three times less than</mistake>
+		<corrected>one third as much as</corrected>
+	</entry>
+	<entry>
+		<mistake>through it's</mistake>
+		<corrected>through its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>through out</mistake>
+		<corrected>threw out, throughout</corrected>
+	</entry>
+	<entry>
+		<mistake>through the ringer</mistake>
+		<corrected>through the wringer</corrected>
+	</entry>
+	<entry>
+		<mistake>throughout it's</mistake>
+		<corrected>throughout its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>time outs</mistake>
+		<corrected>timeouts</corrected>
+	</entry>
+	<entry>
+		<mistake>to back fire</mistake>
+		<corrected>to backfire</corrected>
+	</entry>
+	<entry>
+		<mistake>to back-off</mistake>
+		<corrected>to back off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to back-out</mistake>
+		<corrected>to back out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to back-up</mistake>
+		<corrected>to back up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to backoff</mistake>
+		<corrected>to back off</corrected>
+	</entry>
+	<entry>
+		<mistake>to backout</mistake>
+		<corrected>to back out</corrected>
+	</entry>
+	<entry>
+		<mistake>to backup</mistake>
+		<corrected>to back up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to bailout</mistake>
+		<corrected>to bail out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to be build</mistake>
+		<corrected>to be built</corrected>
+	</entry>
+	<entry>
+		<mistake>to be setup</mistake>
+		<corrected>to be set up</corrected>
+	</entry>
+	<entry>
+		<mistake>to blackout</mistake>
+		<corrected>to black out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to blastoff</mistake>
+		<corrected>to blast off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to blowout</mistake>
+		<corrected>to blow out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to blowup</mistake>
+		<corrected>to blow up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to breakdown</mistake>
+		<corrected>to break down [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to breath</mistake>
+		<corrected>to breathe</corrected>
+	</entry>
+	<entry>
+		<mistake>to buildup</mistake>
+		<corrected>to build up</corrected>
+	</entry>
+	<entry>
+		<mistake>to built</mistake>
+		<corrected>to build</corrected>
+	</entry>
+	<entry>
+		<mistake>to buyout</mistake>
+		<corrected>to buy out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to chose</mistake>
+		<corrected>to choose</corrected>
+	</entry>
+	<entry>
+		<mistake>to comeback</mistake>
+		<corrected>to come back [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to crackdown</mistake>
+		<corrected>to crack down [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to cut of</mistake>
+		<corrected>to cut off</corrected>
+	</entry>
+	<entry>
+		<mistake>to cutback</mistake>
+		<corrected>to cut back [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to cutoff</mistake>
+		<corrected>to cut off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to dropout</mistake>
+		<corrected>to drop out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to due to</mistake>
+		<corrected>due to</corrected>
+	</entry>
+	<entry>
+		<mistake>to emphasis the</mistake>
+		<corrected>to emphasise the, to emphasize the</corrected>
+	</entry>
+	<entry>
+		<mistake>to fill-in</mistake>
+		<corrected>to fill in [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to forego</mistake>
+		<corrected>to forgo</corrected>
+	</entry>
+	<entry>
+		<mistake>to goes</mistake>
+		<corrected>to go</corrected>
+	</entry>
+	<entry>
+		<mistake>to got</mistake>
+		<corrected>to get, to go</corrected>
+	</entry>
+	<entry>
+		<mistake>to grown</mistake>
+		<corrected>to grow</corrected>
+	</entry>
+	<entry>
+		<mistake>to happened</mistake>
+		<corrected>to happen</corrected>
+	</entry>
+	<entry>
+		<mistake>to have lead to</mistake>
+		<corrected>to have led to</corrected>
+	</entry>
+	<entry>
+		<mistake>to he and</mistake>
+		<corrected>to him and</corrected>
+	</entry>
+	<entry>
+		<mistake>to holdout</mistake>
+		<corrected>to hold out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to kickoff</mistake>
+		<corrected>to kick off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to lit</mistake>
+		<corrected>to light</corrected>
+	</entry>
+	<entry>
+		<mistake>to loath</mistake>
+		<corrected>to loathe [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to lockout</mistake>
+		<corrected>to lock out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to login</mistake>
+		<corrected>to log in [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to logout</mistake>
+		<corrected>to log out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to lookup</mistake>
+		<corrected>to look up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to markup</mistake>
+		<corrected>to mark up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to not to</mistake>
+		<corrected>not to, to not</corrected>
+	</entry>
+	<entry>
+		<mistake>to opt-in</mistake>
+		<corrected>to opt in [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to opt-out</mistake>
+		<corrected>to opt out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to phaseout</mistake>
+		<corrected>to phase out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to pickup</mistake>
+		<corrected>to pick up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to playback</mistake>
+		<corrected>to play back [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to rebuilt</mistake>
+		<corrected>to be rebuilt, to rebuild</corrected>
+	</entry>
+	<entry>
+		<mistake>to released</mistake>
+		<corrected>to be released, to release</corrected>
+	</entry>
+	<entry>
+		<mistake>to returned to</mistake>
+		<corrected>returned to, to be returned to, to return to</corrected>
+	</entry>
+	<entry>
+		<mistake>to rollback</mistake>
+		<corrected>to roll back [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to runaway</mistake>
+		<corrected>to run away [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to seen</mistake>
+		<corrected>to be seen, to see</corrected>
+	</entry>
+	<entry>
+		<mistake>to sent</mistake>
+		<corrected>to send</corrected>
+	</entry>
+	<entry>
+		<mistake>to setup</mistake>
+		<corrected>to set up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to sign-up</mistake>
+		<corrected>to sign up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to signup</mistake>
+		<corrected>to sign up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to sign-off</mistake>
+		<corrected>to sign off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to signoff</mistake>
+		<corrected>to sign off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to shut-down</mistake>
+		<corrected>to shut down</corrected>
+	</entry>
+	<entry>
+		<mistake>to shutdown</mistake>
+		<corrected>to shut down [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to some extend</mistake>
+		<corrected>to some extent</corrected>
+	</entry>
+	<entry>
+		<mistake>to spent</mistake>
+		<corrected>to spend [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to spin-off</mistake>
+		<corrected>to spin off</corrected>
+	</entry>
+	<entry>
+		<mistake>to spinoff</mistake>
+		<corrected>to spin off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to takeover</mistake>
+		<corrected>to take over [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to that affect</mistake>
+		<corrected>to that effect</corrected>
+	</entry>
+	<entry>
+		<mistake>to they're</mistake>
+		<corrected>to their</corrected>
+	</entry>
+	<entry>
+		<mistake>to to the</mistake>
+		<corrected>to the</corrected>
+	</entry>
+	<entry>
+		<mistake>to together</mistake>
+		<corrected>together</corrected>
+	</entry>
+	<entry>
+		<mistake>to touchdown</mistake>
+		<corrected>to touch down [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to try and</mistake>
+		<corrected>to try to</corrected>
+	</entry>
+	<entry>
+		<mistake>to try-out</mistake>
+		<corrected>to try out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to tryout</mistake>
+		<corrected>to try out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to turn-off</mistake>
+		<corrected>to turn off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to turnaround</mistake>
+		<corrected>to turn around [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to turnoff</mistake>
+		<corrected>to turn off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to turnout</mistake>
+		<corrected>to turn out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to turnover</mistake>
+		<corrected>to turn over [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to wakeup</mistake>
+		<corrected>to wake up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to walkout</mistake>
+		<corrected>to walk out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to wipeout</mistake>
+		<corrected>to wipe out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to workaround</mistake>
+		<corrected>to work around [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>to workout</mistake>
+		<corrected>to work out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>too also</mistake>
+		<corrected>also, to also, too</corrected>
+	</entry>
+	<entry>
+		<mistake>too be</mistake>
+		<corrected>to be</corrected>
+	</entry>
+	<entry>
+		<mistake>took a while</mistake>
+		<corrected>took awhile</corrected>
+	</entry>
+	<entry>
+		<mistake>took affect</mistake>
+		<corrected>took effect</corrected>
+	</entry>
+	<entry>
+		<mistake>took and interest</mistake>
+		<corrected>took an interest</corrected>
+	</entry>
+	<entry>
+		<mistake>took over the reigns</mistake>
+		<corrected>took over the reins</corrected>
+	</entry>
+	<entry>
+		<mistake>took the reigns</mistake>
+		<corrected>took the reins</corrected>
+	</entry>
+	<entry>
+		<mistake>tot he</mistake>
+		<corrected>to the</corrected>
+	</entry>
+	<entry>
+		<mistake>tried to used</mistake>
+		<corrected>tried to use</corrected>
+	</entry>
+	<entry>
+		<mistake>try and achieve</mistake>
+		<corrected>try to achieve</corrected>
+	</entry>
+	<entry>
+		<mistake>try and add</mistake>
+		<corrected>try to add</corrected>
+	</entry>
+	<entry>
+		<mistake>try and answer</mistake>
+		<corrected>try to answer</corrected>
+	</entry>
+	<entry>
+		<mistake>try and attract</mistake>
+		<corrected>try to attract</corrected>
+	</entry>
+	<entry>
+		<mistake>try and avoid</mistake>
+		<corrected>try to avoid</corrected>
+	</entry>
+	<entry>
+		<mistake>try and be</mistake>
+		<corrected>try to be</corrected>
+	</entry>
+	<entry>
+		<mistake>try and beat</mistake>
+		<corrected>try to beat</corrected>
+	</entry>
+	<entry>
+		<mistake>try and become</mistake>
+		<corrected>try to become</corrected>
+	</entry>
+	<entry>
+		<mistake>try and bring</mistake>
+		<corrected>try to bring</corrected>
+	</entry>
+	<entry>
+		<mistake>try and build</mistake>
+		<corrected>try to build</corrected>
+	</entry>
+	<entry>
+		<mistake>try and buy</mistake>
+		<corrected>try to buy</corrected>
+	</entry>
+	<entry>
+		<mistake>try and catch</mistake>
+		<corrected>try to catch</corrected>
+	</entry>
+	<entry>
+		<mistake>try and change</mistake>
+		<corrected>try to change</corrected>
+	</entry>
+	<entry>
+		<mistake>try and come</mistake>
+		<corrected>try to come</corrected>
+	</entry>
+	<entry>
+		<mistake>try and convince</mistake>
+		<corrected>try to convince</corrected>
+	</entry>
+	<entry>
+		<mistake>try and decide</mistake>
+		<corrected>try to decide</corrected>
+	</entry>
+	<entry>
+		<mistake>try and determine</mistake>
+		<corrected>try to determine</corrected>
+	</entry>
+	<entry>
+		<mistake>try and do</mistake>
+		<corrected>try to do</corrected>
+	</entry>
+	<entry>
+		<mistake>try and eat</mistake>
+		<corrected>try to eat</corrected>
+	</entry>
+	<entry>
+		<mistake>try and escape</mistake>
+		<corrected>try to escape</corrected>
+	</entry>
+	<entry>
+		<mistake>try and figure</mistake>
+		<corrected>try to figure</corrected>
+	</entry>
+	<entry>
+		<mistake>try and find</mistake>
+		<corrected>try to find</corrected>
+	</entry>
+	<entry>
+		<mistake>try and fix</mistake>
+		<corrected>try to fix</corrected>
+	</entry>
+	<entry>
+		<mistake>try and forget</mistake>
+		<corrected>try to forget</corrected>
+	</entry>
+	<entry>
+		<mistake>try and gain</mistake>
+		<corrected>try to gain</corrected>
+	</entry>
+	<entry>
+		<mistake>try and get</mistake>
+		<corrected>try to get</corrected>
+	</entry>
+	<entry>
+		<mistake>try and give</mistake>
+		<corrected>try to give</corrected>
+	</entry>
+	<entry>
+		<mistake>try and go</mistake>
+		<corrected>try to go</corrected>
+	</entry>
+	<entry>
+		<mistake>try and help</mistake>
+		<corrected>try to help</corrected>
+	</entry>
+	<entry>
+		<mistake>try and hide</mistake>
+		<corrected>try to hide</corrected>
+	</entry>
+	<entry>
+		<mistake>try and hit</mistake>
+		<corrected>try to hit</corrected>
+	</entry>
+	<entry>
+		<mistake>try and hold</mistake>
+		<corrected>try to hold</corrected>
+	</entry>
+	<entry>
+		<mistake>try and improve</mistake>
+		<corrected>try to improve</corrected>
+	</entry>
+	<entry>
+		<mistake>try and keep</mistake>
+		<corrected>try to keep</corrected>
+	</entry>
+	<entry>
+		<mistake>try and locate</mistake>
+		<corrected>try to locate</corrected>
+	</entry>
+	<entry>
+		<mistake>try and make</mistake>
+		<corrected>try to make</corrected>
+	</entry>
+	<entry>
+		<mistake>try and move</mistake>
+		<corrected>try to move</corrected>
+	</entry>
+	<entry>
+		<mistake>try and obtain</mistake>
+		<corrected>try to obtain</corrected>
+	</entry>
+	<entry>
+		<mistake>try and play</mistake>
+		<corrected>try to play</corrected>
+	</entry>
+	<entry>
+		<mistake>try and prevent</mistake>
+		<corrected>try to prevent</corrected>
+	</entry>
+	<entry>
+		<mistake>try and protect</mistake>
+		<corrected>try to prove</corrected>
+	</entry>
+	<entry>
+		<mistake>try and prove</mistake>
+		<corrected>try to prove</corrected>
+	</entry>
+	<entry>
+		<mistake>try and run</mistake>
+		<corrected>try to run</corrected>
+	</entry>
+	<entry>
+		<mistake>try and see</mistake>
+		<corrected>try to see</corrected>
+	</entry>
+	<entry>
+		<mistake>try and show</mistake>
+		<corrected>try to show</corrected>
+	</entry>
+	<entry>
+		<mistake>try and slow</mistake>
+		<corrected>try to slow</corrected>
+	</entry>
+	<entry>
+		<mistake>try and solve</mistake>
+		<corrected>try to solve</corrected>
+	</entry>
+	<entry>
+		<mistake>try and spare</mistake>
+		<corrected>try to spare</corrected>
+	</entry>
+	<entry>
+		<mistake>try and start</mistake>
+		<corrected>try to start</corrected>
+	</entry>
+	<entry>
+		<mistake>try and stay</mistake>
+		<corrected>try to stay</corrected>
+	</entry>
+	<entry>
+		<mistake>try and stop</mistake>
+		<corrected>try to stop</corrected>
+	</entry>
+	<entry>
+		<mistake>try and support</mistake>
+		<corrected>try to support</corrected>
+	</entry>
+	<entry>
+		<mistake>try and take</mistake>
+		<corrected>try to take</corrected>
+	</entry>
+	<entry>
+		<mistake>try and talk</mistake>
+		<corrected>try to talk</corrected>
+	</entry>
+	<entry>
+		<mistake>try and tell</mistake>
+		<corrected>try to tell</corrected>
+	</entry>
+	<entry>
+		<mistake>try and think</mistake>
+		<corrected>try to think</corrected>
+	</entry>
+	<entry>
+		<mistake>try and turn</mistake>
+		<corrected>try to turn</corrected>
+	</entry>
+	<entry>
+		<mistake>try and understand</mistake>
+		<corrected>try to understand</corrected>
+	</entry>
+	<entry>
+		<mistake>try and use</mistake>
+		<corrected>try to use</corrected>
+	</entry>
+	<entry>
+		<mistake>try and win</mistake>
+		<corrected>try to win</corrected>
+	</entry>
+	<entry>
+		<mistake>turn for the worst</mistake>
+		<corrected>turn for the worse</corrected>
+	</entry>
+	<entry>
+		<mistake>turn by turn</mistake>
+		<corrected>turn-by-turn</corrected>
+	</entry>
+	<entry>
+		<mistake>twelve month's</mistake>
+		<corrected>twelve months [plural], twelve months' [possessive], twelve-month</corrected>
+	</entry>
+	<entry>
+		<mistake>twice as much than</mistake>
+		<corrected>twice as much as</corrected>
+	</entry>
+	<entry>
+		<mistake>two day's</mistake>
+		<corrected>two days [plural], two days' [possessive], two-day</corrected>
+	</entry>
+	<entry>
+		<mistake>two hour's</mistake>
+		<corrected>two hours [plural], two hours' [possessive], two-hour</corrected>
+	</entry>
+	<entry>
+		<mistake>two in a half</mistake>
+		<corrected>two and a half</corrected>
+	</entry>
+	<entry>
+		<mistake>two month's</mistake>
+		<corrected>two months [plural], two months' [possessive], two-month</corrected>
+	</entry>
+	<entry>
+		<mistake>two times less than</mistake>
+		<corrected>half as much as</corrected>
+	</entry>
+	<entry>
+		<mistake>two week's</mistake>
+		<corrected>two weeks [plural], two weeks' [possessive], two-week</corrected>
+	</entry>
+	<entry>
+		<mistake>two year's</mistake>
+		<corrected>two years [plural], two years' [possessive], two-year</corrected>
+	</entry>
+	<entry>
+		<mistake>two-year anniversary</mistake>
+		<corrected>second anniversary</corrected>
+	</entry>
+	<entry>
+		<mistake>under go</mistake>
+		<corrected>undergo</corrected>
+	</entry>
+	<entry>
+		<mistake>under going</mistake>
+		<corrected>undergoing</corrected>
+	</entry>
+	<entry>
+		<mistake>under gone</mistake>
+		<corrected>undergone</corrected>
+	</entry>
+	<entry>
+		<mistake>under it's</mistake>
+		<corrected>under its</corrected>
+	</entry>
+	<entry>
+		<mistake>under rated</mistake>
+		<corrected>underrated</corrected>
+	</entry>
+	<entry>
+		<mistake>under take</mistake>
+		<corrected>undertake</corrected>
+	</entry>
+	<entry>
+		<mistake>under wear</mistake>
+		<corrected>underwear</corrected>
+	</entry>
+	<entry>
+		<mistake>under went</mistake>
+		<corrected>underwent</corrected>
+	</entry>
+	<entry>
+		<mistake>underneath it's</mistake>
+		<corrected>underneath its</corrected>
+	</entry>
+	<entry>
+		<mistake>United State's</mistake>
+		<corrected>United States'</corrected>
+	</entry>
+	<entry>
+		<mistake>United Stats</mistake>
+		<corrected>United States</corrected>
+	</entry>
+	<entry>
+		<mistake>Unites States</mistake>
+		<corrected>United States</corrected>
+	</entry>
+	<entry>
+		<mistake>unlike it's</mistake>
+		<corrected>unlike its</corrected>
+	</entry>
+	<entry>
+		<mistake>until it's</mistake>
+		<corrected>until its</corrected>
+	</entry>
+	<entry>
+		<mistake>up field</mistake>
+		<corrected>upfield</corrected>
+	</entry>
+	<entry>
+		<mistake>up it's</mistake>
+		<corrected>up its</corrected>
+	</entry>
+	<entry>
+		<mistake>up side</mistake>
+		<corrected>upside</corrected>
+	</entry>
+	<entry>
+		<mistake>up until</mistake>
+		<corrected>until</corrected>
+	</entry>
+	<entry>
+		<mistake>upon it's</mistake>
+		<corrected>upon its</corrected>
+	</entry>
+	<entry>
+		<mistake>use to be</mistake>
+		<corrected>used to be</corrected>
+	</entry>
+	<entry>
+		<mistake>use to have</mistake>
+		<corrected>used to have</corrected>
+	</entry>
+	<entry>
+		<mistake>usually know as</mistake>
+		<corrected>usually known as</corrected>
+	</entry>
+	<entry>
+		<mistake>usually know by</mistake>
+		<corrected>usually known by</corrected>
+	</entry>
+	<entry>
+		<mistake>usually know for</mistake>
+		<corrected>usually known for</corrected>
+	</entry>
+	<entry>
+		<mistake>very minimal</mistake>
+		<corrected>minimal, very little, very small</corrected>
+	</entry>
+	<entry>
+		<mistake>very optimal</mistake>
+		<corrected>optimal, very good</corrected>
+	</entry>
+	<entry>
+		<mistake>very unique</mistake>
+		<corrected>unique, very unusual</corrected>
+	</entry>
+	<entry>
+		<mistake>via it's</mistake>
+		<corrected>via its</corrected>
+	</entry>
+	<entry>
+		<mistake>VIN number</mistake>
+		<corrected>vehicle identification number, VIN</corrected>
+	</entry>
+	<entry>
+		<mistake>vise versa</mistake>
+		<corrected>vice versa</corrected>
+	</entry>
+	<entry>
+		<mistake>vocal chords</mistake>
+		<corrected>vocal cords, vocal folds</corrected>
+	</entry>
+	<entry>
+		<mistake>waived off</mistake>
+		<corrected>waved off</corrected>
+	</entry>
+	<entry>
+		<mistake>warn away</mistake>
+		<corrected>worn away</corrected>
+	</entry>
+	<entry>
+		<mistake>warn down</mistake>
+		<corrected>worn down</corrected>
+	</entry>
+	<entry>
+		<mistake>warn out</mistake>
+		<corrected>worn out</corrected>
+	</entry>
+	<entry>
+		<mistake>was aloud</mistake>
+		<corrected>was allowed</corrected>
+	</entry>
+	<entry>
+		<mistake>was apart of</mistake>
+		<corrected>was a part of</corrected>
+	</entry>
+	<entry>
+		<mistake>was be</mistake>
+		<corrected>was, was being, was to be</corrected>
+	</entry>
+	<entry>
+		<mistake>was been</mistake>
+		<corrected>has been, was being</corrected>
+	</entry>
+	<entry>
+		<mistake>was began</mistake>
+		<corrected>was begun</corrected>
+	</entry>
+	<entry>
+		<mistake>was begin</mistake>
+		<corrected>began, was begun, was being</corrected>
+	</entry>
+	<entry>
+		<mistake>was build</mistake>
+		<corrected>was built</corrected>
+	</entry>
+	<entry>
+		<mistake>was cable of</mistake>
+		<corrected>was capable of</corrected>
+	</entry>
+	<entry>
+		<mistake>was came</mistake>
+		<corrected>came</corrected>
+	</entry>
+	<entry>
+		<mistake>was comprised by</mistake>
+		<corrected>comprised</corrected>
+	</entry>
+	<entry>
+		<mistake>was comprised from</mistake>
+		<corrected>comprised, was composed from</corrected>
+	</entry>
+	<entry>
+		<mistake>was comprised of</mistake>
+		<corrected>comprised, consisted of, was composed of</corrected>
+	</entry>
+	<entry>
+		<mistake>was comprised with</mistake>
+		<corrected>comprised</corrected>
+	</entry>
+	<entry>
+		<mistake>was cutoff</mistake>
+		<corrected>was cut off</corrected>
+	</entry>
+	<entry>
+		<mistake>was do to</mistake>
+		<corrected>was due to</corrected>
+	</entry>
+	<entry>
+		<mistake>was drank</mistake>
+		<corrected>was drunk</corrected>
+	</entry>
+	<entry>
+		<mistake>was drew</mistake>
+		<corrected>drew, was drawn</corrected>
+	</entry>
+	<entry>
+		<mistake>was flew</mistake>
+		<corrected>flew, was flown</corrected>
+	</entry>
+	<entry>
+		<mistake>was grew</mistake>
+		<corrected>grew, was grown</corrected>
+	</entry>
+	<entry>
+		<mistake>was had</mistake>
+		<corrected>had, who had</corrected>
+	</entry>
+	<entry>
+		<mistake>was has</mistake>
+		<corrected>has, who has</corrected>
+	</entry>
+	<entry>
+		<mistake>was is</mistake>
+		<corrected>is, was, was in, what is</corrected>
+	</entry>
+	<entry>
+		<mistake>was it's</mistake>
+		<corrected>was its</corrected>
+	</entry>
+	<entry>
+		<mistake>was knew</mistake>
+		<corrected>was known</corrected>
+	</entry>
+	<entry>
+		<mistake>was know</mistake>
+		<corrected>was known</corrected>
+	</entry>
+	<entry>
+		<mistake>was lain</mistake>
+		<corrected>was laid</corrected>
+	</entry>
+	<entry>
+		<mistake>was laying on</mistake>
+		<corrected>was lying on</corrected>
+	</entry>
+	<entry>
+		<mistake>was lead by</mistake>
+		<corrected>was led by</corrected>
+	</entry>
+	<entry>
+		<mistake>was lead to</mistake>
+		<corrected>was led to</corrected>
+	</entry>
+	<entry>
+		<mistake>was leaded by</mistake>
+		<corrected>was led by</corrected>
+	</entry>
+	<entry>
+		<mistake>was loathe to</mistake>
+		<corrected>was loath to [adjective]</corrected>
+	</entry>
+	<entry>
+		<mistake>was loathed to</mistake>
+		<corrected>was loath to</corrected>
+	</entry>
+	<entry>
+		<mistake>was meet by</mistake>
+		<corrected>was met by</corrected>
+	</entry>
+	<entry>
+		<mistake>was meet with</mistake>
+		<corrected>was met with</corrected>
+	</entry>
+	<entry>
+		<mistake>was mislead</mistake>
+		<corrected>was misled</corrected>
+	</entry>
+	<entry>
+		<mistake>was ran</mistake>
+		<corrected>was run</corrected>
+	</entry>
+	<entry>
+		<mistake>was rebuild</mistake>
+		<corrected>was rebuilt</corrected>
+	</entry>
+	<entry>
+		<mistake>was release by</mistake>
+		<corrected>was released by</corrected>
+	</entry>
+	<entry>
+		<mistake>was release on</mistake>
+		<corrected>was released on</corrected>
+	</entry>
+	<entry>
+		<mistake>was reran</mistake>
+		<corrected>was rerun</corrected>
+	</entry>
+	<entry>
+		<mistake>was rode</mistake>
+		<corrected>was ridden</corrected>
+	</entry>
+	<entry>
+		<mistake>was sang</mistake>
+		<corrected>was sung</corrected>
+	</entry>
+	<entry>
+		<mistake>was saw</mistake>
+		<corrected>saw, was seen</corrected>
+	</entry>
+	<entry>
+		<mistake>was schedule to</mistake>
+		<corrected>was scheduled to</corrected>
+	</entry>
+	<entry>
+		<mistake>was send</mistake>
+		<corrected>was sent</corrected>
+	</entry>
+	<entry>
+		<mistake>was sentence to</mistake>
+		<corrected>was sentenced to</corrected>
+	</entry>
+	<entry>
+		<mistake>was set-up</mistake>
+		<corrected>was set up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>was setup</mistake>
+		<corrected>was set up</corrected>
+	</entry>
+	<entry>
+		<mistake>was shook</mistake>
+		<corrected>was shaken</corrected>
+	</entry>
+	<entry>
+		<mistake>was shoot</mistake>
+		<corrected>was shot</corrected>
+	</entry>
+	<entry>
+		<mistake>was show by</mistake>
+		<corrected>was shown by</corrected>
+	</entry>
+	<entry>
+		<mistake>was show on</mistake>
+		<corrected>was shown on</corrected>
+	</entry>
+	<entry>
+		<mistake>was showed</mistake>
+		<corrected>was shown</corrected>
+	</entry>
+	<entry>
+		<mistake>was shut-off</mistake>
+		<corrected>was shut off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>was shutdown</mistake>
+		<corrected>was shut down [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>was shutoff</mistake>
+		<corrected>was shut off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>was shutout</mistake>
+		<corrected>was shut out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>was sold-out</mistake>
+		<corrected>was sold out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>was spend</mistake>
+		<corrected>was spent</corrected>
+	</entry>
+	<entry>
+		<mistake>was succeed by</mistake>
+		<corrected>was succeeded by</corrected>
+	</entry>
+	<entry>
+		<mistake>was suppose to</mistake>
+		<corrected>was supposed to</corrected>
+	</entry>
+	<entry>
+		<mistake>was the dominate</mistake>
+		<corrected>was the dominant</corrected>
+	</entry>
+	<entry>
+		<mistake>was the fact that</mistake>
+		<corrected>was that</corrected>
+	</entry>
+	<entry>
+		<mistake>was though that</mistake>
+		<corrected>was thought that</corrected>
+	</entry>
+	<entry>
+		<mistake>was took</mistake>
+		<corrected>took, was taken</corrected>
+	</entry>
+	<entry>
+		<mistake>was tore</mistake>
+		<corrected>was torn</corrected>
+	</entry>
+	<entry>
+		<mistake>was use to</mistake>
+		<corrected>was used to</corrected>
+	</entry>
+	<entry>
+		<mistake>was wrote</mistake>
+		<corrected>was written</corrected>
+	</entry>
+	<entry>
+		<mistake>way side</mistake>
+		<corrected>wayside</corrected>
+	</entry>
+	<entry>
+		<mistake>weather or not</mistake>
+		<corrected>whether or not</corrected>
+	</entry>
+	<entry>
+		<mistake>well know</mistake>
+		<corrected>well known</corrected>
+	</entry>
+	<entry>
+		<mistake>went rouge</mistake>
+		<corrected>went rogue</corrected>
+	</entry>
+	<entry>
+		<mistake>went threw</mistake>
+		<corrected>went through</corrected>
+	</entry>
+	<entry>
+		<mistake>were aloud</mistake>
+		<corrected>were allowed</corrected>
+	</entry>
+	<entry>
+		<mistake>were apart of</mistake>
+		<corrected>were a part of</corrected>
+	</entry>
+	<entry>
+		<mistake>were be</mistake>
+		<corrected>were</corrected>
+	</entry>
+	<entry>
+		<mistake>were been</mistake>
+		<corrected>had been, have been, were being</corrected>
+	</entry>
+	<entry>
+		<mistake>were began</mistake>
+		<corrected>were begun</corrected>
+	</entry>
+	<entry>
+		<mistake>were build</mistake>
+		<corrected>were built</corrected>
+	</entry>
+	<entry>
+		<mistake>were comprised from</mistake>
+		<corrected>comprised</corrected>
+	</entry>
+	<entry>
+		<mistake>were comprised of</mistake>
+		<corrected>comprised, consisted of, were composed of</corrected>
+	</entry>
+	<entry>
+		<mistake>were comprised with</mistake>
+		<corrected>comprised</corrected>
+	</entry>
+	<entry>
+		<mistake>were cutoff</mistake>
+		<corrected>were cut off</corrected>
+	</entry>
+	<entry>
+		<mistake>were drew</mistake>
+		<corrected>were drawn</corrected>
+	</entry>
+	<entry>
+		<mistake>were he was</mistake>
+		<corrected>where he was</corrected>
+	</entry>
+	<entry>
+		<mistake>were it was</mistake>
+		<corrected>where it was</corrected>
+	</entry>
+	<entry>
+		<mistake>were it's</mistake>
+		<corrected>were its</corrected>
+	</entry>
+	<entry>
+		<mistake>were knew</mistake>
+		<corrected>were known</corrected>
+	</entry>
+	<entry>
+		<mistake>were know</mistake>
+		<corrected>were known</corrected>
+	</entry>
+	<entry>
+		<mistake>were lain</mistake>
+		<corrected>were laid</corrected>
+	</entry>
+	<entry>
+		<mistake>were lead by</mistake>
+		<corrected>were led by</corrected>
+	</entry>
+	<entry>
+		<mistake>were leaded by</mistake>
+		<corrected>were led by</corrected>
+	</entry>
+	<entry>
+		<mistake>were loathe to</mistake>
+		<corrected>were loath to [adjective]</corrected>
+	</entry>
+	<entry>
+		<mistake>were meet by</mistake>
+		<corrected>were met by</corrected>
+	</entry>
+	<entry>
+		<mistake>were meet with</mistake>
+		<corrected>were met with</corrected>
+	</entry>
+	<entry>
+		<mistake>were overran</mistake>
+		<corrected>were overrun</corrected>
+	</entry>
+	<entry>
+		<mistake>were ran</mistake>
+		<corrected>were run</corrected>
+	</entry>
+	<entry>
+		<mistake>were rebuild</mistake>
+		<corrected>were rebuilt</corrected>
+	</entry>
+	<entry>
+		<mistake>were reran</mistake>
+		<corrected>were rerun</corrected>
+	</entry>
+	<entry>
+		<mistake>were rode</mistake>
+		<corrected>were ridden</corrected>
+	</entry>
+	<entry>
+		<mistake>were sang</mistake>
+		<corrected>were sung</corrected>
+	</entry>
+	<entry>
+		<mistake>were set-up</mistake>
+		<corrected>were set up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>were setup</mistake>
+		<corrected>were set up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>were she was</mistake>
+		<corrected>where she was</corrected>
+	</entry>
+	<entry>
+		<mistake>were showed</mistake>
+		<corrected>were shown</corrected>
+	</entry>
+	<entry>
+		<mistake>were shut-out</mistake>
+		<corrected>were shut out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>were shutdown</mistake>
+		<corrected>were shut down [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>were shutoff</mistake>
+		<corrected>were shut off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>were shutout</mistake>
+		<corrected>were shut out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>were spend</mistake>
+		<corrected>were spent</corrected>
+	</entry>
+	<entry>
+		<mistake>were suppose to</mistake>
+		<corrected>were supposed to</corrected>
+	</entry>
+	<entry>
+		<mistake>were the dominate</mistake>
+		<corrected>were the dominant</corrected>
+	</entry>
+	<entry>
+		<mistake>were took</mistake>
+		<corrected>were taken</corrected>
+	</entry>
+	<entry>
+		<mistake>were tore</mistake>
+		<corrected>were torn</corrected>
+	</entry>
+	<entry>
+		<mistake>were use to</mistake>
+		<corrected>were used to</corrected>
+	</entry>
+	<entry>
+		<mistake>were wrote</mistake>
+		<corrected>were written</corrected>
+	</entry>
+	<entry>
+		<mistake>wether or not</mistake>
+		<corrected>whether or not</corrected>
+	</entry>
+	<entry>
+		<mistake>what lead to</mistake>
+		<corrected>what led to</corrected>
+	</entry>
+	<entry>
+		<mistake>what lied</mistake>
+		<corrected>what lay</corrected>
+	</entry>
+	<entry>
+		<mistake>when ever</mistake>
+		<corrected>whenever [conjunction]</corrected>
+	</entry>
+	<entry>
+		<mistake>when into</mistake>
+		<corrected>went into</corrected>
+	</entry>
+	<entry>
+		<mistake>when off</mistake>
+		<corrected>went off</corrected>
+	</entry>
+	<entry>
+		<mistake>when on to</mistake>
+		<corrected>went on to</corrected>
+	</entry>
+	<entry>
+		<mistake>where abouts</mistake>
+		<corrected>whereabouts</corrected>
+	</entry>
+	<entry>
+		<mistake>where as</mistake>
+		<corrected>whereas [conjunction]</corrected>
+	</entry>
+	<entry>
+		<mistake>where being</mistake>
+		<corrected>were being</corrected>
+	</entry>
+	<entry>
+		<mistake>where by</mistake>
+		<corrected>whereby</corrected>
+	</entry>
+	<entry>
+		<mistake>where him</mistake>
+		<corrected>where he</corrected>
+	</entry>
+	<entry>
+		<mistake>where made</mistake>
+		<corrected>were made, where he made</corrected>
+	</entry>
+	<entry>
+		<mistake>where taken</mistake>
+		<corrected>were taken</corrected>
+	</entry>
+	<entry>
+		<mistake>where upon</mistake>
+		<corrected>whereupon</corrected>
+	</entry>
+	<entry>
+		<mistake>where won</mistake>
+		<corrected>were won, where he won, where she won</corrected>
+	</entry>
+	<entry>
+		<mistake>whereas as</mistake>
+		<corrected>whereas</corrected>
+	</entry>
+	<entry>
+		<mistake>which breakdown</mistake>
+		<corrected>which break down</corrected>
+	</entry>
+	<entry>
+		<mistake>which comprised of</mistake>
+		<corrected>which comprised, which consisted of</corrected>
+	</entry>
+	<entry>
+		<mistake>which had lead</mistake>
+		<corrected>which had led</corrected>
+	</entry>
+	<entry>
+		<mistake>which has lead</mistake>
+		<corrected>which has led</corrected>
+	</entry>
+	<entry>
+		<mistake>which have lead</mistake>
+		<corrected>which have led</corrected>
+	</entry>
+	<entry>
+		<mistake>which in which</mistake>
+		<corrected>in which</corrected>
+	</entry>
+	<entry>
+		<mistake>which maybe</mistake>
+		<corrected>which may be</corrected>
+	</entry>
+	<entry>
+		<mistake>which where</mistake>
+		<corrected>which were</corrected>
+	</entry>
+	<entry>
+		<mistake>while him</mistake>
+		<corrected>while he</corrected>
+	</entry>
+	<entry>
+		<mistake>who had lead</mistake>
+		<corrected>who had led</corrected>
+	</entry>
+	<entry>
+		<mistake>who has lead</mistake>
+		<corrected>who has led</corrected>
+	</entry>
+	<entry>
+		<mistake>who have lead</mistake>
+		<corrected>who have led</corrected>
+	</entry>
+	<entry>
+		<mistake>who he had</mistake>
+		<corrected>whom he had</corrected>
+	</entry>
+	<entry>
+		<mistake>who he knew</mistake>
+		<corrected>whom he knew</corrected>
+	</entry>
+	<entry>
+		<mistake>who he led</mistake>
+		<corrected>whom he led</corrected>
+	</entry>
+	<entry>
+		<mistake>who he married</mistake>
+		<corrected>whom he married</corrected>
+	</entry>
+	<entry>
+		<mistake>who he met</mistake>
+		<corrected>whom he met</corrected>
+	</entry>
+	<entry>
+		<mistake>who he took</mistake>
+		<corrected>whom he took</corrected>
+	</entry>
+	<entry>
+		<mistake>who lead</mistake>
+		<corrected>who led</corrected>
+	</entry>
+	<entry>
+		<mistake>who maybe</mistake>
+		<corrected>who may be</corrected>
+	</entry>
+	<entry>
+		<mistake>who setup</mistake>
+		<corrected>who set up</corrected>
+	</entry>
+	<entry>
+		<mistake>who she met</mistake>
+		<corrected>whom she met</corrected>
+	</entry>
+	<entry>
+		<mistake>who they have</mistake>
+		<corrected>whom they have</corrected>
+	</entry>
+	<entry>
+		<mistake>who they should</mistake>
+		<corrected>whom they should</corrected>
+	</entry>
+	<entry>
+		<mistake>who they signed</mistake>
+		<corrected>whom they signed</corrected>
+	</entry>
+	<entry>
+		<mistake>who to believe</mistake>
+		<corrected>whom to believe</corrected>
+	</entry>
+	<entry>
+		<mistake>who to blame</mistake>
+		<corrected>whom to blame</corrected>
+	</entry>
+	<entry>
+		<mistake>who to call</mistake>
+		<corrected>whom to call</corrected>
+	</entry>
+	<entry>
+		<mistake>who to invite</mistake>
+		<corrected>whom to invite</corrected>
+	</entry>
+	<entry>
+		<mistake>who to send</mistake>
+		<corrected>whom to send</corrected>
+	</entry>
+	<entry>
+		<mistake>who to trust</mistake>
+		<corrected>whom to trust</corrected>
+	</entry>
+	<entry>
+		<mistake>who use to</mistake>
+		<corrected>who used to</corrected>
+	</entry>
+	<entry>
+		<mistake>who where</mistake>
+		<corrected>who were</corrected>
+	</entry>
+	<entry>
+		<mistake>who's actual</mistake>
+		<corrected>whose actual [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>who's brother</mistake>
+		<corrected>whose brother</corrected>
+	</entry>
+	<entry>
+		<mistake>who's father</mistake>
+		<corrected>whose father</corrected>
+	</entry>
+	<entry>
+		<mistake>who's first</mistake>
+		<corrected>whose first</corrected>
+	</entry>
+	<entry>
+		<mistake>who's last</mistake>
+		<corrected>whose last</corrected>
+	</entry>
+	<entry>
+		<mistake>who's mother</mistake>
+		<corrected>whose mother</corrected>
+	</entry>
+	<entry>
+		<mistake>who's name</mistake>
+		<corrected>whose name</corrected>
+	</entry>
+	<entry>
+		<mistake>who's opinion</mistake>
+		<corrected>whose opinion</corrected>
+	</entry>
+	<entry>
+		<mistake>who's own</mistake>
+		<corrected>whose own</corrected>
+	</entry>
+	<entry>
+		<mistake>who's parents</mistake>
+		<corrected>whose parents</corrected>
+	</entry>
+	<entry>
+		<mistake>who's previous</mistake>
+		<corrected>whose previous</corrected>
+	</entry>
+	<entry>
+		<mistake>who's team</mistake>
+		<corrected>whose team</corrected>
+	</entry>
+	<entry>
+		<mistake>who's title</mistake>
+		<corrected>whose title</corrected>
+	</entry>
+	<entry>
+		<mistake>who's was</mistake>
+		<corrected>who was</corrected>
+	</entry>
+	<entry>
+		<mistake>whom also</mistake>
+		<corrected>who also</corrected>
+	</entry>
+	<entry>
+		<mistake>whom else is</mistake>
+		<corrected>who else is</corrected>
+	</entry>
+	<entry>
+		<mistake>whom is</mistake>
+		<corrected>who is</corrected>
+	</entry>
+	<entry>
+		<mistake>whom was</mistake>
+		<corrected>who was</corrected>
+	</entry>
+	<entry>
+		<mistake>whose its</mistake>
+		<corrected>whose</corrected>
+	</entry>
+	<entry>
+		<mistake>whose one of</mistake>
+		<corrected>one of whose, who's one of</corrected>
+	</entry>
+	<entry>
+		<mistake>whose was</mistake>
+		<corrected>which was, who was</corrected>
+	</entry>
+	<entry>
+		<mistake>wildcard birth</mistake>
+		<corrected>wildcard berth</corrected>
+	</entry>
+	<entry>
+		<mistake>will backup</mistake>
+		<corrected>will back up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>will been</mistake>
+		<corrected>will be, will have been</corrected>
+	</entry>
+	<entry>
+		<mistake>will being</mistake>
+		<corrected>will begin</corrected>
+	</entry>
+	<entry>
+		<mistake>will buyout</mistake>
+		<corrected>will buy out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>will comprise of</mistake>
+		<corrected>will be composed of, will comprise, will consist of</corrected>
+	</entry>
+	<entry>
+		<mistake>will shutdown</mistake>
+		<corrected>will shut down [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>will shutoff</mistake>
+		<corrected>will shut off [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>will spent</mistake>
+		<corrected>will have spent, will spend</corrected>
+	</entry>
+	<entry>
+		<mistake>will took part</mistake>
+		<corrected>took part, will take part</corrected>
+	</entry>
+	<entry>
+		<mistake>will took place</mistake>
+		<corrected>took place, will take place</corrected>
+	</entry>
+	<entry>
+		<mistake>will workout</mistake>
+		<corrected>will work out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>with a the</mistake>
+		<corrected>with a, with the</corrected>
+	</entry>
+	<entry>
+		<mistake>with along with</mistake>
+		<corrected>along with</corrected>
+	</entry>
+	<entry>
+		<mistake>with be</mistake>
+		<corrected>will be</corrected>
+	</entry>
+	<entry>
+		<mistake>with he</mistake>
+		<corrected>when he, with him, with the</corrected>
+	</entry>
+	<entry>
+		<mistake>with in</mistake>
+		<corrected>within [preposition]</corrected>
+	</entry>
+	<entry>
+		<mistake>with it's</mistake>
+		<corrected>with its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>with on of</mistake>
+		<corrected>with one of</corrected>
+	</entry>
+	<entry>
+		<mistake>with out</mistake>
+		<corrected>without</corrected>
+	</entry>
+	<entry>
+		<mistake>with she</mistake>
+		<corrected>when she, with her, with the</corrected>
+	</entry>
+	<entry>
+		<mistake>with who</mistake>
+		<corrected>with whom</corrected>
+	</entry>
+	<entry>
+		<mistake>within close proximity to</mistake>
+		<corrected>close to</corrected>
+	</entry>
+	<entry>
+		<mistake>within in</mistake>
+		<corrected>in, within</corrected>
+	</entry>
+	<entry>
+		<mistake>within it's</mistake>
+		<corrected>within its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>within site of</mistake>
+		<corrected>within sight of</corrected>
+	</entry>
+	<entry>
+		<mistake>without it's</mistake>
+		<corrected>without its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>Wold War</mistake>
+		<corrected>World War</corrected>
+	</entry>
+	<entry>
+		<mistake>won it's</mistake>
+		<corrected>won its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>Word War I</mistake>
+		<corrected>World War I</corrected>
+	</entry>
+	<entry>
+		<mistake>Word War II</mistake>
+		<corrected>World War II</corrected>
+	</entry>
+	<entry>
+		<mistake>working progress</mistake>
+		<corrected>work in progress</corrected>
+	</entry>
+	<entry>
+		<mistake>world wide</mistake>
+		<corrected>worldwide [adjective]</corrected>
+	</entry>
+	<entry>
+		<mistake>worse that</mistake>
+		<corrected>worse than [comparative]</corrected>
+	</entry>
+	<entry>
+		<mistake>worse then</mistake>
+		<corrected>worse than [comparative]</corrected>
+	</entry>
+	<entry>
+		<mistake>worse-case scenario</mistake>
+		<corrected>worst-case scenario</corrected>
+	</entry>
+	<entry>
+		<mistake>worser</mistake>
+		<corrected>even worse, much worse, worst</corrected>
+	</entry>
+	<entry>
+		<mistake>worst comes to worst</mistake>
+		<corrected>worse comes to worst</corrected>
+	</entry>
+	<entry>
+		<mistake>worst than</mistake>
+		<corrected>worse than [comparative]</corrected>
+	</entry>
+	<entry>
+		<mistake>worth it's</mistake>
+		<corrected>worth its [possessive]</corrected>
+	</entry>
+	<entry>
+		<mistake>worth while</mistake>
+		<corrected>worthwhile [adjective]</corrected>
+	</entry>
+	<entry>
+		<mistake>would backup</mistake>
+		<corrected>would back up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>would been</mistake>
+		<corrected>would be, would have been</corrected>
+	</entry>
+	<entry>
+		<mistake>would comeback</mistake>
+		<corrected>would come back [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>would comprise of</mistake>
+		<corrected>would be composed of, would comprise, would consist of</corrected>
+	</entry>
+	<entry>
+		<mistake>would developed</mistake>
+		<corrected>developed, would be developed, would develop</corrected>
+	</entry>
+	<entry>
+		<mistake>would fair</mistake>
+		<corrected>would fare</corrected>
+	</entry>
+	<entry>
+		<mistake>would forego</mistake>
+		<corrected>would forgo</corrected>
+	</entry>
+	<entry>
+		<mistake>would had</mistake>
+		<corrected>had, would have, would have had</corrected>
+	</entry>
+	<entry>
+		<mistake>would of been</mistake>
+		<corrected>would have been</corrected>
+	</entry>
+	<entry>
+		<mistake>would of done</mistake>
+		<corrected>would have done</corrected>
+	</entry>
+	<entry>
+		<mistake>would made</mistake>
+		<corrected>made, would be made, would make</corrected>
+	</entry>
+	<entry>
+		<mistake>would setup</mistake>
+		<corrected>would set up [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>would spent</mistake>
+		<corrected>spent, would have spent, would spend</corrected>
+	</entry>
+	<entry>
+		<mistake>would won</mistake>
+		<corrected>won, would win</corrected>
+	</entry>
+	<entry>
+		<mistake>would workout</mistake>
+		<corrected>would work out [verb]</corrected>
+	</entry>
+	<entry>
+		<mistake>would've have</mistake>
+		<corrected>would have</corrected>
+	</entry>
+	<entry>
+		<mistake>would've went</mistake>
+		<corrected>would have gone, would've gone</corrected>
+	</entry>
+	<entry>
+		<mistake>wreck havoc</mistake>
+		<corrected>wreak havoc</corrected>
+	</entry>
+	<entry>
+		<mistake>younger that</mistake>
+		<corrected>younger than</corrected>
+	</entry>
+	<entry>
+		<mistake>younger then</mistake>
+		<corrected>younger than</corrected>
+	</entry>
+
+	<!--
+		Common Contractions in English.
+	-->
+	<entry>
+		<mistake>aren't</mistake>
+		<corrected>are not</corrected>
+	</entry>
+	<entry>
+		<mistake>can't</mistake>
+		<corrected>cannot</corrected>
+	</entry>
+	<entry>
+		<mistake>couldn't</mistake>
+		<corrected>could not</corrected>
+	</entry>
+	<entry>
+		<mistake>didn't</mistake>
+		<corrected>did not</corrected>
+	</entry>
+	<entry>
+		<mistake>doesn't</mistake>
+		<corrected>does not</corrected>
+	</entry>
+	<entry>
+		<mistake>don't</mistake>
+		<corrected>do not</corrected>
+	</entry>
+	<entry>
+		<mistake>hadn't</mistake>
+		<corrected>had not</corrected>
+	</entry>
+	<entry>
+		<mistake>hasn't</mistake>
+		<corrected>has not</corrected>
+	</entry>
+	<entry>
+		<mistake>haven't</mistake>
+		<corrected>have not</corrected>
+	</entry>
+	<entry>
+		<mistake>he'd</mistake>
+		<corrected>he had, he would</corrected>
+	</entry>
+	<entry>
+		<mistake>he'll</mistake>
+		<corrected>he will, he shall</corrected>
+	</entry>
+	<entry>
+		<mistake>he's</mistake>
+		<corrected>he is, he has</corrected>
+	</entry>
+	<entry>
+		<mistake>I'd</mistake>
+		<corrected>I had, I would</corrected>
+	</entry>
+	<entry>
+		<mistake>I'll</mistake>
+		<corrected>I will, I shall</corrected>
+	</entry>
+	<entry>
+		<mistake>I'm</mistake>
+		<corrected>I am</corrected>
+	</entry>
+	<entry>
+		<mistake>I've</mistake>
+		<corrected>I have</corrected>
+	</entry>
+	<entry>
+		<mistake>isn't</mistake>
+		<corrected>is not</corrected>
+	</entry>
+	<entry>
+		<mistake>it's</mistake>
+		<corrected>it is, it has</corrected>
+	</entry>
+	<entry>
+		<mistake>let's</mistake>
+		<corrected>let us</corrected>
+	</entry>
+	<entry>
+		<mistake>mightn't</mistake>
+		<corrected>might not</corrected>
+	</entry>
+	<entry>
+		<mistake>mustn't</mistake>
+		<corrected>must not</corrected>
+	</entry>
+	<entry>
+		<mistake>shan't</mistake>
+		<corrected>shall not</corrected>
+	</entry>
+	<entry>
+		<mistake>she'd</mistake>
+		<corrected>she had, she would</corrected>
+	</entry>
+	<entry>
+		<mistake>she'll</mistake>
+		<corrected>she will, she shall</corrected>
+	</entry>
+	<entry>
+		<mistake>she's</mistake>
+		<corrected>she is, she has</corrected>
+	</entry>
+	<entry>
+		<mistake>shouldn't</mistake>
+		<corrected>should not</corrected>
+	</entry>
+	<entry>
+		<mistake>that's</mistake>
+		<corrected>that is, that has</corrected>
+	</entry>
+	<entry>
+		<mistake>there's</mistake>
+		<corrected>there is, there has</corrected>
+	</entry>
+	<entry>
+		<mistake>they'd</mistake>
+		<corrected>they had, they would</corrected>
+	</entry>
+	<entry>
+		<mistake>they'll</mistake>
+		<corrected>they will; they shall</corrected>
+	</entry>
+	<entry>
+		<mistake>they're</mistake>
+		<corrected>they are</corrected>
+	</entry>
+	<entry>
+		<mistake>they've</mistake>
+		<corrected>they have</corrected>
+	</entry>
+	<entry>
+		<mistake>we'd</mistake>
+		<corrected>we had, we would</corrected>
+	</entry>
+	<entry>
+		<mistake>we're</mistake>
+		<corrected>we are</corrected>
+	</entry>
+	<entry>
+		<mistake>we've</mistake>
+		<corrected>we have</corrected>
+	</entry>
+	<entry>
+		<mistake>weren't</mistake>
+		<corrected>were not</corrected>
+	</entry>
+	<entry>
+		<mistake>what'll</mistake>
+		<corrected>what will, what shall</corrected>
+	</entry>
+	<entry>
+		<mistake>what're</mistake>
+		<corrected>what are</corrected>
+	</entry>
+	<entry>
+		<mistake>what's</mistake>
+		<corrected>what is, what has, what does</corrected>
+	</entry>
+	<entry>
+		<mistake>what've</mistake>
+		<corrected>what have</corrected>
+	</entry>
+	<entry>
+		<mistake>where's</mistake>
+		<corrected>where is, where has</corrected>
+	</entry>
+	<entry>
+		<mistake>who'd</mistake>
+		<corrected>who had, who would</corrected>
+	</entry>
+	<entry>
+		<mistake>who'll</mistake>
+		<corrected>who will, who shall</corrected>
+	</entry>
+	<entry>
+		<mistake>who's</mistake>
+		<corrected>who is, who has</corrected>
+	</entry>
+	<entry>
+		<mistake>who've</mistake>
+		<corrected>who have</corrected>
+	</entry>
+	<entry>
+		<mistake>won't</mistake>
+		<corrected>will not</corrected>
+	</entry>
+	<entry>
+		<mistake>wouldn't</mistake>
+		<corrected>would not</corrected>
+	</entry>
+	<entry>
+		<mistake>you'd</mistake>
+		<corrected>you had, you would</corrected>
+	</entry>
+	<entry>
+		<mistake>you'll</mistake>
+		<corrected>you will, you shall</corrected>
+	</entry>
+	<entry>
+		<mistake>you're</mistake>
+		<corrected>you are</corrected>
+	</entry>
+	<entry>
+		<mistake>you've</mistake>
+		<corrected>you have</corrected>
+	</entry>
+</entries>

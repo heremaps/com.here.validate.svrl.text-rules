@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="latin-abbreviation">
+  <title>latin-abbreviation</title>
+  <body>
+    <p>
+     Latin abbreviations can be confusing to some readers, and should be avoided in the running text.
+    </p>
+     <section id="good">
+      <title>Good text</title>
+      <p>
+        For example: text is easier to read if it is written out in full.
+      </p>
+    </section>
+    <section id="bad">
+      <title>Bad text</title>
+      <p>
+        <!-- ignore-rule:incorrect-grammar-->
+         e.g. don't write accronyms i.e. latinisms.
+      </p>
+    </section>
+  </body>
+</topic>

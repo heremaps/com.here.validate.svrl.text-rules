@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="where-not-were">
+  <title>where-not-were</title>
+  <body>
+    <p>
+     Use of the word "were" prior to a sub-clause is usually incorrect in the running text.
+    </p>
+     <section id="good">
+      <title>Good text</title>
+      <p>
+        The following text is an example, where given a set of circumtances, something should happen.
+      </p>
+    </section>
+    <section id="bad">
+      <title>Bad text</title>
+      <p>
+         The following text is an example, were given a set of circumtances, something should happen.
+      </p>
+    </section>
+  </body>
+</topic>

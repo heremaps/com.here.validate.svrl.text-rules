@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  This file is part of the Spelling and Grammar Checker project.
+  See the accompanying LICENSE file for applicable licenses.
+
+  The list below has been translated, modified and adapted from the Wikipedia:Lists of common misspellings
+
+    https://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings/Repetitions
+
+  Content from Wikipedia is available under Creative Commons and can be freely shared and adapted when attributed
+
+    https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+-->
+<entries>
+  <entry>
+    <mistake>a a</mistake>
+    <corrected>a</corrected>
+  </entry>
+  <entry>
+    <mistake>à à</mistake>
+    <corrected>à</corrected>
+  </entry>
+  <entry>
+    <mistake>après après</mistake>
+    <corrected>après</corrected>
+  </entry>
+  <entry>
+    <mistake>aussi aussi</mistake>
+    <corrected>aussi</corrected>
+  </entry>
+  <entry>
+    <mistake>autour autour</mistake>
+    <corrected>autour</corrected>
+  </entry>
+  <entry>
+    <mistake>arrière arrière</mistake>
+    <corrected>arrière</corrected>
+  </entry>
+  <entry>
+    <mistake>avec avec</mistake>
+    <corrected>avec</corrected>
+  </entry>
+  <entry>
+    <mistake>avant avant</mistake>
+    <corrected>avant</corrected>
+  </entry>
+  <entry>
+    <mistake>car car</mistake>
+    <corrected>car</corrected>
+  </entry>
+  <entry>
+    <mistake>chaque chaque</mistake>
+    <corrected>chaque</corrected>
+  </entry>
+  <entry>
+    <mistake>comme comme</mistake>
+    <corrected>comme</corrected>
+  </entry>
+  <entry>
+    <mistake>contre contre</mistake>
+    <corrected>contre</corrected>
+  </entry>
+  <entry>
+    <mistake>cette cette</mistake>
+    <corrected>cette</corrected>
+  </entry>
+  <entry>
+    <mistake>ce ce</mistake>
+    <corrected>ce</corrected>
+  </entry>
+   <entry>
+    <mistake>ces ces</mistake>
+    <corrected>ces</corrected>
+  </entry>
+  <entry>
+    <mistake>ceux ceux</mistake>
+    <corrected>ceux</corrected>
+  </entry>
+  <entry>
+    <mistake>de de</mistake>
+    <corrected>de</corrected>
+  </entry>
+   <entry>
+    <mistake>des des</mistake>
+    <corrected>des</corrected>
+  </entry>
+  <entry>
+    <mistake>devenu devenu</mistake>
+    <corrected>devenu</corrected>
+  </entry>
+  <entry>
+    <mistake>devenir devenir</mistake>
+    <corrected>devenir</corrected>
+  </entry>
+  <entry>
+    <mistake>depuis depuis</mistake>
+    <corrected>depuis</corrected>
+  </entry>
+  <entry>
+    <mistake>derrière derrière</mistake>
+    <corrected>derrière</corrected>
+  </entry>
+  <entry>
+    <mistake>dernier dernier</mistake>
+    <corrected>dernier</corrected>
+  </entry>
+  <entry>
+    <mistake>dans dans</mistake>
+    <corrected>dans</corrected>
+  </entry>
+  <entry>
+    <mistake>et et</mistake>
+    <corrected>et</corrected>
+  </entry>
+   <entry>
+    <mistake>était était</mistake>
+    <corrected>était</corrected>
+  </entry>
+  <entry>
+    <mistake>être être</mistake>
+    <corrected>être</corrected>
+  </entry>
+   <entry>
+    <mistake>étant étant</mistake>
+    <corrected>étant</corrected>
+  </entry>
+  <entry>
+    <mistake>est est</mistake>
+    <corrected>est</corrected>
+  </entry>
+  <entry>
+    <mistake>elle elle</mistake>
+    <corrected>elle</corrected>
+  </entry>
+  <entry>
+    <mistake>elles elles</mistake>
+    <corrected>elles</corrected>
+  </entry>
+  <entry>
+    <mistake>entre entre</mistake>
+    <corrected>entre</corrected>
+  </entry>
+  <entry>
+    <mistake>encore encore</mistake>
+    <corrected>encore</corrected>
+  </entry>
+  <entry>
+    <mistake>il il</mistake>
+    <corrected>il</corrected>
+  </entry>
+  <entry>
+    <mistake>ils ils</mistake>
+    <corrected>ils</corrected>
+  </entry>
+  <entry>
+    <mistake>là là</mistake>
+    <corrected>là</corrected>
+  </entry>
+  <entry>
+    <mistake>le le</mistake>
+    <corrected>le</corrected>
+  </entry>
+  <entry>
+    <mistake>la la</mistake>
+    <corrected>la</corrected>
+  </entry>
+  <entry>
+    <mistake>les les</mistake>
+    <corrected>les</corrected>
+  </entry>
+  <entry>
+    <mistake>leur leur</mistake>
+    <corrected>leur</corrected>
+  </entry>
+  <entry>
+    <mistake>lequel lequel</mistake>
+    <corrected>lequel</corrected>
+  </entry>
+  <entry>
+    <mistake>leurs leurs</mistake>
+    <corrected>leurs</corrected>
+  </entry>
+  <entry>
+    <mistake>mais mais</mistake>
+    <corrected>mais</corrected>
+  </entry>
+  <entry>
+    <mistake>on on</mistake>
+    <corrected>on</corrected>
+  </entry>
+  <entry>
+    <mistake>ou ou</mistake>
+    <corrected>ou</corrected>
+  </entry>
+   <entry>
+    <mistake>où où</mistake>
+    <corrected>où</corrected>
+  </entry>
+  <entry>
+    <mistake>par par</mistake>
+    <corrected>par</corrected>
+  </entry>
+  <entry>
+    <mistake>pour pour</mistake>
+    <corrected>pour</corrected>
+  </entry>
+  <entry>
+    <mistake>pendant pendant</mistake>
+    <corrected>pendant</corrected>
+  </entry>
+  <entry>
+    <mistake>premier premier</mistake>
+    <corrected>premier</corrected>
+  </entry>
+  <entry>
+    <mistake>puis puis</mistake>
+    <corrected>puis</corrected>
+  </entry>
+  <entry>
+    <mistake>quand quand</mistake>
+    <corrected>quand</corrected>
+  </entry>
+   <entry>
+    <mistake>qui qui</mistake>
+    <corrected>qui</corrected>
+  </entry>
+  <entry>
+    <mistake>que que</mistake>
+    <corrected>que</corrected>
+  </entry>
+   <entry>
+    <mistake>quel quel</mistake>
+    <corrected>quel</corrected>
+  </entry>
+  <entry>
+    <mistake>sur sur</mistake>
+    <corrected>sur</corrected>
+  </entry>
+  <entry>
+    <mistake>sous sous</mistake>
+    <corrected>sous</corrected>
+  </entry>
+   <entry>
+    <mistake>sa sa</mistake>
+    <corrected>sa</corrected>
+  </entry>
+  <entry>
+    <mistake>son son</mistake>
+    <corrected>son</corrected>
+  </entry>
+  <entry>
+    <mistake>si si</mistake>
+    <corrected>si</corrected>
+  </entry>
+  <entry>
+    <mistake>sont sont</mistake>
+    <corrected>sont</corrected>
+  </entry>
+   <entry>
+    <mistake>soit soit</mistake>
+    <corrected>soit</corrected>
+  </entry>
+  <entry>
+    <mistake>tel tel</mistake>
+    <corrected>tel</corrected>
+  </entry>
+  <entry>
+    <mistake>tout tout</mistake>
+    <corrected>tout</corrected>
+  </entry>
+  <entry>
+    <mistake>une une</mistake>
+    <corrected>une</corrected>
+  </entry>
+  <entry>
+    <mistake>un un</mistake>
+    <corrected>un</corrected>
+  </entry>
+  <entry>
+    <mistake>ver ver</mistake>
+    <corrected>ver</corrected>
+  </entry>
+</entries>

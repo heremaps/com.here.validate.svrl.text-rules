@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+	<booktitle>
+		<mainbooktitle>Spelling and Grammar Checker</mainbooktitle>
+		<booktitlealt>Test Document</booktitlealt>
+		<booktitlealt>
+			<ph>Version 1.0</ph>
+		</booktitlealt>
+	</booktitle>
+	<bookmeta>
+		<data>FINAL</data>
+		<data>&#xA0;</data>
+	</bookmeta>
+	<frontmatter>
+		<booklists>
+			<toc linking="targetonly"/>
+		</booklists>
+	</frontmatter>
+	<chapter format="dita" type="topic" navtitle="Introduction">
+		<topicref format="dita" type="topic" href="topics/validation.dita"/>
+		<topicref format="dita" type="topic" href="topics/spell-checker-error-messages.dita"/>
+	</chapter>
+  <chapter navtitle="com.here.validate.svrl">
+    <topicref format="dita" type="topic" href="topics/blacklisted-word.dita"/>
+    <topicref format="dita" type="topic" href="topics/incorrect-capitalization.dita"/>
+  </chapter>
+
+  <chapter navtitle="com.here.validate.svrl.text-rules">
+    <topicref format="dita" type="topic" href="topics/a-followed-by-vowel.dita"/>
+    <topicref format="dita" type="topic" href="topics/an-followed-by-consonant.dita"/>
+    <topicref format="dita" type="topic" href="topics/duplicated-punctuation.dita"/>
+    <topicref format="dita" type="topic" href="topics/duplicated-words.dita"/>
+    <topicref format="dita" type="topic" href="topics/incorrect-grammar.dita"/>
+    <topicref format="dita" type="topic" href="topics/incorrect-punctuation.dita"/>
+    <topicref format="dita" type="topic" href="topics/incorrect-spelling.dita"/>
+    <topicref format="dita" type="topic" href="topics/latin-abbreviation.dita"/>
+    <topicref format="dita" type="topic" href="topics/sentence-capitalization.dita"/>
+    <topicref format="dita" type="topic" href="topics/split-infinitive.dita"/>
+    <topicref format="dita" type="topic" href="topics/where-not-were.dita"/>
+	</chapter>
+</bookmap>
