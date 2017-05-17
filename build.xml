@@ -30,6 +30,10 @@
 	-->
 	<target name="text-rules-pre-process" depends="svrl-pre-process, strip-doctype">
 		<dirname property="com.here.validate.svrl.text-rules.dir" file="${ant.file.com.here.validate.svrl.text-rules}"/>
+		<!--
+			Use the default severity for each rule unless an override has been set.
+		-->
+		<property name="text-rules.ruleset.file" value="${com.here.validate.svrl.text-rules.dir}/cfg/ruleset/default.xml"/>
 
 		<!--
 			Load a set of mistakes and corrections from a set of dictionary files.
@@ -83,7 +87,7 @@
 		</pathconvert>
 
 		<!-- Decide the severity of each type of error -->
-		<get-validation-rulesets file="${com.here.validate.svrl.text-rules.dir}/cfg/ruleset/${args.validate.ruleset}.xml" fatal="text-rules.fatal" error="text-rules.error" warning="text-rules.warning"/>
+		<get-validation-rulesets file="${text-rules.ruleset.file}" fatal="text-rules.fatal" error="text-rules.error" warning="text-rules.warning"/>
 
 
 		<!--
