@@ -104,6 +104,8 @@
 
 		<!--
 			Apply the XSLT defined over the root ditamap This create SVRL files from the *.ditamap and fires the associated spelling and grammar checker validator ruleset.
+
+			For efficiency, run XSLT Validation against modified files only, if requested.
 		-->
 		<xslt  extension=".svrl" style="${com.here.validate.svrl.text-rules.dir}/xsl/dita2svrl.xsl"  destdir="${com.here.validate.svrl.tmp.dir}/svrl/text-rules" useImplicitFileset="false" failOnError="false"  classpathref="dost.class.path" >
 			<xmlcatalog refid="dita.catalog"/>
@@ -120,22 +122,31 @@
 				<!-- Disable DTD validation whilst transforming -->
 				<attribute name="http://saxon.sf.net/feature/validation" value="false"/>
 			</factory>
-			<param name="SOURCE" expression="${com.here.validate.svrl.tmp.dir}/dita"/>
+
+			<!-- Custom parameters for text-rules -->
 			<param name="DICTIONARY_DIR" expression="${text-rules.xml.path.unix}"/>
 			<param name="GRAMMAR_REGEX" expression="${grammar.regex}" if="grammar.regex"/>
 			<param name="DUPLICATES_REGEX" expression="${duplicates.regex}" if="duplicates.regex" />
 			<param name="SPELLING_REGEX" expression="${spelling.regex}" if="spelling.regex" />
 			<param name="PUNCTUATION_REGEX" expression="${punctuation.regex}" if="punctuation.regex" />
 			<param name="DEFAULTLANG" expression="${document.language}" if="document.language" />
+			<param name="AUTO_CORRECT" expression="${text-rules.auto-correct}" if="text-rules.auto-correct"/>
+
+			<!-- Parameters for the textual-rules template from the base plug-in -->
+			<param name="BLACKLIST" expression="${args.validate.blacklist}"/>
+			<param name="CHECK_CASE" expression="${args.validate.check.case}"/>
+			<!-- Common parameters for the schematron template from the base plug-in -->
+			<param name="SOURCE" expression="${com.here.validate.svrl.tmp.dir}/dita"/>
+			<param name="OUTPUT_RULE-ID" expression="${com.here.validate.svrl.output.rule-id}"/>
+			<param name="IGNORE_RULES" expression="${args.validate.ignore.rules}"/>
 			<param name="FATAL_RULESET" expression="${text-rules.fatal}"/>
 			<param name="ERROR_RULESET" expression="${text-rules.error}"/>
 			<param name="WARNING_RULESET" expression="${text-rules.warning}"/>
-			<param name="AUTO_CORRECT" expression="${text-rules.auto-correct}" if="text-rules.auto-correct"/>
-
-			<param name="BLACKLIST" expression="${args.validate.blacklist}"/>
-			<param name="CHECK_CASE" expression="${args.validate.check.case}"/>
 			<fileset dir="${com.here.validate.svrl.tmp.dir}/dita">
 				<include name="**/*.dita"/>
+				<modified update="true">
+					<param name="cache.cachefile" value="${args.validate.cachefile}"/>
+				</modified>
 			</fileset>
 		</xslt>
 	</target>
