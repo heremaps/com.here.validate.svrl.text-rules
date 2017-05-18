@@ -35,13 +35,7 @@
 	<xsl:param name="SPELLING_REGEX">a^</xsl:param>
 	<xsl:param name="GRAMMAR_REGEX">a^</xsl:param>
 	<xsl:param name="PUNCTUATION_REGEX">a^</xsl:param>
-	<!-- These come from the base plug-in -->
-	<xsl:param name="DEFAULTLANG">en-us</xsl:param>
-	<xsl:param name="IGNORE_RULES" as="xs:string" select="''"/>
-	<xsl:param name="OUTPUT_RULE-ID" select="'true'" as="xs:string"/>
-	<xsl:param name="FATAL_RULESET">a^</xsl:param>
-	<xsl:param name="ERROR_RULESET">a^</xsl:param>
-	<xsl:param name="WARNING_RULESET">a^</xsl:param>
+
 	<!-- Parameters to re-check blacklisted and case sensitive words-->
 	<xsl:param name="BLACKLIST" as="xs:string"/>
 	<xsl:param name="CHECK_CASE" as="xs:string"/>
