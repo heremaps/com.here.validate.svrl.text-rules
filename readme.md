@@ -317,6 +317,14 @@ Specific instances of a rule can be ignored by adding a comment within the `*.di
 </p>
 ```
 
+#### Ignoring all warnings/errors within a block of text
+
+* A block of DITA can be excluded from firing all rules at **WARNING** level by adding the comment `ignore-all-warnings` to the block. 
+
+* A block of DITA can be excluded from firing all rules at **ERROR** level by adding the comment `ignore-all-errors` to the block.
+
+* Rules set at **FATAL** level cannot be ignored.
+
 
 Sample Document
 ---------------
