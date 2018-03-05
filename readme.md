@@ -3,7 +3,7 @@
 Spelling and Grammar Checker Plug-in for DITA-OT
 ================================================
 
-Copyright (c) 2016 HERE Europe B.V.
+Copyright (c) 2018 HERE Europe B.V.
 
 See the [LICENSE](LICENSE) file in the root of this project for license details.
 
@@ -29,7 +29,7 @@ Prerequisites
 
 ### Requirements
 
-The  DITA spell-checker has been tested against [DITA-OT 2.2.x](http://www.dita-ot.org/download). It is recommended that you upgrade to the latest version. Running the `spell-checker` plug-in against earlier versions of DITA-OT will not work as it uses the newer `getVariable` template. To work with DITA-OT 1.8.5 this would need to be refactored to use `getMessage`.
+The validator has been tested against [DITA-OT 3.0.x](http://www.dita-ot.org/download). It is recommended that you upgrade to the latest version. Running the validator plug-in against DITA-OT 1.8.5 or earlier versions of DITA-OT will not work as it uses the newer `getVariable` template. To work with DITA-OT 1.8.5 this would need to be refactored to use `getMessage`. The validator can be run safely against DITA-OT 2.x - it also does not need to specially invoke the older Saxon XSLT processor.
 
 ### Installing DITA-OT
 
@@ -41,9 +41,9 @@ The required dependencies are installed to a local Maven repository in your home
 
 -  Run the Gradle distribution task to generate the plug-in distribution package:
 
-  ```bash
+```bash
 ./gradlew dist
-  ```
+```
 
 The distribution ZIP file is generated under `build/distributions`.
 
@@ -51,17 +51,17 @@ The distribution ZIP file is generated under `build/distributions`.
 
 -  Run the plug-in installation command:
 
-  ```bash
-dita -install https://github.com/heremaps/com.here.validate.svrl/archive/v1.0.0.zip
-  ```
+```bash
+dita -install https://github.com/heremaps/com.here.validate.svrl/archive/v1.1.0.zip
+```
 
 ### Installing the Spelling and Grammar Checker Plug-in
 
 -  Run the plug-in installation command:
 
-  ```bash
-dita -install https://github.com/heremaps/com.here.validate.svrl.text-rules/archive/v1.0.0.zip
-  ```
+```bash
+dita -install https://github.com/heremaps/com.here.validate.svrl.text-rules/archive/v1.1.0.zip
+```
 
 > The `dita` command line tool requires no additional configuration.
 
@@ -81,15 +81,15 @@ To create an SVRL file with the spell-checker plug-in use the `text-rules` trans
 
 -  Clean the output directory (named "`out`" in the examples below), to ensure that the result from an old validation run is not present.
 
-  ```bash
+```bash
 rm -rf ./out
-  ```
+```
 
 -  SVRL file creation can be run like any other DITA-OT transform:
 
-  ```bash
+```bash
 PATH_TO_DITA_OT/bin/dita -f text-rules -o out -i document.ditamap
-  ```
+```
 
 Once the command has run, an `SVRL` file is created:
 
@@ -115,91 +115,76 @@ Seperate accommodation can be found within the main building..</diagnostic-refer
 
 To echo results to the command line with the spell-checker plug-in use the `text-rules-echo` transform.
 
--  Clean the output directory (named "`out`" in the examples below), to ensure that the result from an old text-rules run is not present.
-
-  ```bash
-rm -rf ./out
-  ```
-
 -  Spell-checking (`text-rules-echo`) can be run like any other DITA-OT transform:
 
-  ```bash
+```bash
 PATH_TO_DITA_OT/bin/dita -f text-rules-echo -i document.ditamap
-  ```
+```
 
 Once the command has run, all errors and warnings are echoed to the command line:
 
 ```bash
-[echo] [ERROR]  [/topics/incorrect-spelling.dita]
-[echo]   Line 17: p - [incorrect-spelling]
-[echo] The word 'separate' is spelt incorrectly ('seperate') in the following text:
-[echo]
-[echo] Seperate accommodation can be found within the main building.
+[ERROR]  [/topics/incorrect-spelling.dita]
+ Line 17: p - [incorrect-spelling]
+The word 'separate' is spelt incorrectly ('seperate') in the following text:
+Seperate accommodation can be found within the main building.
 ```
+
 Additionally, if an error occurs, the command will fail
 
 ```bash
-[echo] [ERROR]  [/topics/incorrect-spelling.dita]
-[echo]   Line 17: p - [incorrect-spelling]
-[echo] The word 'separate' is spelt incorrectly ('seperate') in the following text:
-[echo]
-[echo] Seperate accommodation can be found within the main building.
-[echo] Found 1 Errors 0 Warnings
-Error: Errors detected during validation
+[ERROR]  [/topics/incorrect-spelling.dita]
+ Line 17: p - [incorrect-spelling]
+The word 'separate' is spelt incorrectly ('seperate') in the following text:
+Seperate accommodation can be found within the main building.
+Found 1 Errors 0 Warnings
+Error: [SVRL001F][FATAL] Error: Errors detected during validation
 ```
 
 ### Auto-correction from the command line
 
 To auto-correct spelling mistakes with the spell-checker plug-in use the `auto-correct` transform.
 
--  Clean the output directory (named "`out`" in the examples below), to ensure that the result from an old run is not present.
-
-  ```bash
-rm -rf ./out
-  ```
-
 -  Auto-correction (`auto-correct`) can be run like any other DITA-OT transform:
 
-  ```bash
+```bash
 PATH_TO_DITA_OT/bin/dita -f auto-correct -i document.ditamap
-  ```
+```
 
 Once the command has run spelling mistakes will have been removed from the document.
 
 > *Note:* The auto-correct `transtype` only removes spelling, duplicate and grammar errors specified in the dictionary files
 
 
-###	Spell-checking a document from the using `ant`
+###	Spell-checking a document from the using ANT
 
 
-An ant build file is supplied in the same directory as the sample document. The main target can be seen below:
+An ANT build file is supplied in the same directory as the sample document. The main target can be seen below:
 
 ```xml
-<!-- The path to dita-ot, correct as necesary  -->
-<dirname property="dita.dir" file="path-to-dita-ot"/>
-<!--the path to the DITA document to build, change as necessary -->
-<property name="args.input" value="path-to-doc/document.ditamap"/>
-<!-- Minimal classpath to invoke DITA OT via ANT. -->
-<path id="dita.ot.classpath">
-	... etc..
-</path>
-<target name="validate">
-	<java classname="org.apache.tools.ant.launch.Launcher" fork="true" failonerror="true" classpathref="dita.ot.classpath">
-		<arg value="-Dargs.input=${args.input}"/>
-		<arg value="-Ddita.dir=${dita.dir}"/>
-		<arg value="-buildfile"/>
-		<arg value="${dita.dir}/build.xml"/>
-		<arg value="-Dgenerate-debug-attributes=false"/>
-		<arg value="-Doutput.dir=out/svrl"/>
-		<arg value="-Dtranstype=text-rules-echo"/>
+<dirname property="dita.dir" file="PATH_TO_DITA_OT"/>
+<property name="dita.exec" value="${dita.dir}/bin/dita"/>
+<property name="args.input" value="PATH_TO_DITA_DOCUMENT/document.ditamap"/>
+
+<target name="spell-check" description="spell-check a document">
+	<!-- For Unix run the DITA executable-->
+	<exec executable="${dita.exec}" osfamily="unix" failonerror="true">
+		<arg value="-input"/>
+		<arg value="${args.input}"/>
+		<arg value="-output"/>
+		<arg value="${dita.dir}/out/svrl"/>
+		<arg value="-format"/>
+		<arg value="text-rules-echo"/>
 		<!-- validation transform specific parameters -->
-		<arg value="-Dargs.validate.blacklist=(kilo)?metre|colour|teh|seperate"/>
-		<arg value="-Dargs.validate.check.case=Bluetooth|HTTP[S]? |ID|IoT|JSON|Java|Javadoc|JavaScript|XML"/>
-		<arg value="-Dargs.validate.mode=default" />
-		<!-- Run the transform quietly to avoid verbose output. -->
-		<arg value="-S"/>
-		<arg value="-q"/>
-	</java>
+		<arg value="--args.validate.blacklist=(kilo)?metre|colour|teh|seperate"/>
+		<arg value="--args.validate.check.case=Bluetooth|HTTP[S]? |IoT|JSON|Java|Javadoc|JavaScript|XML"/>
+		<arg value="--args.validate.color=true"/>
+	</exec>
+	<!-- For Windows run from a DOS command -->
+	<exec dir="${dita.dir}/bin" executable="cmd" osfamily="windows" failonerror="true">
+		<arg value="/C"/>
+		<arg value="dita -input ${args.input} -output ${dita.dir}/out/svrl -format text-rules-echo --args.validate.blacklist=&quot;(kilo)?metre|colour|teh|seperate&quot; --args.validate.check.case=&quot;Bluetooth|HTTP[S]? |IoT|JSON|Java|Javadoc|JavaScript|XML&quot;"/>
+	</exec>
 </target>
 ```
 
@@ -209,14 +194,16 @@ An ant build file is supplied in the same directory as the sample document. The 
 
 - `args.validate.ignore.rules` - Comma separated list of rule IDs to be ignored
 - `args.validate.blacklist` - Comma separated list of words that should not be present in the running text
+- `args.validate.cachefile` - Specifies the location of cache file to be used. Validation will only run across altered files if this parameter is present
 - `args.validate.check.case` - Comma separated list of words which have a specified capitalization
+- `args.validate.color` - When set, errors and warnings are Output highlighted using ANSI color codes
 - `args.validate.mode` - Validation reporting mode. The following values are supported:
 	- `strict`	- Outputs both warnings and errors. Fails on errors and warnings.
 	- `default` - Outputs both warnings and errors. Fails on errors only
 	- `lax`		- Ignores all warnings and outputs errors only. Fails on Errors only
 - `svrl.customization.dir` - Specifies the customization directory
-- `svrl.filter.file` - Specifies the location of the XSL file used to filter the echo output
-
+- `svrl.filter.file` - Specifies the location of the XSL file used to filter the echo output. If this parameter is not present, the default echo output format will be used.
+- `text-rules.ruleset.file` - Specifies severity of the rules to apply. If this parameter is not present, default severity levels will be used.
 
 Configuring the plug-in
 -----------------------
@@ -276,6 +263,14 @@ The severity of a validator rule can be altered by amending entries in the `cfg/
 * **WARNING** - Warning rules will display a warning on validation, but do not fail the validation. Warnings can also be individually overridden.
 * **INACTIVE** - Inactive rules are not applied.
 
+A custom ruleset file can be passed into the plug-in using the `text-rules.ruleset.file` parameter
+
+
+```bash
+PATH_TO_DITA_OT/bin/dita -f text-rules-echo -i document.ditamap --text-rules.ruleset.file=PATH_TO_CUSTOM/ruleset.xml
+```
+
+
 
 ### Ignoring validator Rules
 
@@ -307,6 +302,14 @@ Specific instances of a rule can be ignored by adding a comment within the `*.di
 	I have deliberately misspelt the word accidentaly (sic) - it should be written with a double l.
 </p>
 ```
+
+#### Ignoring all warnings/errors within a block of text
+
+* A block of DITA can be excluded from firing all rules at **WARNING** level by adding the comment `ignore-all-warnings` to the block. 
+
+* A block of DITA can be excluded from firing all rules at **ERROR** level by adding the comment `ignore-all-errors` to the block.
+
+* Rules set at **FATAL** level cannot be ignored.
 
 
 Sample Document

@@ -7,7 +7,7 @@
 	<!--
 		Define package details.
 	-->
-	<feature extension="package.version" value="1.0.0"/>
+	<feature extension="package.version" value="1.1.0"/>
 
 		<!--
 		This plugin is based on and 'extends' the plugin named below.
@@ -19,28 +19,28 @@
 
 		See also: http://www.dita-ot.org/2.2/dev_ref/plugin-newtranstype.html
 	-->
+	<feature extension="dita.conductor.transtype.check" value="auto-correct"/>
 	<feature extension="dita.conductor.transtype.check" value="text-rules"/>
 	<feature extension="dita.conductor.transtype.check" value="text-rules-echo"/>
-	<feature extension="dita.conductor.transtype.check" value="auto-correct"/>
 	<feature extension="dita.xsl.strings" file="cfg/common/vars/strings.xml"/>
 
-	<!--
-		When the plug-in is integrated (using ant -f integrator.xml), the
-		imports from the com.here.pdf/build.xml are copied into
-		dita_ot/build.xml (the main DITA OT document build script).
 
-		This makes targets in com.here.pdf/build.xml such as
-		com.here.pdf/build_template.xml available
-		to any other processing.
+	<!-- Transtype definitions -->
+	<transtype name="auto-correct" abstract="false" extends="svrl"
+		 desc="DITA Spelling auto-correction">
+		<param name="text-rules.ruleset.file" desc="Specifies the ruleset file to use." type="file"/>
+	</transtype>
+	<transtype name="text-rules" abstract="false" extends="svrl"
+		 desc="DITA Spelling and grammar checking">
+		<param name="text-rules.ruleset.file" desc="Specifies the ruleset file to use." type="file"/>
+	</transtype>
+	<transtype name="text-rules-echo" abstract="false" extends="svrl-echo"
+		 desc="DITA Spelling and grammar checking and echoes the results to Standard output (stdout)">
+		<param name="text-rules.ruleset.file" desc="Specifies the ruleset file to use." type="file"/>
+	</transtype>
 
-		See also: http://www.dita-ot.org/2.2/dev_ref/plugin-anttarget.html
-	-->
-	<feature extension="dita.conductor.target.relative" value="integrator.xml" type="file"/>
 
-	<!--
-		Defining plugin templates so this plugin can be extended
-		DO NOT RENAME *_template.xml below this is the
-		DITA OT standard way of working with templates
-	-->
-	<template file="build_template.xml" type="file"/>
+
+	<feature extension="ant.import" file="build_dita2text-rules.xml"/>
+	<template file="build_dita2text-rules_template.xml"/>
 </plugin>

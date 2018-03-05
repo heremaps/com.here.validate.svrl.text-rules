@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+  This file is part of the Spelling and Grammar Checker project.
+  See the accompanying LICENSE file for applicable licenses.
+--><project name="com.here.validate.svrl.text-rules">
+
+	<!--
+		Setting up auto-correction. Sets up an ANT property to add meta data in the
+		the XSL processing.
+	-->
+	<target name="auto-correct.init" depends="text-rules.init">
+		<property name="text-rules.auto-correct" value="true"/>
+	</target>
+
+	<!--
+		Runs a simple find and replace regex over errors that have been discovered.
+	-->
+	<target name="auto-correct">
+		<dita-ot-echo id="SVRL002I">
+			<param name="1" value="Auto correcting document"/>
+  		</dita-ot-echo>
+
+		<tempfile destdir="${dita.temp.dir}" property="auto-correct.xml" suffix=".xml" deleteonexit="true"/>
+		<xslt basedir="${svrl.dir}" style="${dita.plugin.com.here.validate.svrl.text-rules.dir}/xsl/auto-correct-output.xsl" in="${output.dir}/${svrl.filename.root}.svrl" out="${auto-correct.xml}" classpathref="dost.class.path">
+		</xslt>
+
+		<ant antfile="${auto-correct.xml}">
+			<property name="dir" value="${args.input.dir}"/>
+		</ant>
+	</target>
+	<!--
+		Setting up schematron processing for spell-checking.
+		Sets up ANT variable overrides for the spelling and grammar-checker
+	-->
+	<target name="text-rules.init" depends="svrl.init, strip-doctype">
+		<!--
+			Use the default severity for each rule unless an override has been set.
+		-->
+		<property name="text-rules.ruleset.file" value="${dita.plugin.com.here.validate.svrl.text-rules.dir}/cfg/ruleset/default.xml"/>
+
+		<!--
+			Load a set of mistakes and corrections from a set of dictionary files.
+			The plugin provides en, fr and de only
+		 -->
+		<property name="text-rules.dictionary.dir" location="${dita.plugin.com.here.validate.svrl.text-rules.dir}/cfg/dictionary/${default.language}"/>
+
+		<tempfile destdir="${dita.temp.dir}" property="grammar.txt" suffix=".txt" deleteonexit="true"/>
+		<tempfile destdir="${dita.temp.dir}" property="duplicates.txt" suffix=".txt" deleteonexit="true"/>
+		<tempfile destdir="${dita.temp.dir}" property="spelling.txt" suffix=".txt" deleteonexit="true"/>
+		<tempfile destdir="${dita.temp.dir}" property="punctuation.txt" suffix=".txt" deleteonexit="true"/>
+
+
+		<xslt style="${dita.plugin.com.here.validate.svrl.text-rules.dir}/xsl/dictionary2regex.xsl" in="${text-rules.dictionary.dir}/grammar.xml" out="${grammar.txt}" failOnError="false" classpathref="dost.class.path">
+		</xslt>
+		<xslt style="${dita.plugin.com.here.validate.svrl.text-rules.dir}/xsl/dictionary2regex.xsl" in="${text-rules.dictionary.dir}/duplicates.xml" out="${duplicates.txt}" failOnError="false" classpathref="dost.class.path">
+		</xslt>
+		<xslt style="${dita.plugin.com.here.validate.svrl.text-rules.dir}/xsl/dictionary2regex.xsl" in="${text-rules.dictionary.dir}/spelling.xml" out="${spelling.txt}" failOnError="false" classpathref="dost.class.path">
+		</xslt>
+		<xslt style="${dita.plugin.com.here.validate.svrl.text-rules.dir}/xsl/dictionary2regex.xsl" in="${text-rules.dictionary.dir}/punctuation.xml" out="${punctuation.txt}" failOnError="false" classpathref="dost.class.path">
+			<param name="PREFIX" expression="("/>
+			<param name="POSTFIX" expression=")"/>
+		</xslt>
+
+	</target>
+
+	<!--
+		Ant target to allow direct invocation of the spelling and grammar checker transforms, in case
+		a custom plug-in wishes to integrate this as a processing step.
+	-->
+	<target name="text-rules">
+		<dita-ot-echo id="SVRL002I">
+			<param name="1" value="Proofreading and spell-checking document"/>
+  		</dita-ot-echo>
+
+		<property name="text-rules.auto-correct" value="false"/>
+
+		<path id="text-rules.xml.path">
+			<pathelement location="${text-rules.dictionary.dir}"/>
+		</path>
+
+		<pathconvert targetos="unix" property="text-rules.xml.path.unix" refid="text-rules.xml.path">
+			<map from="c:" to=""/>
+		</pathconvert>
+
+		<!-- Decide the severity of each type of error -->
+		<get-validation-rulesets file="${text-rules.ruleset.file}" fatal="text-rules.fatal" error="text-rules.error" warning="text-rules.warning"/>
+
+		 <java classname="org.apache.tools.ant.launch.Launcher" fork="true" failonerror="true" classpathref="svrl.classpath" outputproperty="text-rules.output">
+			<arg value="-Ddita.dir=${dita.dir}"/>
+			<arg value="-buildfile"/>
+			<arg value="${dita.plugin.com.here.validate.svrl.text-rules.dir}/run-text-rules.xml"/>
+			<arg value="-Ddita.plugin.com.here.validate.svrl.text-rules.dir=${dita.plugin.com.here.validate.svrl.text-rules.dir}"/>
+			<arg value="-Ddita.temp.dir=${dita.temp.dir}"/>
+			<arg value="-Dtext-rules.xml.path.unix=${text-rules.xml.path.unix}"/>
+			<arg value="-Dgrammar.txt=${grammar.txt}"/>
+			<arg value="-Dduplicates.txt=${duplicates.txt}"/>
+			<arg value="-Dspelling.txt=${spelling.txt}"/>
+			<arg value="-Dpunctuation.txt=${punctuation.txt}"/>
+			<arg value="-Ddocument.language=${document.language}"/>
+			<arg value="-Dtext-rules.auto-correct=${text-rules.auto-correct}"/>
+
+			<!-- Parameters for the textual-rules template from the base plug-in -->
+			<arg value="-Dargs.validate.blacklist=${args.validate.blacklist}"/>
+			<arg value="-Dargs.validate.check.case=${args.validate.check.case}"/>
+			<!-- Common parameters for the schematron template from the base plug-in -->
+
+			<arg value="-Dcom.here.validate.svrl.output.rule-id=${com.here.validate.svrl.output.rule-id}"/>
+			<arg value="-Dargs.validate.ignore.rules=${args.validate.ignore.rules}"/>
+			<arg value="-Dtext-rules.fatal=${text-rules.fatal}"/>
+			<arg value="-Dtext-rules.error=${text-rules.error}"/>
+			<arg value="-Dtext-rules.warning=${text-rules.warning}"/>
+			<arg value="-Dargs.validate.cachefile=${args.validate.cachefile}"/>
+		</java>
+		<echo taskname="dita-ot" level="verbose" message="${text-rules.output}"/>
+	</target>
+
+
+	<!--
+		ANT target executed to create an SVRL file holding a list of spelling errors
+	-->
+	<target name="dita2text-rules" depends="text-rules.init, text-rules, svrl-merge"/>
+
+	<!--
+		ANT target executed when the echo transtype is invoked. This echoes the spelling
+		mistakes to the standard output and fails the build if errors have been found.
+	-->
+	<target name="dita2text-rules-echo" depends="dita2text-rules, svrl-filter"/>
+
+	<!--
+		ANT target executed to remove spelling errors from a document.
+	-->
+	<target name="dita2auto-correct" depends="auto-correct.init, text-rules, svrl-merge, auto-correct"/>
+
+</project>
