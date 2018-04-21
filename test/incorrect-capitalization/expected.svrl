@@ -38,22 +38,6 @@ The word 'Bluetooth' is incorrectly capitalized in the following text:
     </failed-assert>
     <failed-assert location="/incorrect-capitalization.dita" role="error">
       <diagnostic-reference diagnostic="incorrect-capitalization">Line 26: p - [incorrect-capitalization] 
-The word 'ID' is incorrectly capitalized in the following text: 
-
-
-        The bluetooth id is app_id when using xml or JAVA.
-      .</diagnostic-reference>
-    </failed-assert>
-    <failed-assert location="/incorrect-capitalization.dita" role="error">
-      <diagnostic-reference diagnostic="incorrect-capitalization">Line 26: p - [incorrect-capitalization] 
-The word 'Java' is incorrectly capitalized in the following text: 
-
-
-        The bluetooth id is app_id when using xml or JAVA.
-      .</diagnostic-reference>
-    </failed-assert>
-    <failed-assert location="/incorrect-capitalization.dita" role="error">
-      <diagnostic-reference diagnostic="incorrect-capitalization">Line 26: p - [incorrect-capitalization] 
 The word 'XML' is incorrectly capitalized in the following text: 
 
 
