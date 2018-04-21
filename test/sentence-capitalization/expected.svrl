@@ -5,16 +5,12 @@
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <failed-assert location="/duplicated-punctuation.dita" role="error">
-      <diagnostic-reference diagnostic="duplicated-punctuation">Line 20: p - [duplicated-punctuation] 
-The following text contains a duplicated punctuation mark. 
+    <failed-assert location="/sentence-capitalization.dita" role="warning">
+      <diagnostic-reference diagnostic="sentence-capitalization">Line 17: p - [sentence-capitalization] 
+This &lt;p&gt; element contains a sentence that does not start with a capital letter. 
 
-This is an example sentence,, it has a subordinate clause with duplicated punctuation..</diagnostic-reference>
+This is a sentence fragment. the following sentence is not correctly capitalized.</diagnostic-reference>
     </failed-assert>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
@@ -26,7 +22,6 @@ This is an example sentence,, it has a subordinate clause with duplicated punctu
     <fired-rule context="p"></fired-rule>
   </active-pattern>
   <active-pattern name="english-grammar" role="grammar">
-    <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
