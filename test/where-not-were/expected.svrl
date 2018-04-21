@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svrl:schematron-output xmlns:svrl="http://purl.oclc.org/dsdl/svrl">
+  <active-pattern name="common-rules" role="grammar">
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+  </active-pattern>
+  <active-pattern name="english-grammar" role="grammar">
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <failed-assert location="/where-not-were.dita" role="warning">
+      <diagnostic-reference diagnostic="where-not-were">Line 17: p - [where-not-were] 
+This &lt;p&gt; element contains a sentence with a subordinate clause starting with the word 'were'. You might want to correct this to 'where'. 
+
+The following text is an example, were given a set of circumtances, something should happen.</diagnostic-reference>
+    </failed-assert>
+  </active-pattern>
+</svrl:schematron-output>
+

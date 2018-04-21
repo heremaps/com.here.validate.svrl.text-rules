@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="sentence-captialization">
+  <title>sentence-captialization</title>
+  <body>
+    <p>
+     Running text should contain complete sentences. Every sentence should start with a capital letter.
+    </p>
+     <section id="good">
+      <title>Good text</title>
+      <p>
+        This is a sentence fragment. The following sentence is correctly capitalized.
+      </p>
+    </section>
+    <section id="bad">
+      <title>Bad text</title>
+      <p>
+         This is a sentence fragment. the following sentence is not correctly capitalized.
+      </p>
+    </section>
+  </body>
+</topic>

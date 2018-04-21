@@ -2,7 +2,7 @@
 <project basedir="." default="unit-test">
 	<import file="../bootstrap.xml"/>
 	<description>
-		Expect that duplicated words in the text is a validation error
+		Expect that the indefinite article in front of count nouns that begin with a vowel sound should be 'an'.
 	</description>
 	<target name="unit-test">
 		<exec-svrl transtype="text-rules"/>

@@ -2,7 +2,7 @@
 <project basedir="." default="unit-test">
 	<import file="../bootstrap.xml"/>
 	<description>
-		Expect that duplicated words in the text is a validation error
+		Expect that latin abbreviations in the text is a validation error
 	</description>
 	<target name="unit-test">
 		<exec-svrl transtype="text-rules"/>

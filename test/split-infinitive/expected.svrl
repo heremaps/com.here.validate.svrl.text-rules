@@ -14,17 +14,17 @@
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
-    <failed-assert location="//incorrect-grammar.dita" role="error">
-      <diagnostic-reference diagnostic="incorrect-grammar">Line 17: p - [incorrect-grammar] 
-The phrase 'to some extent' is written incorrectly ('to some extend') in the following text: 
-
-It is the case to some extend that something something....</diagnostic-reference>
-    </failed-assert>
   </active-pattern>
   <active-pattern name="english-grammar" role="grammar">
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
+    <failed-assert location="/split-infinitive.dita" role="warning">
+      <diagnostic-reference diagnostic="split-infinitive">Line 18: p - [split-infinitive] 
+This &lt;p&gt; element contains a sentence with a split infinitive. You may wish to correct this. 
+
+We will need to boldly go forth into the wild frontier.</diagnostic-reference>
+    </failed-assert>
   </active-pattern>
 </svrl:schematron-output>
 

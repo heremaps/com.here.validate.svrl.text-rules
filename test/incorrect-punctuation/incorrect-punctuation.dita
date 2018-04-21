@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="incorrect-punctuation">
+  <title>incorrect-punctuation</title>
+  <body>
+    <p>
+    Incorrect punctuation marks such as smart quotes should not appear in the running text.
+    </p>
+     <section id="good">
+      <title>Good text</title>
+      <p>
+         <!-- ignore-rule:latin-abbreviation,incorrect-grammar-->
+         It's not a good idea to use unencoded "smart" quotes in  DITA documentation.
+      </p>
+    </section>
+    <section id="bad">
+      <title>Bad text</title>
+      <p>
+         <!-- ignore-rule:latin-abbreviation,incorrect-grammar -->
+         It‘s not a good idea to use unencoded “smart” quotes in  DITA documentation.
+      </p>
+    </section>
+  </body>
+</topic>

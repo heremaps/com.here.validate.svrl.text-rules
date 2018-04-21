@@ -11,12 +11,6 @@
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
-    <failed-assert location="//duplicated-words.dita" role="error">
-      <diagnostic-reference diagnostic="duplicated-words">Line 17: p - [duplicated-words] 
-The word 'a' is duplicated ('a a') in the following text: 
-
-This is a a sentence, the sentence does contains a duplicated word "a"..</diagnostic-reference>
-    </failed-assert>
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
@@ -25,6 +19,12 @@ This is a a sentence, the sentence does contains a duplicated word "a"..</diagno
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
+    <failed-assert location="/a-followed-by-vowel.dita" role="warning">
+      <diagnostic-reference diagnostic="a-followed-by-vowel">Line 17: p - [a-followed-by-vowel] 
+In the following text, change 'a' to 'an' where appropriate:
+
+a ant.</diagnostic-reference>
+    </failed-assert>
   </active-pattern>
 </svrl:schematron-output>
 

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svrl:schematron-output xmlns:svrl="http://purl.oclc.org/dsdl/svrl">
+  <active-pattern name="common-rules" role="grammar">
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <failed-assert location="/incorrect-punctuation.dita" role="error">
+      <diagnostic-reference diagnostic="incorrect-punctuation">Line 18: p - [incorrect-punctuation] 
+The character ' is written incorrectly (&#8216;) in the following text: 
+
+It&#8216;s not a good idea to use unencoded &#8220;smart&#8221; quotes in DITA documentation..</diagnostic-reference>
+    </failed-assert>
+    <failed-assert location="/incorrect-punctuation.dita" role="error">
+      <diagnostic-reference diagnostic="incorrect-punctuation">Line 18: p - [incorrect-punctuation] 
+The character " is written incorrectly (&#8220;) in the following text: 
+
+It&#8216;s not a good idea to use unencoded &#8220;smart&#8221; quotes in DITA documentation..</diagnostic-reference>
+    </failed-assert>
+    <failed-assert location="/incorrect-punctuation.dita" role="error">
+      <diagnostic-reference diagnostic="incorrect-punctuation">Line 18: p - [incorrect-punctuation] 
+The character " is written incorrectly (&#8221;) in the following text: 
+
+It&#8216;s not a good idea to use unencoded &#8220;smart&#8221; quotes in DITA documentation..</diagnostic-reference>
+    </failed-assert>
+  </active-pattern>
+  <active-pattern name="english-grammar" role="grammar">
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+    <fired-rule context="p"></fired-rule>
+  </active-pattern>
+</svrl:schematron-output>
+

@@ -6,7 +6,7 @@
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
     <fired-rule context="p"></fired-rule>
-    <failed-assert location="//duplicated-punctuation.dita" role="error">
+    <failed-assert location="/duplicated-punctuation.dita" role="error">
       <diagnostic-reference diagnostic="duplicated-punctuation">Line 20: p - [duplicated-punctuation] 
 The following text contains a duplicated punctuation mark. 
 
