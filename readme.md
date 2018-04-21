@@ -7,10 +7,13 @@ Copyright (c) 2018 HERE Europe B.V.
 
 See the [LICENSE](LICENSE) file in the root of this project for license details.
 
+[![Build Status](https://travis-ci.org/jason-fox/com.here.validate.svrl.text-rules.svg?branch=master)](https://travis-ci.org/jason-fox/com.here.validate.svrl.text-rules)
+[![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+
 Introduction
 ------------
 
-The Spelling and Grammar Checker plug-in for DITA OT  is an  **extension**  of the base [DITA Validator](https://github.com/heremaps/com.here.validate.svrl) which adds simple rule-based **spelling and grammar** validation for the text elements within DITA documents.
+The Spelling and Grammar Checker plug-in for DITA OT  is an  **extension**  of the base [DITA Validator](https://github.com/jason-fox/com.here.validate.svrl) which adds simple rule-based **spelling and grammar** validation for the text elements within DITA documents.
 
 The plug-in supports three `transtypes`:
 
@@ -33,7 +36,7 @@ The validator has been tested against [DITA-OT 3.0.x](http://www.dita-ot.org/dow
 
 ### Installing DITA-OT
 
-The spell-checker is a plug-in for the DITA open toolkit. Futhermore, it is not a stand alone plug-in as it extends the **base validator plug-in** ([`com.here.validate.svrl`](https://github.com/heremaps/com.here.validate.svrl)).
+The spell-checker is a plug-in for the DITA open toolkit. Futhermore, it is not a stand alone plug-in as it extends the **base validator plug-in** ([`com.here.validate.svrl`](https://github.com/jason-fox/com.here.validate.svrl)).
 
 -  install the DITA-OT distribution JAR file dependencies by running `gradle install` from your clone of the [DITA-OT repository](https://github.com/dita-ot/dita-ot).
 
@@ -41,7 +44,7 @@ The required dependencies are installed to a local Maven repository in your home
 
 -  Run the Gradle distribution task to generate the plug-in distribution package:
 
-```bash
+```console
 ./gradlew dist
 ```
 
@@ -51,16 +54,16 @@ The distribution ZIP file is generated under `build/distributions`.
 
 -  Run the plug-in installation command:
 
-```bash
-dita -install https://github.com/heremaps/com.here.validate.svrl/archive/v1.1.0.zip
+```console
+dita -install https://github.com/jason-fox/com.here.validate.svrl/archive/master.zip
 ```
 
 ### Installing the Spelling and Grammar Checker Plug-in
 
 -  Run the plug-in installation command:
 
-```bash
-dita -install https://github.com/heremaps/com.here.validate.svrl.text-rules/archive/v1.1.0.zip
+```console
+dita -install https://github.com/jason-fox/com.here.validate.svrl.text-rules/archive/master.zip
 ```
 
 > The `dita` command line tool requires no additional configuration.
@@ -81,13 +84,13 @@ To create an SVRL file with the spell-checker plug-in use the `text-rules` trans
 
 -  Clean the output directory (named "`out`" in the examples below), to ensure that the result from an old validation run is not present.
 
-```bash
+```console
 rm -rf ./out
 ```
 
 -  SVRL file creation can be run like any other DITA-OT transform:
 
-```bash
+```console
 PATH_TO_DITA_OT/bin/dita -f text-rules -o out -i document.ditamap
 ```
 
@@ -117,13 +120,13 @@ To echo results to the command line with the spell-checker plug-in use the `text
 
 -  Spell-checking (`text-rules-echo`) can be run like any other DITA-OT transform:
 
-```bash
+```console
 PATH_TO_DITA_OT/bin/dita -f text-rules-echo -i document.ditamap
 ```
 
 Once the command has run, all errors and warnings are echoed to the command line:
 
-```bash
+```console
 [ERROR]  [/topics/incorrect-spelling.dita]
  Line 17: p - [incorrect-spelling]
 The word 'separate' is spelt incorrectly ('seperate') in the following text:
@@ -132,7 +135,7 @@ Seperate accommodation can be found within the main building.
 
 Additionally, if an error occurs, the command will fail
 
-```bash
+```console
 [ERROR]  [/topics/incorrect-spelling.dita]
  Line 17: p - [incorrect-spelling]
 The word 'separate' is spelt incorrectly ('seperate') in the following text:
@@ -147,7 +150,7 @@ To auto-correct spelling mistakes with the spell-checker plug-in use the `auto-c
 
 -  Auto-correction (`auto-correct`) can be run like any other DITA-OT transform:
 
-```bash
+```console
 PATH_TO_DITA_OT/bin/dita -f auto-correct -i document.ditamap
 ```
 
@@ -266,7 +269,7 @@ The severity of a validator rule can be altered by amending entries in the `cfg/
 A custom ruleset file can be passed into the plug-in using the `text-rules.ruleset.file` parameter
 
 
-```bash
+```console
 PATH_TO_DITA_OT/bin/dita -f text-rules-echo -i document.ditamap --text-rules.ruleset.file=PATH_TO_CUSTOM/ruleset.xml
 ```
 
@@ -284,7 +287,7 @@ Individual rules can be ignored by passing the `args.validate.ignore.rules` para
 
 For example to ignore the `latin-abbreviation` validation rule within a document you would run:
 
-```bash
+```console
 PATH_TO_DITA_OT/dita -f text-rules-echo -i document.ditamap -Dargs.validate.ignore.rules=latin-abbreviation
 ```
 
