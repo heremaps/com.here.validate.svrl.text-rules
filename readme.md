@@ -11,9 +11,6 @@ See the [LICENSE](LICENSE) file in the root of this project for license details.
 [![Build Status](https://travis-ci.org/jason-fox/com.here.validate.svrl.text-rules.svg?branch=master)](https://travis-ci.org/jason-fox/com.here.validate.svrl.text-rules)
 [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
-Introduction
-------------
-
 The Spelling and Grammar Checker plug-in for DITA OT  is an  **extension**  of the base [DITA Validator](https://github.com/jason-fox/com.here.validate.svrl) which adds simple rule-based **spelling and grammar** validation for the text elements within DITA documents.
 
 The plug-in supports three `transtypes`:
@@ -26,16 +23,40 @@ More information about `SVRL` can be found at [www.schematron.com](http://www.sc
 
 Most of the spell-checking rules are based on a list of [known typographical errors and faults](https://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings), and the ruleset can be easily altered to include new constraints. Checking against a list of known errors means that no false positives should occur, but the existing list will never be fully comprehensive.
 
+Contents
+========
+
+- [Prerequisites](#prerequisites)
+  * [Installing DITA-OT](#installing-dita-ot)
+  * [Installing the Base Validator Plug-in](#installing-the-base-validator-plug-in)
+  * [Installing the Spelling and Grammar Checker Plug-in](#installing-the-spelling-and-grammar-checker-plug-in)
+- [Usage](#usage)
+  * [Spell-checking a document from the command line](#spell-checking-a-document-from-the-command-line)
+    + [Creating an SVRL file](#creating-an-svrl-file)
+    + [Echoing results to the command line](#echoing-results-to-the-command-line)
+    + [Auto-correction from the command line](#auto-correction-from-the-command-line)
+    + [Parameter Reference](#parameter-reference)
+  * [Spell-checking a document from the using ANT](#spell-checking-a-document-from-the-using-ant)
+- [Configuring the plug-in](#configuring-the-plug-in)
+  * [Internationalization](#internationalization)
+  * [Adding new mis-spellings to the plug-in](#adding-new-mis-spellings-to-the-plug-in)
+  * [Altering the severity of a validator rule](#altering-the-severity-of-a-validator-rule)
+  * [Ignoring Validator Rules](#ignoring-validator-rules)
+    + [Removing a rule globally](#removing-a-rule-globally)
+    + [Ignoring a rule throughout a document](#ignoring-a-rule-throughout-a-document)
+    + [Ignoring a specific instance of a rule](#ignoring-a-specific-instance-of-a-rule)
+    + [Ignoring all warnings/errors within a block of text](#ignoring-all-warningserrors-within-a-block-of-text)
+- [Sample Document](#sample-document)
+- [Spell-checker Error Messages](#spell-checker-error-messages)j
 
 
 Prerequisites
--------------
+=============
 
-### Requirements
+The validator has been tested against [DITA-OT 3.0.x](http://www.dita-ot.org/download). It is recommended that you upgrade to the latest version. Running the validator plug-in against DITA-OT 1.8.5 or earlier versions of DITA-OT will not work as it uses the newer `getVariable` template. To work with DITA-OT 1.8.5 this would need to be refactored to use `getMessage`. The validator can be run safely against DITA-OT 2.x if the diagnostic message are removed and a `conductor.xml` is added to replace the `ant.import` statements in the `plugin.xml` - it also does not need to specially invoke the older Saxon XSLT processor.
 
-The validator has been tested against [DITA-OT 3.0.x](http://www.dita-ot.org/download). It is recommended that you upgrade to the latest version. Running the validator plug-in against DITA-OT 1.8.5 or earlier versions of DITA-OT will not work as it uses the newer `getVariable` template. To work with DITA-OT 1.8.5 this would need to be refactored to use `getMessage`. The validator can be run safely against DITA-OT 2.x - it also does not need to specially invoke the older Saxon XSLT processor.
-
-### Installing DITA-OT
+Installing DITA-OT
+------------------
 
 The spell-checker is a plug-in for the DITA open toolkit. Futhermore, it is not a stand alone plug-in as it extends the **base validator plug-in** ([`com.here.validate.svrl`](https://github.com/jason-fox/com.here.validate.svrl)).
 
@@ -51,7 +72,8 @@ The required dependencies are installed to a local Maven repository in your home
 
 The distribution ZIP file is generated under `build/distributions`.
 
-### Installing the Base Plug-in
+Installing the Base Validator Plug-in
+-------------------------------------
 
 -  Run the plug-in installation command:
 
@@ -59,7 +81,8 @@ The distribution ZIP file is generated under `build/distributions`.
 dita -install https://github.com/jason-fox/com.here.validate.svrl/archive/master.zip
 ```
 
-### Installing the Spelling and Grammar Checker Plug-in
+Installing the Spelling and Grammar Checker Plug-in
+---------------------------------------------------
 
 -  Run the plug-in installation command:
 
@@ -70,14 +93,14 @@ dita -install https://github.com/jason-fox/com.here.validate.svrl.text-rules/arc
 > The `dita` command line tool requires no additional configuration.
 
 Usage
------
+=====
 
-
-### Spell-checking a document from the command line
+Spell-checking a document from the command line
+-----------------------------------------------
 
 A test document can be found within the plug-in at: `PATH_TO_DITA_OT/plugins/com.here.validate.svrl.text-rules/sample`
 
-#### Creating an SVRL file
+### Creating an SVRL file
 
 To create an SVRL file with the spell-checker plug-in use the `text-rules` transform.
 
@@ -115,7 +138,7 @@ Seperate accommodation can be found within the main building..</diagnostic-refer
 </svrl:schematron-output>
 ```
 
-#### Echoing results to the command line
+### Echoing results to the command line
 
 To echo results to the command line with the spell-checker plug-in use the `text-rules-echo` transform.
 
@@ -159,9 +182,25 @@ Once the command has run spelling mistakes will have been removed from the docum
 
 > *Note:* The auto-correct `transtype` only removes spelling, duplicate and grammar errors specified in the dictionary files
 
+### Parameter Reference
 
-###	Spell-checking a document from the using ANT
 
+- `args.validate.ignore.rules` - Comma separated list of rule IDs to be ignored
+- `args.validate.blacklist` - Comma separated list of words that should not be present in the running text
+- `args.validate.cachefile` - Specifies the location of cache file to be used. Validation will only run across altered files if this parameter is present
+- `args.validate.check.case` - Comma separated list of words which have a specified capitalization
+- `args.validate.color` - When set, errors and warnings are Output highlighted using ANSI color codes
+- `args.validate.mode` - Validation reporting mode. The following values are supported:
+	- `strict`	- Outputs both warnings and errors. Fails on errors and warnings.
+	- `default` - Outputs both warnings and errors. Fails on errors only
+	- `lax`		- Ignores all warnings and outputs errors only. Fails on Errors only
+- `svrl.customization.dir` - Specifies the customization directory
+- `svrl.filter.file` - Specifies the location of the XSL file used to filter the echo output. If this parameter is not present, the default echo output format will be used.
+- `text-rules.ruleset.file` - Specifies severity of the rules to apply. If this parameter is not present, default severity levels will be used.
+
+
+Spell-checking a document from the using ANT
+--------------------------------------------
 
 An ANT build file is supplied in the same directory as the sample document. The main target can be seen below:
 
@@ -193,26 +232,11 @@ An ANT build file is supplied in the same directory as the sample document. The 
 ```
 
 
-### Parameter Reference
-
-
-- `args.validate.ignore.rules` - Comma separated list of rule IDs to be ignored
-- `args.validate.blacklist` - Comma separated list of words that should not be present in the running text
-- `args.validate.cachefile` - Specifies the location of cache file to be used. Validation will only run across altered files if this parameter is present
-- `args.validate.check.case` - Comma separated list of words which have a specified capitalization
-- `args.validate.color` - When set, errors and warnings are Output highlighted using ANSI color codes
-- `args.validate.mode` - Validation reporting mode. The following values are supported:
-	- `strict`	- Outputs both warnings and errors. Fails on errors and warnings.
-	- `default` - Outputs both warnings and errors. Fails on errors only
-	- `lax`		- Ignores all warnings and outputs errors only. Fails on Errors only
-- `svrl.customization.dir` - Specifies the customization directory
-- `svrl.filter.file` - Specifies the location of the XSL file used to filter the echo output. If this parameter is not present, the default echo output format will be used.
-- `text-rules.ruleset.file` - Specifies severity of the rules to apply. If this parameter is not present, default severity levels will be used.
-
 Configuring the plug-in
------------------------
+=======================
 
-### Internationalization
+Internationalization
+--------------------
 
 The spelling and grammar checker currently supports three languages:
 
@@ -229,8 +253,8 @@ Grammar and punctuation lists have only been supplied for `en`.
 
 Additional languages can be added by creating a new language folder and files under `cfg/dictionary`
 
-
-### Adding new mis-spellings to the plug-in
+Adding new mis-spellings to the plug-in
+---------------------------------------
 
 The list of misspelt words to check when spell-checking can be altered by amending entries in the xml files under `cfg/dictionary`. The plug-in recognizes four types of errors:
 
@@ -258,7 +282,8 @@ Each entry takes the form of a pair
 ```
 
 
-### Altering the severity of a validator rule
+Altering the severity of a validator rule
+-----------------------------------------
 
 The severity of a validator rule can be altered by amending entries in the `cfg/ruleset/default.xml`  file The plug-in supports four severity levels:
 
@@ -274,15 +299,14 @@ A custom ruleset file can be passed into the plug-in using the `text-rules.rules
 PATH_TO_DITA_OT/bin/dita -f text-rules-echo -i document.ditamap --text-rules.ruleset.file=PATH_TO_CUSTOM/ruleset.xml
 ```
 
+Ignoring Validator Rules
+------------------------
 
-
-### Ignoring validator Rules
-
-#### Removing a rule globally
+### Removing a rule globally
 
 Rules can be made inactive by altering the severity (see above).  Alternatively a rule can be commented out in the XSL configuration file.
 
-#### Ignoring a rule throughout a document
+### Ignoring a rule throughout a document
 
 Individual rules can be ignored by passing the `args.validate.ignore.rules` parameter to the command line. The value of the parameter should be a comma-delimited list of each `rule-id` to ignore.
 
@@ -292,8 +316,7 @@ For example to ignore the `latin-abbreviation` validation rule within a document
 PATH_TO_DITA_OT/dita -f text-rules-echo -i document.ditamap -Dargs.validate.ignore.rules=latin-abbreviation
 ```
 
-
-#### Ignoring a specific instance of a rule
+### Ignoring a specific instance of a rule
 
 Specific instances of a rule can be ignored by adding a comment within the `*.dita` file. The comment should start with `ignore-rule` and needs to be added at the location where the error is flagged.
 
@@ -307,7 +330,7 @@ Specific instances of a rule can be ignored by adding a comment within the `*.di
 </p>
 ```
 
-#### Ignoring all warnings/errors within a block of text
+### Ignoring all warnings/errors within a block of text
 
 * A block of DITA can be excluded from firing all rules at **WARNING** level by adding the comment `ignore-all-warnings` to the block. 
 
@@ -317,7 +340,7 @@ Specific instances of a rule can be ignored by adding a comment within the `*.di
 
 
 Sample Document
----------------
+===============
 
 A sample document can be found within the plug-in which can used to test plug-in rules. The document covers both positive and negative test cases. The sample document contains valid DITA which can be built as an HTML or as a PDF document - please use the `html` or `pdf` transform to read the contents or examine the `*.dita` files directly.
 
@@ -330,7 +353,7 @@ The `<topic>` files are sorted as follows:
 
 
 Spell-checker Error Messages
-----------------------------
+============================
 
 The following table list the spell-checker error messages by message ID.
 
