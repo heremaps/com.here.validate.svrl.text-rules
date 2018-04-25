@@ -15,9 +15,7 @@
 		Runs a simple find and replace regex over errors that have been discovered.
 	-->
 	<target name="auto-correct">
-		<dita-ot-echo id="SVRL002I">
-			<param name="1" value="Auto correcting document"/>
-  		</dita-ot-echo>
+		<svrl-log id="SVRL002I" level="info" message="Auto correcting document"/>
 
 		<tempfile destdir="${dita.temp.dir}" property="auto-correct.xml" suffix=".xml" deleteonexit="true"/>
 		<xslt basedir="${svrl.dir}" style="${dita.plugin.com.here.validate.svrl.text-rules.dir}/xsl/auto-correct-output.xsl" in="${output.dir}/${svrl.filename.root}.svrl" out="${auto-correct.xml}" classpathref="dost.class.path">
@@ -67,9 +65,7 @@
 		a custom plug-in wishes to integrate this as a processing step.
 	-->
 	<target name="text-rules">
-		<dita-ot-echo id="SVRL002I">
-			<param name="1" value="Proofreading and spell-checking document"/>
-  		</dita-ot-echo>
+		<svrl-log id="SVRL002I" level="info" message="Proofreading and spell-checking document"/>
 
 		<property name="text-rules.auto-correct" value="false"/>
 

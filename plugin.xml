@@ -41,6 +41,7 @@
 
 
 
-	<feature extension="ant.import" file="build_dita2text-rules.xml"/>
+	<!--feature extension="ant.import" file="build_dita2text-rules.xml"/-->
+	<feature extension="dita.conductor.target.relative" file="conductor.xml"/>
 	<template file="build_dita2text-rules_template.xml"/>
 </plugin>
