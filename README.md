@@ -3,10 +3,6 @@
 Spelling and Grammar Checker Plug-in for DITA-OT
 ================================================
 
-Copyright (c) 2018 HERE Europe B.V.
-
-See the [LICENSE](LICENSE) file in the root of this project for license details.
-
 [![DITA-OT 3.0](https://img.shields.io/badge/DITA--OT-3.0-blue.svg)](http://www.dita-ot.org/3.0/)
 [![DITA-OT 2.5](https://img.shields.io/badge/DITA--OT-2.5-green.svg)](http://www.dita-ot.org/2.5/)
 [![Build Status](https://travis-ci.org/jason-fox/com.here.validate.svrl.text-rules.svg?branch=master)](https://travis-ci.org/jason-fox/com.here.validate.svrl.text-rules)
@@ -24,10 +20,10 @@ More information about `SVRL` can be found at [www.schematron.com](http://www.sc
 
 Most of the spell-checking rules are based on a list of [known typographical errors and faults](https://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings), and the ruleset can be easily altered to include new constraints. Checking against a list of known errors means that no false positives should occur, but the existing list will never be fully comprehensive.
 
-Contents
-========
+Table of Contents
+=================
 
-- [Prerequisites](#prerequisites)
+- [Install](#install)
   * [Installing DITA-OT](#installing-dita-ot)
   * [Installing the Base Validator Plug-in](#installing-the-base-validator-plug-in)
   * [Installing the Spelling and Grammar Checker Plug-in](#installing-the-spelling-and-grammar-checker-plug-in)
@@ -49,10 +45,12 @@ Contents
     + [Ignoring all warnings/errors within a block of text](#ignoring-all-warningserrors-within-a-block-of-text)
 - [Sample Document](#sample-document)
 - [Spell-checker Error Messages](#spell-checker-error-messages)
+- [Contribute](#contribute)
+- [License](#license)
 
 
-Prerequisites
-=============
+Install
+=======
 
 The validator has been tested against [DITA-OT 3.0.x](http://www.dita-ot.org/download). It is recommended that you upgrade to the latest version. Running the validator plug-in against DITA-OT 1.8.5 or earlier versions of DITA-OT will not work as it uses the newer `getVariable` template. To work with DITA-OT 1.8.5 this would need to be refactored to use `getMessage`. The validator can also be run safely against DITA-OT 2.x.
 
@@ -374,3 +372,15 @@ The following table list the spell-checker error messages by message ID.
 |sentence-capitalization|The run on sentence in the following text does not start with a capital letter|The indicated sentence is not punctuated correctly. Fix the punctuation.|
 |split-inifinitive|The phrase '\{phrase\}' is written using a split-infinitive in the following text:|The indicated sentence includes a split-infinitive, which is considered poor grammatical style - consider rephrasing the sentence. |
 |where-not-were|The word 'were' has been used to start a subordinate clause in the following text:|The indicated sentence does not make sense. Rewrite the phrase using the correct grammar.|
+
+Contribute
+==========
+
+PRs accepted.
+
+License
+=======
+
+[Apache 2.0](LICENSE) © 2018 HERE Europe B.V.
+
+See the [LICENSE](LICENSE) file in the root of this project for license details.
