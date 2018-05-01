@@ -3,7 +3,7 @@
 	This file is part of the Spelling and Grammar Checker project.
 	See the accompanying LICENSE file for applicable licenses.
 -->
-<xsl:stylesheet version="2.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<!--
 		Additional English Grammar Rules.
 	-->
