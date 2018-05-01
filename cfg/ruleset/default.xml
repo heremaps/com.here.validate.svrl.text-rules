@@ -9,7 +9,6 @@
 	</level>
 	<level id="error">
 		<!-- Error rules will fail validation (can be overriden)-->
-
 		<rule>duplicated-punctuation</rule>
 		<rule>duplicated-words</rule>
 		<rule>incorrect-capitalization</rule>
@@ -18,7 +17,7 @@
 		<rule>incorrect-spelling</rule>
 	</level>
 	<level id="warning">
-		 <!-- Warning rules will display a warning on validation (can be overriden)-->
+		<!-- Warning rules will display a warning on validation (can be overriden)-->
 		<rule>a-followed-by-vowel</rule>
 		<rule>an-followed-by-consonant</rule>
 		<rule>latin-abbreviation</rule>

@@ -7100,8 +7100,6 @@
 		<mistake>genialia</mistake>
 		<corrected>genitalia</corrected>
 	</entry>
-
-
 	<entry>
 		<mistake>geo coordinates</mistake>
 		<corrected>geocoordinates</corrected>
@@ -17198,8 +17196,7 @@
 		<mistake>zeebra</mistake>
 		<corrected>zebra</corrected>
 	</entry>
-
-<!--
+	<!--
 		Additional technical entries found within our own documentation.
 	 -->
 	<entry>

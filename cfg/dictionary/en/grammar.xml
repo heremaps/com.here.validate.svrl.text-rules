@@ -5002,7 +5002,7 @@
 		<corrected>rein in</corrected>
 	</entry>
 	<entry>
-		<mistake>"reigned in"</mistake>
+		<mistake>&quot;reigned in&quot;</mistake>
 		<corrected>reined in</corrected>
 	</entry>
 	<entry>
@@ -7618,7 +7618,6 @@ the absent of</mistake>
 		<mistake>younger then</mistake>
 		<corrected>younger than</corrected>
 	</entry>
-
 	<!--
 		Common Contractions in English.
 	-->

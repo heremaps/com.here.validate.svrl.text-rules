@@ -6,11 +6,11 @@
 <entries>
 	<entry>
 		<mistake>«</mistake>
-		<corrected>"</corrected>
+		<corrected>&quot;</corrected>
 	</entry>
 	<entry>
 		<mistake>»</mistake>
-		<corrected>"</corrected>
+		<corrected>&quot;</corrected>
 	</entry>
 	<entry>
 		<mistake>‘</mistake>
@@ -30,26 +30,26 @@
 	</entry>
 	<entry>
 		<mistake>“</mistake>
-		<corrected>"</corrected>
+		<corrected>&quot;</corrected>
 	</entry>
 	<entry>
 		<mistake>”</mistake>
-		<corrected>"</corrected>
+		<corrected>&quot;</corrected>
 	</entry>
 	<entry>
 		<mistake>„</mistake>
-		<corrected>"</corrected>
+		<corrected>&quot;</corrected>
 	</entry>
 	<entry>
 		<mistake>‟</mistake>
-		<corrected>"</corrected>
+		<corrected>&quot;</corrected>
 	</entry>
 	<entry>
 		<mistake>‹</mistake>
-		<corrected>"</corrected>
+		<corrected>&quot;</corrected>
 	</entry>
 	<entry>
 		<mistake>›</mistake>
-		<corrected>"</corrected>
+		<corrected>&quot;</corrected>
 	</entry>
 </entries>

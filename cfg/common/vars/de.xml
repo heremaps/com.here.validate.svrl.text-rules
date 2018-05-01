@@ -4,16 +4,37 @@
 	See the accompanying LICENSE file for applicable licenses.
 -->
 <vars>
-	<variable id="a-followed-by-vowel">Ersetzen Sie 'a' durch 'an' im folgenden Englischen Text, falls angebracht: &#xA;&#xA;PARAM1.</variable>
-	<variable id="an-followed-by-consonant">Ersetzen Sie 'an' durch 'a' im folgenden Englischen Text, falls angebracht: &#xA;&#xA;PARAM1.</variable>
-	<variable id="duplicated-words">Das Wort 'PARAM1' ist dupliziert ('PARAM2') im folgenden Text, falls angebracht: &#xA;&#xA;PARAM3.</variable>
-	<variable id="duplicated-punctuation">Das Zeichen PARAM1 ist dupliziert (PARAM2) im folgenden Text, falls angebracht: &#xA;&#xA;PARAM3.</variable>
-	<variable id="incorrect-grammar">Die Phrase 'PARAM1' ist falsch geschrieben ('PARAM2') im folgenden Text, falls angebracht: &#xA;&#xA;PARAM3.</variable>
-	<variable id="incorrect-punctuation">Das Zeichen PARAM1 ist falsch geschrieben (PARAM2) im folgenden Text, falls angebracht: &#xA;&#xA;PARAM3.</variable>
-	<variable id="incorrect-spelling">Das Wort 'PARAM1' ist falsch geschrieben ('PARAM2') in folgendem Text: &#xA;&#xA;PARAM3.</variable>
-	 <variable id="latin-abbreviation">Dieses &lt;@NAME&gt; Element enthält eine Abkürzung auf Lateinisch. &#xA;&#xA;PARAM1</variable>
-	<variable id="sentence-capitalization">Dieses &lt;@NAME&gt; Element enthält einen Satz, der nicht mit einem Großbuchstaben beginnt. &#xA;&#xA;PARAM1</variable>
-	 <variable id="split-infinitive">Dieses &lt;@NAME&gt; Element enthält einen Satz mit einem getrennter Infinitiv. Sie könnten dies korrigieren wollen. &#xA;&#xA;PARAM1</variable>
-	<variable id="where-not-were">Dieses &lt;@NAME&gt; Element enthält einen Nebensatz mit dem Wort 'were', das wahrscheinlich stattdessen 'where' lauten sollte. &#xA;&#xA;PARAM1</variable>
+	<variable id="a-followed-by-vowel">Ersetzen Sie 'a' durch 'an' im folgenden Englischen Text, falls angebracht: 
 
+PARAM1.</variable>
+	<variable id="an-followed-by-consonant">Ersetzen Sie 'an' durch 'a' im folgenden Englischen Text, falls angebracht: 
+
+PARAM1.</variable>
+	<variable id="duplicated-words">Das Wort 'PARAM1' ist dupliziert ('PARAM2') im folgenden Text, falls angebracht: 
+
+PARAM3.</variable>
+	<variable id="duplicated-punctuation">Das Zeichen PARAM1 ist dupliziert (PARAM2) im folgenden Text, falls angebracht: 
+
+PARAM3.</variable>
+	<variable id="incorrect-grammar">Die Phrase 'PARAM1' ist falsch geschrieben ('PARAM2') im folgenden Text, falls angebracht: 
+
+PARAM3.</variable>
+	<variable id="incorrect-punctuation">Das Zeichen PARAM1 ist falsch geschrieben (PARAM2) im folgenden Text, falls angebracht: 
+
+PARAM3.</variable>
+	<variable id="incorrect-spelling">Das Wort 'PARAM1' ist falsch geschrieben ('PARAM2') in folgendem Text: 
+
+PARAM3.</variable>
+	<variable id="latin-abbreviation">Dieses &lt;@NAME&gt; Element enthält eine Abkürzung auf Lateinisch. 
+
+PARAM1</variable>
+	<variable id="sentence-capitalization">Dieses &lt;@NAME&gt; Element enthält einen Satz, der nicht mit einem Großbuchstaben beginnt. 
+
+PARAM1</variable>
+	<variable id="split-infinitive">Dieses &lt;@NAME&gt; Element enthält einen Satz mit einem getrennter Infinitiv. Sie könnten dies korrigieren wollen. 
+
+PARAM1</variable>
+	<variable id="where-not-were">Dieses &lt;@NAME&gt; Element enthält einen Nebensatz mit dem Wort 'were', das wahrscheinlich stattdessen 'where' lauten sollte. 
+
+PARAM1</variable>
 </vars>
