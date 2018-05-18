@@ -1,30 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
 <svrl:schematron-output xmlns:svrl="http://purl.oclc.org/dsdl/svrl">
-  <active-pattern name="common-rules" role="grammar">
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-  </active-pattern>
-  <active-pattern name="english-grammar" role="grammar">
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <failed-assert location="/a-followed-by-vowel.dita" role="warning">
-      <diagnostic-reference diagnostic="a-followed-by-vowel">Line 17: p - [a-followed-by-vowel] 
+  <failed-assert location="/topic/body[1]/section[2]/p[1]" role="warning">
+    <diagnostic-reference diagnostic="a-followed-by-vowel">Line 17: p - [a-followed-by-vowel] 
 In the following text, change 'a' to 'an' where appropriate:
 
 a ant.</diagnostic-reference>
-    </failed-assert>
-  </active-pattern>
+  </failed-assert>
 </svrl:schematron-output>
 

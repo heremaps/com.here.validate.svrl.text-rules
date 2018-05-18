@@ -1,30 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
 <svrl:schematron-output xmlns:svrl="http://purl.oclc.org/dsdl/svrl">
-  <active-pattern name="common-rules" role="grammar">
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <failed-assert location="/latin-abbreviation.dita" role="warning">
-      <diagnostic-reference diagnostic="latin-abbreviation">Line 17: p - [latin-abbreviation] 
+  <failed-assert location="/topic/body[1]/section[2]/p[1]" role="warning">
+    <diagnostic-reference diagnostic="latin-abbreviation">Line 17: p - [latin-abbreviation] 
 This &lt;p&gt; element contains a latinate abbreviation (i.e, e.g). Consider removing it. 
 
 e.g. don't write accronyms i.e. latinisms.</diagnostic-reference>
-    </failed-assert>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-  </active-pattern>
-  <active-pattern name="english-grammar" role="grammar">
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-  </active-pattern>
+  </failed-assert>
 </svrl:schematron-output>
 

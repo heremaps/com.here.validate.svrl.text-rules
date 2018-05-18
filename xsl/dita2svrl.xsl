@@ -36,6 +36,7 @@
 	<xsl:template match="/">
 		<!--SCHEMA SETUP-->
 		<schematron-output schemaVersion="1.5" title="DITA text-rules Validation" xmlns:svrl="http://purl.oclc.org/dsdl/svrl">
+			<xsl:call-template name="active-pattern"/> 
 			<xsl:apply-templates mode="common-pattern"/>
 		</schematron-output>
 	</xsl:template>

@@ -1,30 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
 <svrl:schematron-output xmlns:svrl="http://purl.oclc.org/dsdl/svrl">
-  <active-pattern name="common-rules" role="grammar">
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-  </active-pattern>
-  <active-pattern name="english-grammar" role="grammar">
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <fired-rule context="p"></fired-rule>
-    <failed-assert location="/split-infinitive.dita" role="warning">
-      <diagnostic-reference diagnostic="split-infinitive">Line 18: p - [split-infinitive] 
+  <failed-assert location="/topic/body[1]/section[2]/p[1]" role="warning">
+    <diagnostic-reference diagnostic="split-infinitive">Line 18: p - [split-infinitive] 
 This &lt;p&gt; element contains a sentence with a split infinitive. You may wish to correct this. 
 
 We will need to boldly go forth into the wild frontier.</diagnostic-reference>
-    </failed-assert>
-  </active-pattern>
+  </failed-assert>
 </svrl:schematron-output>
 

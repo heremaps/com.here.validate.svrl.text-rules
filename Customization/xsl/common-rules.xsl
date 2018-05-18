@@ -8,26 +8,40 @@
 	<xsl:variable as="xs:boolean" name="INCLUDE_META" select="$AUTO_CORRECT='true'"/>
 	<!-- Apply Rules which apply to all nodes  -->
 	<xsl:template match="*" mode="common-pattern">
-		<active-pattern name="common-rules" role="grammar">
-			<!--
-				The following rules apply to all text regardless of language.
-			-->
-			<xsl:apply-templates mode="common-grammar-rules" select="//*[self::p or self::li or self::entry][text()]"/>
-			<xsl:apply-templates mode="common-textual-rules" select="//*[self::p or self::li or self::entry][text()]"/>
-			<!--
-				The following rules apply to the default language only.
-			-->
-			<xsl:if test="(not(@xml:lang or ancestor::*[@xml:lang]/@xml:lang) or ((starts-with(@xml:lang,'$LANGUAGE_CODE'))  or (starts-with(ancestor::*[@xml:lang]/@xml:lang,'$LANGUAGE_CODE'))) )">
-				<xsl:apply-templates mode="default-lang-spelling-rules" select="//*[self::p or self::li or self::entry][text()]"/>
-				<xsl:apply-templates mode="default-lang-grammar-rules" select="//*[self::p or self::li or self::entry][text()]"/>
-			</xsl:if>
-		</active-pattern>
+		<xsl:call-template name="fired-rule">
+			<xsl:with-param name="context">common</xsl:with-param>
+			<xsl:with-param name="role">grammar</xsl:with-param>
+		</xsl:call-template>
+		<!--
+			The following rules apply to all text regardless of language.
+		-->
+		<xsl:apply-templates mode="common-grammar-rules" select="//*[self::p or self::li or self::entry][text()]"/>
+		<xsl:apply-templates mode="common-textual-rules" select="//*[self::p or self::li or self::entry][text()]"/>
+		<!--
+			The following rules apply to the default language only.
+		-->
+		<xsl:if test="(not(@xml:lang or ancestor::*[@xml:lang]/@xml:lang) or ((starts-with(@xml:lang,'$LANGUAGE_CODE'))  or (starts-with(ancestor::*[@xml:lang]/@xml:lang,'$LANGUAGE_CODE'))) )">
+			<xsl:call-template name="fired-rule">
+				<xsl:with-param name="context">default-lang</xsl:with-param>
+				<xsl:with-param name="role">spelling</xsl:with-param>
+			</xsl:call-template>
+			<xsl:apply-templates mode="default-lang-spelling-rules" select="//*[self::p or self::li or self::entry][text()]"/>
+			
+			<xsl:call-template name="fired-rule">
+				<xsl:with-param name="context">default-lang</xsl:with-param>
+				<xsl:with-param name="role">grammar</xsl:with-param>
+			</xsl:call-template>
+			<xsl:apply-templates mode="default-lang-grammar-rules" select="//*[self::p or self::li or self::entry][text()]"/>
+		</xsl:if>
+
 		<!-- The following additional rules apply to the English language only -->
 		<xsl:if test="$LANGUAGE_CODE='en'">
 			<xsl:if test="(not(@xml:lang or ancestor::*[@xml:lang]/@xml:lang) or ((starts-with(@xml:lang,'en'))  or (starts-with(ancestor::*[@xml:lang]/@xml:lang,'en'))) )">
-				<active-pattern name="english-grammar" role="grammar">
-					<xsl:apply-templates mode="english-grammar-rules" select="//*[self::p or self::li or self::entry][text()]"/>
-				</active-pattern>
+				<xsl:call-template name="fired-rule">
+					<xsl:with-param name="context">english</xsl:with-param>
+					<xsl:with-param name="role">grammar</xsl:with-param>
+				</xsl:call-template>
+				<xsl:apply-templates mode="english-grammar-rules" select="//*[self::p or self::li or self::entry][text()]"/>
 			</xsl:if>
 		</xsl:if>
 	</xsl:template>
@@ -35,7 +49,6 @@
 		Common DITA Grammar Rules - Typographic errors within the running text
 	-->
 	<xsl:template match="*[not((.//p) or (.//entry) or (.//codeph) or (.//li))]" mode="common-grammar-rules">
-		<xsl:call-template name="fired-rule"/>
 		<!-- Running text checks - ignore text within a codeblock or draft-comment -->
 		<xsl:variable name="running-text">
 			<xsl:choose>
@@ -100,7 +113,6 @@
 		<xsl:value-of select="concat('/', 'duplicates.xml')"/>
 	</xsl:variable>
 	<xsl:template match="*[not(self::codeblock or ancestor::codeblock)]" mode="default-lang-spelling-rules">
-		<xsl:call-template name="fired-rule"/>
 		<!-- Running text checks-->
 		<xsl:variable name="running-text">
 			<xsl:value-of select="text()"/>
@@ -142,7 +154,6 @@
 		<xsl:value-of select="concat('/', 'punctuation.xml')"/>
 	</xsl:variable>
 	<xsl:template match="*[not((.//p) or (.//entry) or (.//codeph) or (.//li))]" mode="default-lang-grammar-rules">
-		<xsl:call-template name="fired-rule"/>
 		<!-- Running text checks - ignore text within a codeblock or draft-comment -->
 		<xsl:variable name="running-text">
 			<xsl:choose>

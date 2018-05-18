@@ -8,7 +8,6 @@
 		Additional English Grammar Rules.
 	-->
 	<xsl:template match="*[not((.//p) or (.//entry) or (.//codeph) or (.//li))]" mode="english-grammar-rules">
-		<xsl:call-template name="fired-rule"/>
 		<!-- Running text checks - ignore text within a codeblock or draft-comment -->
 		<xsl:variable name="running-text">
 			<xsl:choose>
