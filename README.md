@@ -122,18 +122,19 @@ Once the command has run, an `SVRL` file is created:
 ```xml
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <svrl:schematron-output>
-<active-pattern xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot"
-                   name="grammar-and-spelling"
-                   role="content">
-      <fired-rule context="p"/>
-      <fired-rule context="p"/>
-      <fired-rule context="p"/>
-      <failed-assert location="/incorrect-spelling.dita" role="error">
-         <diagnostic-reference diagnostic="incorrect-spelling">Line 17: p - [incorrect-grammar]
-The phrase 'separate' is written incorrectly ('seperate') in the following text:
-Seperate accommodation can be found within the main building..</diagnostic-reference>
-      </failed-assert>
-		</active-pattern>
+	<active-pattern role="dita" name="/incorrect-spelling.dita"/>
+	<fired-rule context="common" role="grammar"/>
+	<fired-rule context="default-lang" role="spelling"/>
+	<failed-assert role="error" location="/topic/body[1]/section[2]/p[1]">
+		<diagnostic-reference diagnostic="incorrect-spelling">
+			Line 17: p - [incorrect-spelling] 
+			The word 'separate' is spelt incorrectly ('seperate') in the following text: 
+
+			Seperate accommodation can be found within the main building...
+		</diagnostic-reference>
+	</failed-assert>
+	<fired-rule context="default-lang" role="grammar"/>
+	<fired-rule context="english" role="grammar"/>
 </svrl:schematron-output>
 ```
 
