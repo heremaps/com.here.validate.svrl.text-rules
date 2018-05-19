@@ -7,7 +7,7 @@
 	<!--
 		Define package details.
 	-->
-	<feature extension="package.version" value="1.1.0"/>
+	<feature extension="package.version" value="2.0.0"/>
 
 		<!--
 		This plugin is based on and 'extends' the plugin named below.
@@ -21,25 +21,32 @@
 	-->
 	<feature extension="dita.conductor.transtype.check" value="auto-correct"/>
 	<feature extension="dita.conductor.transtype.check" value="text-rules"/>
-	<feature extension="dita.conductor.transtype.check" value="text-rules-echo"/>
 	<feature extension="dita.xsl.strings" file="cfg/common/vars/strings.xml"/>
 
 
 	<!-- Transtype definitions -->
 	<transtype name="auto-correct" abstract="false" extends="svrl"
 		 desc="DITA Spelling auto-correction">
+		<param desc="Whether to colorize the validation output" name="args.validate.color" type="enum">
+			<val default="true" desc="Output highlights errors and warnings using ANSI color codes">true</val>
+			<val desc="Output does not highlight errors and warnings">false</val>
+		</param>
 		<param name="text-rules.ruleset.file" desc="Specifies the ruleset file to use." type="file"/>
 	</transtype>
 	<transtype name="text-rules" abstract="false" extends="svrl"
 		 desc="DITA Spelling and grammar checking">
+		<param desc="Validation Mode" name="args.validate.mode" type="enum">
+			<val desc="Outputs errors and warnings. Fails on errors and warnings.">strict</val>
+			<val default="true" desc="Outputs errors and warnings. Fails on errors only">default</val>
+			<val desc="Outputs errors only. Fails on Errors only">lax</val>
+			<val desc="SVRL Report only. Never fail">report</val>
+		</param>
+		<param desc="Whether to colorize the validation output" name="args.validate.color" type="enum">
+			<val default="true" desc="Output highlights errors and warnings using ANSI color codes">true</val>
+			<val desc="Output does not highlight errors and warnings">false</val>
+		</param>
 		<param name="text-rules.ruleset.file" desc="Specifies the ruleset file to use." type="file"/>
 	</transtype>
-	<transtype name="text-rules-echo" abstract="false" extends="svrl-echo"
-		 desc="DITA Spelling and grammar checking and echoes the results to Standard output (stdout)">
-		<param name="text-rules.ruleset.file" desc="Specifies the ruleset file to use." type="file"/>
-	</transtype>
-
-
 
 	<!--feature extension="ant.import" file="build_dita2text-rules.xml"/-->
 	<feature extension="dita.conductor.target.relative" file="conductor.xml"/>

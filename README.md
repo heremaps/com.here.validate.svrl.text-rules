@@ -101,20 +101,15 @@ A test document can be found within the plug-in at: `PATH_TO_DITA_OT/plugins/com
 
 ### Creating an SVRL file
 
-To create an SVRL file with the spell-checker plug-in use the `text-rules` transform.
+To create an SVRL file with the spell-checker plug-in use the `text-rules` transform  with the `--args.validate.mode=report` parameter.
 
 -  From a terminal prompt move to the directory holding the document to validate
 
--  Clean the output directory (named "`out`" in the examples below), to ensure that the result from an old validation run is not present.
-
-```console
-rm -rf ./out
-```
 
 -  SVRL file creation can be run like any other DITA-OT transform:
 
 ```console
-PATH_TO_DITA_OT/bin/dita -f text-rules -o out -i document.ditamap
+PATH_TO_DITA_OT/bin/dita -f text-rules -o out -i document.ditamap --args.validate.mode=report
 ```
 
 Once the command has run, an `SVRL` file is created:
@@ -140,12 +135,12 @@ Once the command has run, an `SVRL` file is created:
 
 ### Echoing results to the command line
 
-To echo results to the command line with the spell-checker plug-in use the `text-rules-echo` transform.
+To echo results to the command line with the spell-checker plug-in use the `text-rules` transform without specifying a `report`
 
--  Spell-checking (`text-rules-echo`) can be run like any other DITA-OT transform:
+-  Spell-checking (`text-rules`) can be run like any other DITA-OT transform:
 
 ```console
-PATH_TO_DITA_OT/bin/dita -f text-rules-echo -i document.ditamap
+PATH_TO_DITA_OT/bin/dita -f text-rules -i document.ditamap
 ```
 
 Once the command has run, all errors and warnings are echoed to the command line:
@@ -194,6 +189,7 @@ Once the command has run spelling mistakes will have been removed from the docum
 	- `strict`	- Outputs both warnings and errors. Fails on errors and warnings.
 	- `default` - Outputs both warnings and errors. Fails on errors only
 	- `lax`		- Ignores all warnings and outputs errors only. Fails on Errors only
+	- `report`  - Creates an SVRL file
 - `svrl.customization.dir` - Specifies the customization directory
 - `svrl.filter.file` - Specifies the location of the XSL file used to filter the echo output. If this parameter is not present, the default echo output format will be used.
 - `text-rules.ruleset.file` - Specifies severity of the rules to apply. If this parameter is not present, default severity levels will be used.
