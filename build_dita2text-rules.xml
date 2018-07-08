@@ -113,13 +113,7 @@
 	<!--
 		ANT target executed to create an SVRL file holding a list of spelling errors
 	-->
-	<target name="dita2text-rules" depends="text-rules.init, text-rules, svrl-merge"/>
-
-	<!--
-		ANT target executed when the echo transtype is invoked. This echoes the spelling
-		mistakes to the standard output and fails the build if errors have been found.
-	-->
-	<target name="dita2text-rules-echo" depends="dita2text-rules, svrl-filter"/>
+	<target name="dita2text-rules" depends="text-rules.init, text-rules, svrl-merge, svrl-filter"/>
 
 	<!--
 		ANT target executed to remove spelling errors from a document.
