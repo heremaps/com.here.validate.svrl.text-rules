@@ -7,7 +7,7 @@
 	<!--
 		Define package details.
 	-->
-	<feature extension="package.version" value="2.0.1"/>
+	<feature extension="package.version" value="2.0.2"/>
 
 		<!--
 		This plugin is based on and 'extends' the plugin named below.
